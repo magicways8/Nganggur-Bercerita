@@ -1,0 +1,1031 @@
+# Bonus 5
+## AI Video Affiliate Prompt Pack
+
+AI Video Affiliate Prompt Pack ini dibuat untuk membantumu menyusun konsep video affiliate dengan lebih cepat dan terarah.
+
+Berbeda dengan Prompt AI Pack sebelumnya yang lebih luas, bagian ini fokus pada produksi video.
+
+Kamu bisa memakai prompt ini untuk membantu membuat:
+
+- konsep video
+- shot list
+- storyboard
+- voiceover
+- text on screen
+- video tanpa wajah
+- video demo produk
+- video before-after
+- video edukatif
+- script live pendek
+- visual AI
+- avatar AI
+- dan audit etika sebelum upload
+
+Namun, ada satu prinsip penting:
+
+AI boleh membantu produksi konten, tapi jangan dipakai untuk menyesatkan pembeli.
+
+Jangan gunakan AI untuk membuat review palsu, testimoni palsu, visual produk yang tidak sesuai kenyataan, hasil before-after palsu, atau tokoh tertentu seolah-olah mendukung produk.
+
+Kalau memakai elemen AI yang realistis, perhatikan aturan label atau pengungkapan AI sesuai kebijakan platform yang berlaku.
+
+---
+
+## Cara Menggunakan Prompt Pack Ini
+
+Gunakan prompt yang sesuai dengan kebutuhanmu.
+
+Ganti bagian dalam tanda kurung siku dengan informasi produkmu.
+
+Contoh:
+
+[nama produk]
+diganti menjadi:
+rak bumbu dapur
+
+[target pembeli]
+diganti menjadi:
+orang yang punya dapur kecil
+
+[masalah pembeli]
+diganti menjadi:
+botol bumbu sering berantakan dan meja dapur terasa penuh
+
+[format video]
+diganti menjadi:
+tanpa wajah, tangan saja, voiceover, demo produk, before-after, atau slideshow foto sendiri
+
+Semakin jelas konteks yang kamu masukkan, semakin mudah AI membantu membuat konsep video yang berguna.
+
+---
+
+# Bagian 1
+## Prompt Brief Video Affiliate
+
+Gunakan prompt ini untuk membuat brief dasar video.
+
+Prompt:
+
+"Buatkan brief video TikTok Affiliate untuk produk [nama produk]. Target pembelinya [target pembeli]. Masalah utama mereka adalah [masalah pembeli]. Manfaat utama produk adalah [manfaat produk]. Format video [format video]. Durasi sekitar [15/30/45] detik. Gaya bahasa santai, jujur, dan tidak lebay. Hindari klaim berlebihan, review palsu, testimoni palsu, dan janji hasil pasti. Buat dalam format: tujuan video, hook, alur cerita, visual utama, voiceover, text on screen, CTA, dan catatan etika."
+
+Contoh:
+
+"Buatkan brief video TikTok Affiliate untuk produk rak bumbu dapur. Target pembelinya orang yang punya dapur kecil. Masalah utama mereka adalah botol bumbu sering berantakan dan meja dapur terasa penuh. Manfaat utama produk adalah membantu menyusun botol bumbu supaya sudut dapur terlihat lebih rapi. Format video tanpa wajah dan tangan saja. Durasi sekitar 30 detik. Gaya bahasa santai, jujur, dan tidak lebay. Hindari klaim berlebihan, review palsu, testimoni palsu, dan janji hasil pasti. Buat dalam format: tujuan video, hook, alur cerita, visual utama, voiceover, text on screen, CTA, dan catatan etika."
+
+---
+
+# Bagian 2
+## Prompt Storyboard Video 15 Detik
+
+Gunakan prompt ini untuk video pendek yang langsung ke inti.
+
+Prompt:
+
+"Buatkan storyboard video TikTok Affiliate 15 detik untuk produk [nama produk]. Target pembelinya [target pembeli]. Masalah utama [masalah pembeli]. Format video [tanpa wajah / tangan saja / tampil wajah / slideshow / voiceover]. Buat storyboard per adegan dengan durasi tiap adegan, visual yang ditampilkan, text on screen, voiceover, dan CTA. Pastikan konten jelas, jujur, tidak berlebihan, dan tidak menyesatkan."
+
+Contoh struktur output yang diharapkan:
+
+Adegan 1:
+Durasi:
+Visual:
+Text on screen:
+Voiceover:
+
+Adegan 2:
+Durasi:
+Visual:
+Text on screen:
+Voiceover:
+
+Adegan 3:
+Durasi:
+Visual:
+Text on screen:
+Voiceover:
+
+CTA:
+Catatan etika:
+
+---
+
+# Bagian 3
+## Prompt Storyboard Video 30 Detik
+
+Gunakan prompt ini kalau kamu ingin video sedikit lebih lengkap.
+
+Prompt:
+
+"Buatkan storyboard video TikTok Affiliate 30 detik untuk produk [nama produk]. Target pembelinya [target pembeli]. Masalah yang dibahas [masalah pembeli]. Manfaat utama [manfaat produk]. Format video [format video]. Gunakan alur: hook, masalah, produk, demo, manfaat, hal yang perlu dicek sebelum beli, CTA. Buat per adegan dengan durasi, visual, text on screen, voiceover, dan catatan produksi. Hindari klaim berlebihan, review palsu, dan visual menyesatkan."
+
+Catatan:
+
+Video 30 detik cocok untuk:
+- review jujur
+- checklist sebelum beli
+- demo produk
+- menjawab keraguan pembeli
+- before-after sederhana
+- edukasi produk
+
+---
+
+# Bagian 4
+## Prompt Video Tanpa Wajah
+
+Gunakan prompt ini kalau kamu belum percaya diri tampil wajah.
+
+Prompt:
+
+"Buatkan konsep video TikTok Affiliate tanpa wajah untuk produk [nama produk]. Target pembelinya [target pembeli]. Masalah utama [masalah pembeli]. Gunakan format tangan saja, produk close-up, text on screen, dan voiceover. Buat 5 konsep video berbeda. Setiap konsep berisi hook, urutan visual, voiceover singkat, text on screen, CTA halus, dan catatan etika."
+
+Contoh:
+
+"Buatkan konsep video TikTok Affiliate tanpa wajah untuk produk tripod HP. Target pembelinya pemula yang ingin membuat konten sendiri dari rumah. Masalah utama susah merekam video sendiri karena tidak ada yang membantu. Gunakan format tangan saja, produk close-up, text on screen, dan voiceover. Buat 5 konsep video berbeda. Setiap konsep berisi hook, urutan visual, voiceover singkat, text on screen, CTA halus, dan catatan etika."
+
+---
+
+# Bagian 5
+## Prompt Video Tangan Saja
+
+Prompt:
+
+"Buatkan shot list video TikTok Affiliate dengan format tangan saja untuk produk [nama produk]. Target pembelinya [target pembeli]. Fokus pada masalah [masalah pembeli]. Durasi [15/30] detik. Buat 6–8 shot yang mudah direkam dengan HP dari rumah. Sertakan arahan kamera, text on screen, voiceover, dan CTA. Pastikan produk terlihat jelas dan tidak ada visual yang menyesatkan."
+
+Contoh shot yang mungkin muncul:
+
+1. Tangan menunjukkan kondisi sebelum
+2. Tangan mengambil produk
+3. Tangan memakai produk
+4. Close-up detail produk
+5. Tampilkan hasil setelah dipakai
+6. Text on screen manfaat utama
+7. CTA cek detail produk
+
+---
+
+# Bagian 6
+## Prompt Video POV Produk
+
+Video POV membuat penonton merasa melihat dari sudut pandang pengguna.
+
+Prompt:
+
+"Buatkan konsep video POV untuk produk [nama produk]. Target pembelinya [target pembeli]. Masalah utama [masalah pembeli]. Buat seolah penonton melihat proses dari sudut pandang pengguna. Sertakan hook, shot list, voiceover, text on screen, CTA, dan catatan agar visual tetap jujur serta tidak menyesatkan."
+
+Contoh:
+
+"Buatkan konsep video POV untuk produk organizer kabel. Target pembelinya pekerja dari rumah yang meja kerjanya penuh kabel. Masalah utama kabel charger dan headset sering berantakan. Buat seolah penonton melihat proses dari sudut pandang pengguna. Sertakan hook, shot list, voiceover, text on screen, CTA, dan catatan agar visual tetap jujur serta tidak menyesatkan."
+
+---
+
+# Bagian 7
+## Prompt Video Before-After
+
+Prompt:
+
+"Buatkan konsep video before-after TikTok Affiliate untuk produk [nama produk]. Target pembelinya [target pembeli]. Kondisi sebelum adalah [kondisi sebelum]. Kondisi sesudah yang realistis adalah [kondisi sesudah]. Buat storyboard, text on screen, voiceover, CTA, dan catatan etika. Pastikan hasil before-after tidak berlebihan dan tidak membuat pembeli salah paham."
+
+Contoh:
+
+"Buatkan konsep video before-after TikTok Affiliate untuk produk rak bumbu dapur. Target pembelinya orang yang punya dapur kecil. Kondisi sebelum adalah botol bumbu tercecer di meja dapur. Kondisi sesudah yang realistis adalah botol bumbu tersusun lebih rapi di rak. Buat storyboard, text on screen, voiceover, CTA, dan catatan etika. Pastikan hasil before-after tidak berlebihan dan tidak membuat pembeli salah paham."
+
+Catatan:
+
+Before-after harus realistis.
+
+Jangan membuat hasil yang terlalu sempurna jika kondisi aslinya tidak seperti itu.
+
+---
+
+# Bagian 8
+## Prompt Video Demo Produk
+
+Prompt:
+
+"Buatkan konsep video demo produk TikTok Affiliate untuk [nama produk]. Target pembelinya [target pembeli]. Demo harus menunjukkan cara pakai produk secara sederhana. Buat alur video 30 detik: hook, perkenalan produk, demo langkah 1, demo langkah 2, manfaat, hal yang perlu dicek, CTA. Gunakan bahasa natural dan tidak berlebihan."
+
+Contoh:
+
+"Buatkan konsep video demo produk TikTok Affiliate untuk alat potong sayur. Target pembelinya orang yang sering masak tapi ingin persiapan lebih praktis. Demo harus menunjukkan cara pakai produk secara sederhana. Buat alur video 30 detik: hook, perkenalan produk, demo langkah 1, demo langkah 2, manfaat, hal yang perlu dicek, CTA. Gunakan bahasa natural dan tidak berlebihan."
+
+---
+
+# Bagian 9
+## Prompt Video Checklist Sebelum Beli
+
+Prompt:
+
+"Buatkan konsep video TikTok Affiliate dengan angle ‘sebelum beli, cek ini dulu’ untuk produk [nama produk]. Target pembelinya [target pembeli]. Buat 5 poin yang perlu dicek pembeli. Sertakan hook, text on screen, voiceover, urutan visual, dan CTA halus. Konten harus edukatif, tidak menakut-nakuti, dan tidak terlalu sales."
+
+Contoh:
+
+"Buatkan konsep video TikTok Affiliate dengan angle ‘sebelum beli, cek ini dulu’ untuk produk tripod HP. Target pembelinya pemula yang ingin membuat konten sendiri. Buat 5 poin yang perlu dicek pembeli. Sertakan hook, text on screen, voiceover, urutan visual, dan CTA halus. Konten harus edukatif, tidak menakut-nakuti, dan tidak terlalu sales."
+
+---
+
+# Bagian 10
+## Prompt Video Review Jujur
+
+Gunakan hanya jika kamu memang memahami atau memakai produk.
+
+Prompt:
+
+"Buatkan konsep video review jujur untuk produk [nama produk]. Target pembelinya [target pembeli]. Bahas produk ini cocok untuk siapa, manfaat utama, hal yang perlu dicek, batasan produk, dan CTA halus. Durasi sekitar 30–45 detik. Jangan membuat klaim berlebihan, jangan membuat pengalaman palsu, dan jangan terdengar terlalu sales."
+
+Catatan:
+
+Kalau kamu belum memakai produk, jangan gunakan format review personal.
+
+Gunakan format edukatif seperti:
+
+"hal yang perlu dicek sebelum membeli"
+
+atau
+
+"produk seperti ini cocok untuk siapa?"
+
+---
+
+# Bagian 11
+## Prompt Video "Cocok untuk Siapa?"
+
+Prompt:
+
+"Buatkan konsep video TikTok Affiliate dengan angle ‘produk ini cocok untuk siapa’ untuk [nama produk]. Target pembelinya [target pembeli]. Jelaskan siapa yang cocok, siapa yang mungkin kurang cocok, hal yang perlu dicek sebelum beli, dan CTA halus. Gunakan bahasa jujur, tidak memaksa, dan tidak berlebihan."
+
+Contoh:
+
+"Buatkan konsep video TikTok Affiliate dengan angle ‘produk ini cocok untuk siapa’ untuk organizer kabel. Target pembelinya mahasiswa dan pekerja dari rumah. Jelaskan siapa yang cocok, siapa yang mungkin kurang cocok, hal yang perlu dicek sebelum beli, dan CTA halus. Gunakan bahasa jujur, tidak memaksa, dan tidak berlebihan."
+
+---
+
+# Bagian 12
+## Prompt Video Menjawab Komentar
+
+Gunakan prompt ini kalau ada komentar atau pertanyaan dari penonton.
+
+Prompt:
+
+"Saya mendapat komentar penonton: [tempel komentar]. Produk yang dibahas adalah [nama produk]. Target pembeli [target pembeli]. Buatkan konsep video TikTok untuk menjawab komentar ini secara jujur dan tidak berlebihan. Sertakan hook, jawaban utama, shot list, text on screen, voiceover, CTA, dan catatan etika."
+
+Contoh:
+
+"Saya mendapat komentar penonton: ‘Ini muat buat botol bumbu tinggi nggak?’ Produk yang dibahas adalah rak bumbu dapur. Target pembeli orang yang punya dapur kecil. Buatkan konsep video TikTok untuk menjawab komentar ini secara jujur dan tidak berlebihan. Sertakan hook, jawaban utama, shot list, text on screen, voiceover, CTA, dan catatan etika."
+
+Contoh jawaban aman:
+
+"Kalau botol bumbunya tinggi, lebih aman cek ukuran rak dulu sebelum beli."
+
+---
+
+# Bagian 13
+## Prompt Video Edukatif Tanpa Review Palsu
+
+Prompt:
+
+"Buatkan 10 konsep video edukatif TikTok Affiliate tentang kategori produk [kategori produk]. Target pembelinya [target pembeli]. Konten tidak boleh mengaku sudah memakai produk dan tidak boleh membuat review palsu. Fokus pada cara memilih, hal yang perlu dicek, kesalahan umum, dan pertanyaan pembeli. Sertakan hook, angle, text on screen, dan CTA halus."
+
+Contoh:
+
+"Buatkan 10 konsep video edukatif TikTok Affiliate tentang kategori produk rak bumbu dapur. Target pembelinya orang yang punya dapur kecil. Konten tidak boleh mengaku sudah memakai produk dan tidak boleh membuat review palsu. Fokus pada cara memilih, hal yang perlu dicek, kesalahan umum, dan pertanyaan pembeli. Sertakan hook, angle, text on screen, dan CTA halus."
+
+---
+
+# Bagian 14
+## Prompt Video Slideshow Foto Sendiri
+
+Prompt:
+
+"Buatkan konsep video slideshow TikTok Affiliate menggunakan foto sendiri untuk produk [nama produk]. Target pembelinya [target pembeli]. Buat alur 6–8 slide. Setiap slide berisi visual yang perlu ditampilkan, text on screen, voiceover pendek, dan CTA akhir. Gaya bahasa santai, jujur, dan tidak berlebihan."
+
+Contoh urutan slide:
+
+Slide 1:
+Masalah
+
+Slide 2:
+Kondisi produk
+
+Slide 3:
+Detail produk
+
+Slide 4:
+Cara pakai
+
+Slide 5:
+Manfaat
+
+Slide 6:
+Hal yang perlu dicek
+
+Slide 7:
+CTA
+
+Catatan:
+
+Gunakan foto milik sendiri atau foto yang memang boleh digunakan.
+
+Jangan mengambil foto orang lain sembarangan.
+
+---
+
+# Bagian 15
+## Prompt Video Text on Screen
+
+Prompt:
+
+"Buatkan konsep video TikTok Affiliate yang mengandalkan text on screen untuk produk [nama produk]. Target pembelinya [target pembeli]. Format video tanpa voiceover. Buat 7 teks layar singkat yang muncul berurutan, disertai arahan visual untuk setiap teks. Jangan terlalu sales dan jangan memakai klaim berlebihan."
+
+Contoh:
+
+"Buatkan konsep video TikTok Affiliate yang mengandalkan text on screen untuk produk rak bumbu dapur. Target pembelinya orang yang punya dapur kecil. Format video tanpa voiceover. Buat 7 teks layar singkat yang muncul berurutan, disertai arahan visual untuk setiap teks. Jangan terlalu sales dan jangan memakai klaim berlebihan."
+
+---
+
+# Bagian 16
+## Prompt Voiceover Natural
+
+Prompt:
+
+"Buatkan voiceover natural untuk video TikTok Affiliate produk [nama produk]. Target pembelinya [target pembeli]. Masalah utama [masalah pembeli]. Durasi sekitar [15/30] detik. Gaya bahasa seperti ngobrol, bukan iklan berlebihan. Gunakan alur: hook, masalah, produk, manfaat, CTA. Hindari klaim berlebihan dan janji hasil pasti."
+
+Contoh:
+
+"Buatkan voiceover natural untuk video TikTok Affiliate produk organizer kabel. Target pembelinya pekerja dari rumah yang meja kerjanya penuh kabel. Masalah utama kabel charger dan headset sering berantakan. Durasi sekitar 20 detik. Gaya bahasa seperti ngobrol, bukan iklan berlebihan. Gunakan alur: hook, masalah, produk, manfaat, CTA. Hindari klaim berlebihan dan janji hasil pasti."
+
+---
+
+# Bagian 17
+## Prompt Voiceover Lebih Halus
+
+Gunakan kalau hasil voiceover terlalu sales.
+
+Prompt:
+
+"Ubah voiceover berikut agar terdengar lebih halus, natural, tidak memaksa, dan tidak terlalu jualan. Tetap pertahankan manfaat produk dan CTA. Hindari kata wajib, pasti, dijamin, buruan, atau klaim berlebihan. Ini voiceover-nya: [tempel voiceover]."
+
+Contoh:
+
+"Ubah voiceover berikut agar terdengar lebih halus, natural, tidak memaksa, dan tidak terlalu jualan. Tetap pertahankan manfaat produk dan CTA. Hindari kata wajib, pasti, dijamin, buruan, atau klaim berlebihan. Ini voiceover-nya: ‘Wajib checkout rak ini sekarang, dijamin dapur langsung rapi.’"
+
+---
+
+# Bagian 18
+## Prompt Text on Screen Singkat
+
+Prompt:
+
+"Buatkan 15 pilihan text on screen pendek untuk video TikTok Affiliate produk [nama produk]. Target pembelinya [target pembeli]. Fokus pada masalah [masalah pembeli] dan manfaat [manfaat produk]. Gunakan kalimat singkat, natural, dan mudah dibaca. Jangan memakai klaim berlebihan."
+
+Contoh text on screen:
+
+"Dapur kecil?"
+
+"Bumbu sering berantakan?"
+
+"Mulai rapikan dari sudut ini."
+
+"Cek ukuran rak sebelum beli."
+
+---
+
+# Bagian 19
+## Prompt B-Roll Produk
+
+B-roll adalah potongan visual pendukung.
+
+Prompt:
+
+"Buatkan daftar B-roll untuk video TikTok Affiliate produk [nama produk]. Target pembelinya [target pembeli]. Buat 15 ide shot pendukung yang bisa direkam dengan HP dari rumah. Shot harus membantu menjelaskan masalah, produk, manfaat, dan CTA. Hindari visual yang menyesatkan."
+
+Contoh B-roll:
+
+- close-up produk
+- kondisi sebelum
+- proses menggunakan produk
+- detail ukuran
+- hasil setelah dipakai
+- tangan menunjuk bagian penting
+- pembeli mengecek detail di HP
+
+---
+
+# Bagian 20
+## Prompt Visual AI untuk Ilustrasi Edukatif
+
+Gunakan prompt ini hanya untuk visual edukatif, bukan untuk membuat produk terlihat palsu.
+
+Prompt:
+
+"Buatkan prompt visual AI untuk ilustrasi edukatif tentang [topik]. Visual ini bukan untuk menggambarkan produk tertentu secara spesifik, tapi untuk menjelaskan konsep [konsep]. Gaya visual clean, ramah pemula, tidak menyesatkan, dan tidak membuat penonton mengira ini adalah hasil nyata dari produk tertentu."
+
+Contoh:
+
+"Buatkan prompt visual AI untuk ilustrasi edukatif tentang meja kerja yang berantakan karena kabel. Visual ini bukan untuk menggambarkan produk tertentu secara spesifik, tapi untuk menjelaskan konsep pentingnya merapikan kabel. Gaya visual clean, ramah pemula, tidak menyesatkan, dan tidak membuat penonton mengira ini adalah hasil nyata dari produk tertentu."
+
+Catatan penting:
+
+Jangan gunakan visual AI untuk membuat produk terlihat berbeda dari produk asli.
+
+Kalau visual AI realistis, perhatikan kebutuhan label AI sesuai aturan platform.
+
+---
+
+# Bagian 21
+## Prompt AI Avatar untuk Edukasi
+
+Gunakan dengan hati-hati.
+
+Prompt:
+
+"Buatkan script pendek untuk AI avatar yang menjelaskan [topik] secara edukatif. Topiknya berkaitan dengan produk [nama produk] dalam niche [niche]. Script harus jujur, tidak mengaku sebagai pengalaman pribadi, tidak membuat testimoni palsu, tidak memakai klaim berlebihan, dan tidak membuat penonton salah paham. Sertakan catatan bahwa avatar digunakan sebagai penyampai edukasi jika diperlukan sesuai aturan platform."
+
+Contoh:
+
+"Buatkan script pendek untuk AI avatar yang menjelaskan 3 hal yang perlu dicek sebelum membeli tripod HP. Topiknya berkaitan dengan produk tripod HP dalam niche alat content creator pemula. Script harus jujur, tidak mengaku sebagai pengalaman pribadi, tidak membuat testimoni palsu, tidak memakai klaim berlebihan, dan tidak membuat penonton salah paham. Sertakan catatan bahwa avatar digunakan sebagai penyampai edukasi jika diperlukan sesuai aturan platform."
+
+Catatan:
+
+Jangan memakai avatar untuk berpura-pura sebagai ahli, dokter, tokoh publik, atau pengguna nyata jika itu tidak benar.
+
+---
+
+# Bagian 22
+## Prompt AI Voiceover yang Aman
+
+Prompt:
+
+"Buatkan script voiceover untuk konten TikTok Affiliate produk [nama produk]. Script ini akan dibacakan dengan suara AI. Pastikan tidak terdengar seperti testimoni pribadi palsu, tidak mengaku sudah memakai produk jika belum, tidak membuat klaim berlebihan, dan tidak menyesatkan. Gaya bahasa natural dan edukatif."
+
+Catatan:
+
+Kalau memakai suara AI, pastikan tidak meniru suara orang tertentu tanpa izin.
+
+Jika suara AI realistis dan platform mewajibkan label, ikuti aturan yang berlaku.
+
+---
+
+# Bagian 23
+## Prompt Video AI untuk Konsep, Bukan Klaim Produk
+
+Prompt:
+
+"Buatkan konsep video AI edukatif tentang [masalah pembeli] yang bisa menjadi pembuka konten affiliate untuk produk [kategori produk]. Video tidak boleh menggambarkan hasil nyata produk tertentu, tidak boleh membuat klaim bahwa produk pasti menyelesaikan masalah, dan tidak boleh menyesatkan. Fokus pada ilustrasi masalah, lalu arahkan ke konten real/demo produk asli."
+
+Contoh:
+
+"Buatkan konsep video AI edukatif tentang meja kerja penuh kabel yang bisa menjadi pembuka konten affiliate untuk produk organizer kabel. Video tidak boleh menggambarkan hasil nyata produk tertentu, tidak boleh membuat klaim bahwa produk pasti menyelesaikan masalah, dan tidak boleh menyesatkan. Fokus pada ilustrasi masalah, lalu arahkan ke konten real/demo produk asli."
+
+---
+
+# Bagian 24
+## Prompt Menggabungkan Footage Real dan AI
+
+Prompt:
+
+"Buatkan alur video TikTok Affiliate yang menggabungkan footage real produk [nama produk] dengan visual AI edukatif sebagai pendukung. Target pembelinya [target pembeli]. Jelaskan bagian mana yang harus berupa footage real dan bagian mana yang boleh berupa ilustrasi AI. Pastikan konten tidak menyesatkan, visual AI tidak menggantikan bukti produk asli, dan jika perlu diberi label AI sesuai aturan platform."
+
+Catatan:
+
+Footage real sebaiknya dipakai untuk menunjukkan produk asli.
+
+Visual AI hanya untuk membantu menjelaskan konsep, bukan menggantikan bukti produk.
+
+---
+
+# Bagian 25
+## Prompt Audit Visual AI
+
+Gunakan sebelum upload konten yang memakai AI visual.
+
+Prompt:
+
+"Tolong audit konsep visual AI berikut untuk konten affiliate. Cek apakah ada potensi menyesatkan pembeli, membuat produk terlihat berbeda dari kenyataan, membuat klaim hasil yang tidak realistis, memakai identitas orang lain, atau membutuhkan label AI. Berikan revisi agar lebih aman dan transparan. Konsepnya: [tempel konsep]."
+
+---
+
+# Bagian 26
+## Prompt Audit Video Sebelum Upload
+
+Prompt:
+
+"Tolong audit konsep video TikTok Affiliate berikut sebelum upload. Cek dari sisi: kejelasan produk, hook, manfaat, CTA, klaim berlebihan, review palsu, visual menyesatkan, penggunaan AI, disclosure konten komersial, dan potensi membuat pembeli salah paham. Berikan catatan perbaikan yang praktis. Konsep video: [tempel konsep/script]."
+
+Gunakan prompt ini terutama sebelum mengunggah konten promosi.
+
+---
+
+# Bagian 27
+## Prompt Revisi Video agar Lebih Aman
+
+Prompt:
+
+"Revisi script video TikTok Affiliate berikut agar lebih aman secara etika. Hilangkan klaim berlebihan, kata-kata terlalu memaksa, review palsu, testimoni palsu, atau informasi yang tidak bisa dipastikan. Pertahankan agar tetap menarik, jelas, dan natural. Script: [tempel script]."
+
+---
+
+# Bagian 28
+## Prompt Revisi Video agar Lebih Singkat
+
+Prompt:
+
+"Pendekkan script video berikut menjadi versi [15/20/30] detik. Pertahankan hook, masalah, produk, manfaat, dan CTA. Buat bahasa lebih natural, tidak bertele-tele, dan tidak berlebihan. Script: [tempel script]."
+
+---
+
+# Bagian 29
+## Prompt Revisi Video agar Lebih Storytelling
+
+Prompt:
+
+"Ubah script video TikTok Affiliate berikut menjadi versi storytelling ringan. Ceritanya harus berupa skenario edukatif yang realistis, bukan testimoni palsu atau pengalaman pribadi palsu. Tetap bahas masalah pembeli, produk sebagai alat bantu, manfaat wajar, dan CTA halus. Script: [tempel script]."
+
+---
+
+# Bagian 30
+## Prompt Revisi Video agar Lebih Soft Selling
+
+Prompt:
+
+"Ubah script video berikut menjadi versi soft selling. Fokus pada masalah pembeli, manfaat produk, dan ajakan cek produk dengan halus. Jangan terdengar memaksa, jangan memakai kata wajib, pasti, dijamin, buruan, atau klaim berlebihan. Script: [tempel script]."
+
+---
+
+# Bagian 31
+## Prompt Video untuk 1 Produk Jadi 10 Konten
+
+Prompt:
+
+"Saya ingin membuat 10 video TikTok Affiliate dari satu produk: [nama produk]. Target pembelinya [target pembeli]. Masalah utama [masalah pembeli]. Buat 10 konsep video berbeda dengan format yang bervariasi: problem-solution, demo, before-after, checklist, review jujur, edukasi, tanya-jawab, cocok untuk siapa, kesalahan umum, dan soft selling. Setiap konsep berisi hook, visual utama, voiceover singkat, text on screen, dan CTA. Hindari klaim berlebihan."
+
+---
+
+# Bagian 32
+## Prompt Video Series 3 Part
+
+Prompt:
+
+"Buatkan konsep video series 3 part untuk produk [nama produk]. Target pembelinya [target pembeli]. Setiap part harus berdiri sendiri tapi saling terhubung. Part 1 fokus pada masalah, Part 2 fokus pada cara memilih produk, Part 3 fokus pada demo atau hal yang perlu dicek. Sertakan hook, storyboard singkat, dan CTA halus untuk tiap part."
+
+Contoh:
+
+Part 1:
+"Kenapa meja kerja sering terlihat berantakan?"
+
+Part 2:
+"Cara memilih organizer kabel."
+
+Part 3:
+"Cek ini sebelum beli organizer kabel."
+
+---
+
+# Bagian 33
+## Prompt Video untuk Retake / Versi Kedua
+
+Gunakan kalau konten pertama sepi dan ingin dibuat versi baru.
+
+Prompt:
+
+"Saya punya video TikTok Affiliate yang hasilnya belum bagus. Produk: [nama produk]. Hook lama: [hook lama]. Format lama: [format lama]. Masalah yang ingin dibahas: [masalah pembeli]. Tolong buatkan 5 versi baru dengan hook lebih spesifik, alur lebih cepat, visual lebih jelas, dan CTA lebih natural. Jangan memakai klaim berlebihan."
+
+---
+
+# Bagian 34
+## Prompt Video untuk Menjawab Data
+
+Gunakan setelah melihat data konten.
+
+Prompt:
+
+"Berdasarkan data berikut, bantu buat konsep video lanjutan. Konten dengan format [format terbaik] mendapat respon lebih baik, tapi klik produk masih rendah. Produk yang dibahas [nama produk]. Target pembeli [target pembeli]. Buat 5 konsep video yang memperjelas manfaat produk dan CTA tanpa terdengar memaksa. Data: [tempel data]."
+
+---
+
+# Bagian 35
+## Prompt Video untuk Produk Baru dalam Niche yang Sama
+
+Prompt:
+
+"Saya ingin menguji produk baru dalam niche yang sama. Niche saya [niche]. Produk lama [produk lama]. Produk baru [produk baru]. Target pembeli [target pembeli]. Buatkan 5 konsep video yang menghubungkan produk baru dengan masalah audiens yang sama, agar akun tidak terasa terlalu random. Hindari klaim berlebihan."
+
+---
+
+# Bagian 36
+## Prompt Video untuk Live Teaser
+
+Prompt:
+
+"Buatkan 5 konsep video pendek untuk mengajak penonton mampir ke live yang membahas produk [nama produk]. Target penonton [target pembeli]. Konten harus berupa teaser yang natural, tidak memaksa, dan tidak menjanjikan diskon atau stok jika tidak pasti. Sertakan hook, text on screen, voiceover, dan CTA menuju live."
+
+Contoh CTA:
+
+"Nanti aku bahas detail ukurannya di live."
+
+"Kalau mau tanya-tanya dulu, boleh mampir."
+
+---
+
+# Bagian 37
+## Prompt Video Recap Setelah Live
+
+Prompt:
+
+"Buatkan konsep video recap setelah live selling produk [nama produk]. Isi video merangkum 3 pertanyaan yang paling sering muncul saat live. Target pembelinya [target pembeli]. Buat hook, isi, text on screen, voiceover, dan CTA halus. Jawaban harus jujur dan mengarahkan penonton untuk cek detail produk jika diperlukan."
+
+---
+
+# Bagian 38
+## Prompt Video Q&A Produk
+
+Prompt:
+
+"Buatkan 10 konsep video Q&A untuk produk [nama produk]. Target pembelinya [target pembeli]. Pertanyaan harus berasal dari keraguan pembeli seperti ukuran, bahan, cara pakai, cocok untuk siapa, batasan produk, dan hal yang perlu dicek sebelum beli. Buat jawaban singkat, jujur, dan tidak berlebihan."
+
+---
+
+# Bagian 39
+## Prompt Video dengan Hook Berbasis Masalah
+
+Prompt:
+
+"Buatkan 20 konsep video TikTok Affiliate dengan hook berbasis masalah untuk produk [nama produk]. Target pembelinya [target pembeli]. Masalah utama [masalah pembeli]. Setiap konsep berisi hook, visual pembuka, isi singkat, dan CTA halus. Hindari clickbait berlebihan."
+
+---
+
+# Bagian 40
+## Prompt Video dengan Hook Berbasis Keraguan
+
+Prompt:
+
+"Buatkan 20 konsep video TikTok Affiliate dengan hook berbasis keraguan pembeli untuk produk [nama produk]. Target pembelinya [target pembeli]. Keraguan utama mereka [keraguan pembeli]. Setiap konsep berisi hook, jawaban yang hati-hati, visual yang cocok, dan CTA halus. Jangan membuat jawaban terlalu pasti jika harus dicek di detail produk."
+
+Contoh keraguan:
+"muat berapa botol?"
+"kuat untuk HP besar tidak?"
+"ukurannya cocok untuk meja kecil tidak?"
+
+---
+
+# Bagian 41
+## Prompt Video dengan Hook Berbasis Kesalahan Umum
+
+Prompt:
+
+"Buatkan 10 konsep video TikTok Affiliate dengan angle kesalahan umum untuk niche [niche] dan produk [nama produk]. Target pembelinya [target pembeli]. Konten harus edukatif, tidak menghakimi, dan membantu pembeli mengambil keputusan lebih baik. Sertakan hook, visual, voiceover, text on screen, dan CTA."
+
+Contoh:
+
+"3 kesalahan saat memilih rak bumbu untuk dapur kecil."
+
+"Jangan beli tripod sebelum cek 3 hal ini."
+
+---
+
+# Bagian 42
+## Prompt Video dengan Hook Berbasis Tips
+
+Prompt:
+
+"Buatkan 10 konsep video TikTok Affiliate dengan angle tips sederhana untuk produk [nama produk]. Target pembelinya [target pembeli]. Tips harus relevan dengan masalah [masalah pembeli]. Sertakan hook, isi tips, visual, dan CTA halus. Jangan membuat klaim berlebihan."
+
+---
+
+# Bagian 43
+## Prompt Video untuk Produk yang Belum Dimiliki
+
+Gunakan jika kamu belum punya produk fisik.
+
+Prompt:
+
+"Buatkan konsep video edukatif TikTok Affiliate untuk kategori produk [kategori produk] tanpa mengaku sudah memakai produk. Konten harus fokus pada cara memilih, hal yang perlu dicek, kesalahan umum, dan pertanyaan pembeli. Jangan membuat review personal, jangan memakai testimoni palsu, dan jangan menampilkan visual yang membuat orang mengira saya sudah memakai produk tertentu."
+
+Catatan:
+
+Konten tanpa produk fisik lebih aman jika edukatif.
+
+Jangan berpura-pura sebagai pengguna produk jika belum pernah memakai.
+
+---
+
+# Bagian 44
+## Prompt Video untuk Produk Fisik yang Sudah Dimiliki
+
+Prompt:
+
+"Buatkan 10 konsep video TikTok Affiliate untuk produk [nama produk] yang sudah saya miliki. Target pembelinya [target pembeli]. Saya bisa merekam produk langsung. Buat variasi format: demo, before-after, review jujur, checklist, tanya-jawab, dan soft selling. Pastikan setiap konsep jujur, tidak berlebihan, dan menunjukkan produk secara jelas."
+
+---
+
+# Bagian 45
+## Prompt Video untuk Produk Mirip yang Ada di Rumah
+
+Gunakan dengan hati-hati.
+
+Prompt:
+
+"Saya punya produk fisik yang mirip dengan produk affiliate [nama produk], tapi belum tentu sama persis. Bantu buat konsep konten edukatif yang tidak menyesatkan. Jangan membuat seolah produk yang saya tampilkan sama persis jika berbeda. Fokus pada edukasi kategori produk, hal yang perlu dicek, dan manfaat umum yang wajar. Sertakan catatan etika."
+
+Catatan:
+
+Jangan menampilkan produk A tetapi mengarahkan seolah-olah itu produk B jika berbeda.
+
+Kejujuran visual penting.
+
+---
+
+# Bagian 46
+## Prompt Video untuk Membuat Ulang Konten agar Lebih Original
+
+Prompt:
+
+"Saya melihat pola konten affiliate seperti ini: [jelaskan pola]. Tolong bantu saya membuat versi original untuk produk [nama produk] dengan target pembeli [target pembeli]. Jangan menyalin script, gaya khas, atau struktur detail orang lain. Ambil hanya inspirasi pola umum, lalu buat konsep baru dengan bahasa dan visual yang berbeda."
+
+Catatan:
+
+Belajar dari pola boleh.
+
+Menyalin mentah-mentah jangan.
+
+---
+
+# Bagian 47
+## Prompt Video untuk Menghindari Hard Selling
+
+Prompt:
+
+"Buatkan versi video TikTok Affiliate yang tidak hard selling untuk produk [nama produk]. Target pembelinya [target pembeli]. Fokus pada edukasi, masalah pembeli, manfaat wajar, dan CTA halus. Jangan memakai kata wajib, buruan, pasti, dijamin, atau klaim terlalu kuat."
+
+---
+
+# Bagian 48
+## Prompt Video untuk Soft Storytelling
+
+Prompt:
+
+"Buatkan konsep video soft storytelling untuk produk [nama produk]. Ceritanya harus berupa skenario pemula yang realistis, bukan kisah sukses pribadi atau testimoni palsu. Target pembeli [target pembeli]. Fokus pada masalah, proses menyadari kebutuhan, produk sebagai alat bantu, dan CTA halus. Hindari klaim berlebihan."
+
+Contoh:
+
+"Seorang pemula sering menyandarkan HP ke gelas saat mau merekam konten. Lalu ia mulai mencari alat yang bisa membantu HP lebih stabil."
+
+---
+
+# Bagian 49
+## Prompt Video untuk Konten Perbandingan Kondisi
+
+Prompt:
+
+"Buatkan konsep video perbandingan kondisi untuk produk [nama produk]. Bukan membandingkan brand, tapi membandingkan kondisi sebelum dan sesudah memakai alat bantu. Target pembelinya [target pembeli]. Pastikan perbandingan realistis, tidak menyesatkan, dan tidak membuat klaim berlebihan."
+
+Contoh:
+
+"Meja penuh kabel vs meja setelah kabel diberi tempat khusus."
+
+"HP disandarkan ke gelas vs HP dipasang di tripod."
+
+---
+
+# Bagian 50
+## Prompt Video untuk Konten "Tidak Cocok untuk Siapa?"
+
+Prompt:
+
+"Buatkan konsep video TikTok Affiliate yang menjelaskan produk [nama produk] mungkin tidak cocok untuk siapa. Target pembelinya [target pembeli]. Tujuannya membangun trust, bukan menjelekkan produk. Sertakan hook, poin penjelasan, hal yang perlu dicek, dan CTA halus."
+
+Contoh hook:
+
+"Produk ini berguna, tapi mungkin tidak cocok untuk semua orang."
+
+Catatan:
+
+Konten seperti ini bisa membangun trust karena tidak memaksa semua orang membeli.
+
+---
+
+# Checklist Produksi Video dengan Bantuan AI
+
+Sebelum upload, cek ini:
+
+[ ] Apakah produk terlihat jelas?
+
+[ ] Apakah masalah pembeli terlihat atau terdengar jelas?
+
+[ ] Apakah manfaat produk disampaikan dengan wajar?
+
+[ ] Apakah CTA tidak memaksa?
+
+[ ] Apakah video tidak membuat klaim berlebihan?
+
+[ ] Apakah tidak ada review palsu?
+
+[ ] Apakah tidak ada testimoni palsu?
+
+[ ] Apakah visual tidak membuat produk terlihat berbeda dari kenyataan?
+
+[ ] Apakah penggunaan AI tidak membuat penonton salah paham?
+
+[ ] Apakah ada elemen AI realistis yang perlu label atau pengungkapan?
+
+[ ] Apakah konten promosi perlu disclosure konten komersial?
+
+[ ] Apakah footage, foto, musik, atau aset yang dipakai aman digunakan?
+
+[ ] Apakah video sudah ditonton ulang sebelum upload?
+
+[ ] Apakah ada satu bagian yang bisa dibuat lebih jelas?
+
+---
+
+# Kata-Kata yang Perlu Diubah dalam Script Video
+
+Jika AI memberi kata-kata seperti ini, cek ulang:
+
+- pasti
+- dijamin
+- langsung
+- wajib
+- buruan
+- jangan sampai nyesel
+- semua orang harus punya
+- solusi terbaik untuk semua masalah
+- hasil instan
+- terbukti untuk semua orang
+- auto rapi
+- auto profesional
+- auto laku
+
+Ubah menjadi bahasa yang lebih aman:
+
+- bisa membantu
+- bisa jadi pilihan
+- cocok untuk kebutuhan tertentu
+- cek dulu ukurannya
+- sesuaikan dengan kebutuhanmu
+- bisa membantu terlihat lebih rapi
+- bisa membantu lebih stabil
+- lihat detail dan review sebelum beli
+- hasil bisa berbeda
+- tidak cocok untuk semua orang
+
+---
+
+# Formula Cepat Video Affiliate
+
+Gunakan formula ini saat membuat video:
+
+Hook:
+Masalah:
+Produk:
+Manfaat:
+Bukti visual:
+Hal yang perlu dicek:
+CTA:
+
+Contoh:
+
+Hook:
+"Dapur kecil tapi botol bumbu sering berantakan?"
+
+Masalah:
+"Kadang meja dapur terlihat penuh karena bumbu tidak punya tempat khusus."
+
+Produk:
+"Rak kecil seperti ini bisa dipakai untuk menyusun botol bumbu."
+
+Manfaat:
+"Bumbu lebih mudah dicari dan sudut dapur terlihat lebih rapi."
+
+Bukti visual:
+tampilkan before-after secara realistis.
+
+Hal yang perlu dicek:
+"Cek ukuran rak dan botol kamu dulu."
+
+CTA:
+"Detail produk bisa dilihat di keranjang."
+
+---
+
+# Template Brief Video Kosong
+
+Gunakan template ini sebelum membuat video.
+
+Produk:
+
+............................................................................
+
+Niche:
+
+............................................................................
+
+Target pembeli:
+
+............................................................................
+
+Masalah utama:
+
+............................................................................
+
+Manfaat utama:
+
+............................................................................
+
+Format video:
+
+[ ] tanpa wajah
+
+[ ] tangan saja
+
+[ ] tampil wajah
+
+[ ] voiceover
+
+[ ] text on screen
+
+[ ] slideshow
+
+[ ] AI avatar
+
+[ ] AI visual edukatif
+
+Durasi:
+
+[ ] 15 detik
+
+[ ] 30 detik
+
+[ ] 45 detik
+
+Hook:
+
+............................................................................
+
+Visual pembuka:
+
+............................................................................
+
+Shot utama:
+
+1. ..........................................................................
+
+2. ..........................................................................
+
+3. ..........................................................................
+
+4. ..........................................................................
+
+5. ..........................................................................
+
+Voiceover:
+
+............................................................................
+
+............................................................................
+
+Text on screen:
+
+1. ..........................................................................
+
+2. ..........................................................................
+
+3. ..........................................................................
+
+CTA:
+
+............................................................................
+
+Catatan etika:
+
+............................................................................
+
+Hal yang perlu dicek sebelum upload:
+
+............................................................................
+
+---
+
+# Penutup AI Video Affiliate Prompt Pack
+
+AI bisa membantu kamu menyusun video dengan lebih cepat.
+
+Tapi kualitas konten tetap bergantung pada keputusanmu.
+
+Kamu yang memilih produk.
+Kamu yang memahami pembeli.
+Kamu yang mengecek klaim.
+Kamu yang menjaga trust.
+Kamu yang memastikan visual tidak menyesatkan.
+
+Gunakan AI untuk mempercepat proses kreatif.
+
+Bukan untuk membuat konten palsu.
+
+Buat video yang jelas.
+Jujur.
+Relevan.
+Dan tidak berlebihan.
+
+Karena dalam affiliate, konten yang baik bukan hanya membuat orang berhenti menonton.
+
+Tapi membantu mereka memahami produk dengan lebih benar sebelum mengambil keputusan.
