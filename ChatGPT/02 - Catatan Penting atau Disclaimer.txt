@@ -1,262 +1,129 @@
-# Catatan Penting
+Catatan Penting Sebelum Memulai
 
-Sebelum kamu masuk ke isi workbook ini, ada beberapa hal penting yang perlu dipahami terlebih dahulu.
+Sebelum masuk ke isi workbook, ada beberapa hal penting yang perlu kamu pahami agar kita memiliki ekspektasi yang sama sejak awal.
 
-Bagian ini mungkin tidak terlihat "seru" seperti modul praktik.
+Workbook ini dibuat untuk membantu pemula memahami dan mempraktikkan TikTok Affiliate dengan cara yang lebih rapi, realistis, dan bertanggung jawab.
 
-Tapi penting.
+Kalau kamu benar-benar baru mulai, workbook ini akan menuntunmu dari nol. Kalau kamu sudah pernah mencoba tapi belum berhasil, kamu tidak perlu mengulang semuanya dari kosong—ada bagian khusus untukmu di Modul 10 yang membantu membaca ulang akun dan konten lama sebelum melangkah lebih jauh.
 
-Karena sejak awal, kita perlu menyamakan ekspektasi.
+Workbook ini bukan jaminan hasil, bukan jalan pintas, dan bukan ajakan untuk menggunakan cara yang menyesatkan.
 
-Workbook ini dibuat untuk membantu pemula memahami TikTok Affiliate dengan cara yang lebih rapi, realistis, dan aman.
+⸻
 
-Bukan untuk menjanjikan hasil tertentu.
+Tidak Ada Jaminan Penghasilan
 
----
+Workbook ini tidak menjanjikan FYP (masuk halaman "For You" TikTok), order, komisi, "pecah telur" (istilah untuk penjualan pertama), GMV (total nilai transaksi yang tercatat lewat akunmu), atau hasil dalam jangka waktu tertentu. Penjelasan lebih lengkap istilah-istilah ini tersedia di Kamus Istilah Affiliate TikTok.
 
-## Bukan Janji Penghasilan
+Hasil setiap orang dapat berbeda karena dipengaruhi oleh banyak faktor, seperti:
 
-Workbook ini tidak menjanjikan kamu akan mendapatkan penghasilan tertentu.
+* produk yang dipilih;
+* kualitas dan relevansi konten;
+* pemahaman terhadap calon pembeli;
+* konsistensi;
+* kemampuan membaca data;
+* kondisi dan riwayat akun;
+* kualitas penjual;
+* harga, stok, dan ulasan produk;
+* momentum pasar;
+* perubahan fitur dan kebijakan platform;
+* serta faktor lain yang tidak selalu dapat dikendalikan.
 
-Tidak ada jaminan:
+Gunakan workbook ini sebagai panduan belajar, praktik, dan evaluasi—bukan sebagai jaminan hasil.
 
-FYP,
-order,
-komisi,
-pecah telur,
-GMV besar,
-atau hasil dalam waktu tertentu.
+⸻
 
-Hasil setiap orang bisa berbeda.
+Materi Ini Bersifat Edukatif
 
-Karena hasil dalam TikTok Affiliate dipengaruhi oleh banyak hal, seperti:
+Isi workbook ini bertujuan membantu kamu memahami konsep dasar, pola berpikir, langkah praktik, dan alat bantu dalam menjalankan TikTok Affiliate.
 
-- produk yang dipilih
-- kualitas konten
-- pemahaman terhadap calon pembeli
-- konsistensi
-- kemampuan membaca data
-- kondisi akun
-- kebijakan platform
-- kualitas seller
-- harga produk
-- review produk
-- stok
-- momentum
-- dan banyak faktor lain di luar kendali kamu
+Materi ini bukan nasihat keuangan, hukum, pajak, investasi, atau bisnis profesional yang disesuaikan dengan kondisi pribadi setiap orang.
 
-Jadi gunakan workbook ini sebagai panduan belajar dan praktik.
+Untuk keputusan penting yang melibatkan uang, kontrak, pajak, legalitas, atau kerja sama bisnis, pelajari sumber resmi dan konsultasikan dengan pihak yang kompeten jika diperlukan.
 
-Bukan sebagai jaminan hasil.
+⸻
 
----
+Akses dan Aturan Platform Bisa Berubah
 
-## Bukan Nasihat Keuangan atau Bisnis Profesional
+TikTok, TikTok Shop, program affiliate, fitur dashboard, sistem komisi, istilah, menu, dan kebijakan platform dapat berubah sewaktu-waktu.
 
-Isi workbook ini bersifat edukatif.
+Ketersediaan program dan fitur juga dapat berbeda menurut wilayah, usia, jenis akun, status akun, serta persyaratan platform yang berlaku.
 
-Tujuannya membantu kamu memahami langkah dasar, pola berpikir, dan contoh praktik dalam TikTok Affiliate.
+Karena itu, jangan hanya menghafal tampilan menu. Pahami prinsip dasarnya.
 
-Workbook ini bukan nasihat keuangan, hukum, pajak, investasi, atau bisnis profesional yang disesuaikan dengan kondisi pribadi setiap orang.
+Jika terdapat perbedaan antara workbook ini dan informasi resmi terbaru dari platform, gunakan informasi resmi terbaru sebagai acuan.
 
-Kalau kamu perlu mengambil keputusan besar yang melibatkan uang, kontrak, pajak, legalitas, atau kerja sama bisnis, sebaiknya tetap pelajari sumber resmi dan konsultasikan dengan pihak yang kompeten jika diperlukan.
+⸻
 
----
+Keputusan Tetap Menjadi Tanggung Jawabmu
 
-## Platform Bisa Berubah
+Kamu tetap bertanggung jawab atas:
 
-TikTok, TikTok Shop, program affiliate, fitur dashboard, aturan konten, sistem komisi, dan kebijakan platform bisa berubah sewaktu-waktu.
+* produk yang dipilih;
+* konten yang diterbitkan;
+* klaim yang digunakan;
+* informasi yang disampaikan;
+* biaya yang dikeluarkan;
+* serta keputusan lain yang diambil selama menjalankan aktivitas affiliate.
 
-Menu yang kamu lihat hari ini bisa berbeda di kemudian hari.
+Jangan berutang, menggunakan dana kebutuhan pokok, atau membeli banyak produk hanya demi mengejar konten maupun komisi.
 
-Istilah tertentu juga bisa berubah.
+Mulailah sesuai kemampuan dan pilih tingkat risiko yang dapat kamu tanggung.
 
-Karena itu, jangan hanya menghafal tampilan.
+⸻
 
-Pahami prinsip dasarnya.
+Gunakan AI dan Materi Promosi secara Bertanggung Jawab
 
-Jika ada perbedaan antara isi workbook ini dengan aturan resmi terbaru dari platform, ikuti aturan resmi terbaru dari platform.
+AI dapat membantu mencari ide, menyusun skrip, membuat caption, mengembangkan hook, dan mengevaluasi konten.
 
-Biasakan mengecek sumber resmi secara berkala.
+Namun, hasil AI tetap perlu diperiksa, disunting, dan disesuaikan oleh manusia.
 
----
+Jangan menggunakan AI atau alat lain untuk:
 
-## Gunakan AI dengan Bijak
+* membuat ulasan dan testimoni palsu;
+* mengarang pengalaman menggunakan produk;
+* membuat klaim berlebihan;
+* membuat visual produk yang menyesatkan;
+* menampilkan tokoh tertentu seolah-olah mendukung produk;
+* atau membuat audiens salah memahami kondisi produk.
 
-Di dalam workbook ini, kamu akan menemukan pembahasan tentang penggunaan AI untuk membantu ide konten, script, caption, hook, dan evaluasi.
+Jika kamu menggunakan elemen AI yang realistis, perhatikan aturan mengenai label atau pengungkapan konten AI yang berlaku di platform.
 
-AI bisa sangat membantu.
+⸻
 
-Tapi AI tetap harus digunakan secara bertanggung jawab.
+Jaga Transparansi dan Hak Cipta
 
-Jangan memakai AI untuk:
+Jika konten memiliki unsur promosi atau kamu berpotensi memperoleh komisi, gunakan fitur disclosure atau pengungkapan konten komersial sesuai ketentuan platform.
 
-- membuat review palsu
-- membuat testimoni palsu
-- membuat klaim berlebihan
-- membuat visual produk yang menyesatkan
-- membuat tokoh publik seolah-olah mendukung produk
-- membuat pengalaman palsu seolah-olah kamu sudah memakai produk
-- atau membuat konten yang bisa membuat calon pembeli salah paham
+Belajar dari pola konten orang lain diperbolehkan. Menyalin video, skrip khas, visual, testimoni, atau karya orang lain tanpa izin tidak diperbolehkan.
 
-AI sebaiknya dipakai sebagai alat bantu berpikir.
+Konten orisinal tidak harus sempurna. Konten orisinal berarti kamu membuat versi milikmu sendiri secara jujur tanpa mengambil karya orang lain.
 
-Bukan alat untuk menipu.
+Berhati-hatilah saat mempromosikan produk dengan klaim kesehatan, kecantikan, keuangan, keamanan, atau kategori lain yang memiliki aturan khusus. Jangan membuat klaim yang tidak dapat dibuktikan.
 
-Jika kamu memakai elemen AI yang realistis dalam konten, perhatikan aturan label atau pengungkapan AI sesuai kebijakan platform yang berlaku.
+Pembahasan lebih lengkap mengenai etika promosi, penggunaan AI, disclosure, hak cipta, dan perubahan platform tersedia di Modul 12.
 
----
+⸻
 
-## Jaga Etika Promosi
+Gunakan Workbook Ini secara Aktif
 
-Dalam affiliate, kamu berpotensi mendapat komisi dari produk yang kamu promosikan.
-
-Karena itu, jaga kejujuran dalam konten.
-
-Hindari:
-
-- klaim "pasti"
-- klaim "dijamin"
-- klaim hasil berlebihan
-- review palsu
-- informasi harga yang tidak akurat
-- visual yang tidak sesuai produk
-- mengambil konten orang lain tanpa izin
-- atau membuat penonton merasa tertipu
-
-Promosi yang baik bukan berarti harus keras.
-
-Promosi yang baik adalah promosi yang jelas, jujur, dan membantu calon pembeli memahami produk dengan lebih baik.
-
----
-
-## Perhatikan Disclosure Konten Komersial
-
-Jika kamu membuat konten yang mempromosikan produk, brand, atau layanan, perhatikan apakah platform menyediakan atau mewajibkan pengaturan disclosure konten komersial.
-
-Disclosure membantu audiens memahami bahwa konten tersebut memiliki unsur promosi.
-
-Ini bagian dari membangun trust.
-
-Bukan sesuatu yang perlu ditakuti.
-
-Karena dalam jangka panjang, transparansi lebih sehat daripada menyembunyikan hubungan komersial.
-
----
-
-## Jangan Menyalin Konten Orang Lain
-
-Belajar dari konten orang lain boleh.
-
-Menyalin mentah-mentah tidak.
-
-Kamu boleh mempelajari:
-
-- pola hook
-- struktur video
-- angle konten
-- cara menjawab pertanyaan
-- cara menjelaskan manfaat produk
-
-Tapi jangan mengambil:
-
-- video orang lain tanpa izin
-- script khas orang lain
-- testimoni orang lain
-- visual produk yang tidak sesuai
-- atau materi yang melanggar hak cipta
-
-Workbook ini mendorong kamu membuat konten original.
-
-Original tidak harus sempurna.
-
-Original berarti kamu membuat versi milikmu sendiri dengan cara yang jujur dan tidak mencuri karya orang lain.
-
----
-
-## Produk yang Dipromosikan Tetap Perlu Dicek
-
-Sebagai affiliator, kamu mungkin tidak mengurus stok, pengiriman, atau layanan pembeli.
-
-Tapi kamu tetap perlu berhati-hati memilih produk.
-
-Sebelum mempromosikan produk, biasakan mengecek:
-
-- rating
-- review
-- harga
-- stok
-- variasi
-- klaim produk
-- kualitas visual
-- reputasi seller jika tersedia
-- dan kesesuaian produk dengan kontenmu
-
-Jangan hanya memilih produk karena komisinya terlihat besar.
-
-Produk yang buruk bisa merusak trust audiensmu.
-
----
-
-## Gunakan Workbook Ini Secara Aktif
-
-Workbook ini akan lebih berguna jika kamu tidak hanya membacanya.
+Workbook ini akan lebih berguna jika tidak hanya dibaca.
 
 Gunakan latihan, checklist, template, prompt, dan tracker yang tersedia.
 
-Isi bagian yang perlu diisi.
+Lakukan praktik kecil, catat hasilnya, baca respons audiens, lalu perbaiki satu per satu.
 
-Coba sprint praktik.
+Kamu tidak perlu langsung sempurna.
 
-Catat hasil.
+Pendekatan yang lebih sehat adalah:
 
-Lalu perbaiki pelan-pelan.
+belajar → praktik → melihat respons → mencatat → memperbaiki → mengulangi.
 
-Tidak perlu sempurna.
+Jangan membandingkan awalmu dengan proses panjang orang lain. Jangan menilai seluruh potensimu hanya dari satu atau dua konten.
 
-Yang penting kamu benar-benar memakai isi workbook ini sebagai pegangan praktik.
-
----
-
-## Ekspektasi yang Lebih Sehat
-
-Pendekatan terbaik untuk memakai workbook ini adalah:
-
-belajar dulu,
-praktik kecil,
-lihat respon,
-catat hasil,
-perbaiki,
-lalu ulangi.
-
-Jangan berharap semuanya langsung berjalan.
-
-Jangan membandingkan awalmu dengan proses panjang orang lain.
-
-Jangan mengukur diri hanya dari satu video.
-
-Dan jangan berhenti hanya karena hasil pertama belum sesuai harapan.
-
-Mulai dari langkah kecil.
+Mulailah dari langkah yang sanggup kamu jalankan.
 
 Bangun kebiasaan.
 
-Jaga trust.
+Jaga kepercayaan audiens.
 
-Dan gunakan peta ini untuk berjalan dengan lebih jelas.
-
----
-
-## Kesimpulan Catatan Penting
-
-Workbook ini adalah panduan edukatif.
-
-Bukan jaminan hasil.
-
-Bukan jalan pintas.
-
-Bukan ajakan untuk memakai cara yang menyesatkan.
-
-Gunakan isi workbook ini dengan bijak, jujur, dan bertanggung jawab.
-
-Kalau kamu siap mulai dengan ekspektasi yang lebih realistis, kita bisa lanjut ke bagian berikutnya.
+Lalu gunakan workbook ini sebagai peta agar prosesmu lebih terarah.

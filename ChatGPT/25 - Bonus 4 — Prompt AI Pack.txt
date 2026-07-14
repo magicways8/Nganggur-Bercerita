@@ -1,1024 +1,150 @@
 # Bonus 4
 ## Prompt AI Pack
 
-Prompt AI Pack ini dibuat untuk membantumu memakai AI dengan lebih terarah.
+Prompt AI Pack ini membantumu memakai AI secara lebih terarah dalam proses TikTok Affiliate — bukan untuk membuat konten palsu, bukan untuk menyalin mentah-mentah, dan bukan untuk menggantikan pemahamanmu terhadap produk dan pembeli.
 
-Bukan untuk membuat konten palsu.
-
-Bukan untuk menyalin mentah-mentah.
-
-Bukan untuk menggantikan pemahamanmu terhadap produk dan pembeli.
-
-AI sebaiknya dipakai sebagai teman berpikir.
-
-Kamu tetap perlu mengecek hasilnya, mengedit bahasanya, memastikan klaimnya aman, dan menyesuaikannya dengan produk yang benar-benar kamu promosikan.
+AI bisa mengarang spesifikasi, menambahkan klaim, menciptakan pengalaman, atau memberi jawaban yang sudah tidak sesuai kondisi terbaru. Karena itu, pegang alur ini: **berikan konteks → terima draft → periksa fakta → edit → audit → baru dipakai.**
 
 ---
 
-## Cara Menggunakan Prompt Pack Ini
+## Enam Aturan Utama
 
-Gunakan prompt di bawah sebagai titik awal.
+**AI tidak boleh mengarang fakta** (ukuran, bahan, harga, stok, komisi) — informasi harus dari produk fisik, spesifikasi, atau halaman produk yang bisa diperiksa.
 
-Kamu boleh menyalin prompt-nya, lalu mengganti bagian yang ada di dalam tanda kurung siku.
+**AI tidak boleh membuat pengalaman atau testimoni palsu** — kalau belum memakai produk, buat konten edukasi, bukan review personal.
 
-Contoh:
+**AI tidak boleh menggantikan bukti produk** — jangan pakai visual AI untuk demonstrasi, before-after, atau menunjukkan hasil penggunaan seolah nyata.
 
-[nama produk]
-diganti menjadi:
-rak bumbu dapur
+**AI tidak menentukan kebijakan platform** — untuk disclosure, label AI, atau musik komersial, tetap cek sumber resmi.
 
-[target pembeli]
-diganti menjadi:
-orang yang punya dapur kecil
-
-[masalah pembeli]
-diganti menjadi:
-botol bumbu sering berantakan dan meja dapur terasa penuh
-
-Semakin jelas konteks yang kamu berikan, semakin berguna hasil AI.
+**Hasil AI tetap tanggung jawabmu** — walau kalimatnya dibuat AI, fakta, klaim, dan dampaknya tetap kamu yang pegang.
 
 ---
 
-## Struktur Prompt yang Disarankan
+## Siapkan Context Pack Sekali, Pakai Berkali-Kali
 
-Sebelum memakai AI, usahakan siapkan 6 informasi ini:
+Daripada mengetik ulang produk-target-masalah di setiap prompt, isi satu template ini sekali, lalu tempel ke prompt mana pun yang kamu butuhkan.
 
-Produk:
-Target pembeli:
-Masalah pembeli:
-Manfaat utama:
-Gaya bahasa:
-Batasan klaim:
+**Nama produk, niche, calon pembeli, situasi pembeli, masalah utama, keinginan, keraguan pembeli**
 
-Contoh:
+**Fakta yang sudah diperiksa** (5): ...
+**Pengalaman pribadi** (atau tulis "belum ada pengalaman langsung"): ...
+**Klaim penjual, hal yang belum diketahui, keterbatasan produk, bukti visual yang tersedia:** ...
+**Gaya bahasa:** santai, jelas, hangat, ramah pemula.
+**Kata/klaim yang harus dihindari:** pasti, dijamin, langsung, wajib, tanpa dasar.
 
-Produk:
-rak bumbu dapur
+### Contoh Context Pack Terisi
 
-Target pembeli:
-ibu rumah tangga, anak kos, atau orang yang punya dapur kecil
+**Produk:** rak bumbu dapur · **Niche:** perlengkapan dapur · **Calon pembeli:** ibu rumah tangga, anak kos, orang dengan dapur kecil · **Masalah:** botol bumbu sering berantakan, meja dapur terasa penuh, bumbu susah dicari saat masak · **Fakta:** rak 3 tingkat, tinggi 40cm, bahan besi · **Manfaat:** membantu menyusun botol bumbu supaya sudut dapur lebih rapi · **Gaya bahasa:** santai, hangat, ramah pemula, tidak lebay · **Hindari:** pasti, dijamin, langsung, wajib.
 
-Masalah pembeli:
-botol bumbu sering berantakan, meja dapur terasa penuh, bumbu susah dicari saat masak
-
-Manfaat utama:
-membantu menyusun botol bumbu supaya sudut dapur terlihat lebih rapi dan bumbu lebih mudah dicari
-
-Gaya bahasa:
-santai, hangat, ramah pemula, tidak lebay
-
-Batasan klaim:
-jangan pakai kata pasti, dijamin, langsung, wajib, atau klaim berlebihan
-
-Kalau informasi ini sudah siap, hasil AI biasanya lebih terarah.
+Simpan Context Pack ini di catatanmu — pakai berulang untuk semua prompt di bawah, tinggal ganti kalau produknya beda.
 
 ---
 
-# Bagian 1
-## Prompt untuk Mencari Ide Konten
+## Master Prompt (Dasar untuk Sebagian Besar Kebutuhan)
 
-Gunakan prompt ini saat kamu bingung mau membuat konten apa.
-
-Prompt:
-
-"Buatkan 10 ide konten TikTok Affiliate untuk produk [nama produk]. Target pembelinya adalah [target pembeli]. Masalah utama yang dibantu produk ini adalah [masalah pembeli]. Gaya bahasa santai, jujur, ramah pemula, dan tidak lebay. Hindari klaim berlebihan, review palsu, dan janji hasil pasti. Buat dalam format: ide konten, hook, angle utama, manfaat yang disampaikan, dan CTA halus."
-
-Contoh penggunaan:
-
-"Buatkan 10 ide konten TikTok Affiliate untuk produk rak bumbu dapur. Target pembelinya adalah orang yang punya dapur kecil. Masalah utama yang dibantu produk ini adalah botol bumbu sering berantakan dan meja dapur terasa penuh. Gaya bahasa santai, jujur, ramah pemula, dan tidak lebay. Hindari klaim berlebihan, review palsu, dan janji hasil pasti. Buat dalam format: ide konten, hook, angle utama, manfaat yang disampaikan, dan CTA halus."
-
-Catatan:
-
-Pilih ide yang paling mudah kamu eksekusi dulu.
-
-Jangan selalu memilih ide yang terlihat paling keren.
-
-Untuk pemula, ide yang paling sederhana dan jelas sering lebih mudah dijalankan.
+> *"Saya sedang membuat konten TikTok Affiliate. Berikut Context Pack saya: [tempel]. Gunakan hanya fakta yang saya berikan, jangan mengarang spesifikasi, jangan membuat pengalaman atau testimoni. Pisahkan fakta, dugaan, dan hal yang perlu diverifikasi. Hindari klaim berlebihan dan hasil pasti — jangan pakai kata 'pasti', 'dijamin', 'auto', 'wajib' tanpa dasar. Gunakan CTA yang tidak memaksa, dan tandai informasi yang masih perlu diperiksa. Tugas: [tuliskan hasil yang kamu inginkan]."*
 
 ---
 
-# Bagian 2
-## Prompt untuk Membuat Hook
+## Prompt Berdasarkan Kebutuhan
 
-Gunakan prompt ini saat kamu butuh kalimat pembuka video.
+Semua prompt di bawah tinggal ditempel Context Pack-mu di bagian akhir.
 
-Prompt:
+**Mencari ide konten** — *"Berdasarkan Context Pack berikut, buatkan 15 ide konten dibagi jadi 3 problem-solution, 3 demonstrasi, 3 checklist sebelum beli, 2 tanya jawab, 2 cocok-untuk-siapa, 2 edukatif. Untuk tiap ide: tujuan, tahap calon pembeli, hook, angle, bukti yang perlu ditampilkan, CTA, dan risiko klaim yang perlu dihindari."*
 
-"Buatkan 20 hook pendek untuk konten TikTok Affiliate produk [nama produk]. Target pembelinya [target pembeli]. Fokus pada masalah [masalah pembeli]. Gunakan bahasa sehari-hari yang natural. Jangan terlalu clickbait, jangan memakai klaim berlebihan, dan jangan menjanjikan hasil pasti."
+**Memilih ide paling realistis** — *"Dari daftar ide berikut [tempel], pilih 5 yang paling realistis berdasarkan alat yang tersedia, kemudahan produksi, kejelasan masalah, bukti visual, dan risiko klaim. Jangan pilih hanya karena terlihat paling viral."*
 
-Contoh:
+**Membuat hook** — *"Buatkan 20 hook pendek, dikelompokkan jadi hook masalah/situasi/pertanyaan/checklist/keterbatasan. Maksimal 12 kata, mudah divisualkan, tidak clickbait, tidak menjanjikan hasil."*
 
-"Buatkan 20 hook pendek untuk konten TikTok Affiliate produk tripod HP. Target pembelinya pemula yang mau mulai bikin konten dari rumah. Fokus pada masalah susah merekam video sendiri karena tidak ada yang membantu. Gunakan bahasa sehari-hari yang natural. Jangan terlalu clickbait, jangan memakai klaim berlebihan, dan jangan menjanjikan hasil pasti."
+**Mengaudit hook** — *"Audit daftar hook berikut dari sisi kejelasan, relevansi, potensi clickbait, dan klaim berlebihan. Tandai hijau (layak) / kuning (perlu revisi) / merah (jangan dipakai), lalu beri revisi untuk yang kuning-merah."*
 
-Cara memilih hook:
+**Skrip 15 detik** — *"Buatkan skrip ~15 detik dengan struktur hook → situasi/masalah → produk → satu bukti → satu hal yang perlu diperiksa → CTA. Kalimat pendek dan natural, jangan tambah fakta."*
 
-Pilih hook yang:
-- paling dekat dengan masalah pembeli
-- mudah dipahami dalam 1–3 detik
-- tidak terlalu panjang
-- tidak terdengar seperti iklan berlebihan
-- bisa langsung divisualkan dalam video
+**Skrip 30 detik** — sama seperti di atas, tapi dengan struktur lebih lengkap (hook → situasi → produk → demonstrasi → manfaat → batasan → CTA), dan minta dua versi: tanpa wajah dan dengan wajah.
 
-Contoh hook yang baik:
+**Memendekkan skrip** — *"Pendekkan skrip berikut jadi sekitar [15/20/30] detik. Pertahankan hook, masalah, produk, bukti, batasan, dan CTA. Hapus pengulangan dan kata promosi kosong."*
 
-"Dapur kecil tapi botol bumbu sering berantakan?"
+**Membuat bahasa lebih natural** — *"Ubah skrip ini agar terdengar seperti percakapan sehari-hari — santai, hangat, tidak sok akrab, tidak terlalu sales. Jangan ubah fakta atau hilangkan batasan produk."*
 
-"Mau mulai bikin konten tapi belum ada yang bantu rekam?"
+**Fitur jadi manfaat** — *"Ubah tiap fitur produk ini jadi fungsi, manfaat yang masuk akal, situasi penggunaan, batasan, dan contoh kalimat konten. Jangan melompat dari fitur kecil ke hasil besar."*
 
-"Meja kerja penuh kabel? Mulai rapikan dari bagian kecil dulu."
+**Shot list** — *"Buatkan shot list untuk skrip ini, format [tanpa wajah/tangan/POV/wajah], durasi [isi], alat ponsel sederhana. Tabel: nomor shot, visual, teks/voice-over, tujuan, risiko visual yang perlu dihindari."*
 
----
+**Konten tanpa wajah** — *"Buatkan 10 konsep konten tanpa wajah (tangan, POV, dari atas, teks di layar, voiceover, slideshow aset sendiri). Tiap konsep: hook, visual, bukti, CTA."*
 
-# Bagian 3
-## Prompt untuk Membuat Script 15 Detik
+**Problem-solution** — *"Buatkan 10 konsep problem-solution: situasi, masalah, hook, produk sebagai alat bantu (bukan solusi mutlak), bukti, batasan, CTA."*
 
-Gunakan prompt ini untuk video pendek yang langsung ke inti.
+**Checklist sebelum beli** — *"Buatkan konten 'sebelum beli, cek ini': satu hook, lima poin pemeriksaan dengan alasan, visual yang perlu ditampilkan, CTA. Jangan buat calon pembeli takut berlebihan."*
 
-Prompt:
+**"Cocok untuk siapa?"** — *"Jelaskan siapa yang mungkin terbantu, situasi yang relevan, siapa yang mungkin kurang cocok, dan hal yang perlu diperiksa. Jangan anggap produk cocok untuk semua orang."*
 
-"Buatkan script TikTok Affiliate berdurasi sekitar 15 detik untuk produk [nama produk]. Target pembelinya [target pembeli]. Masalah yang dibahas adalah [masalah pembeli]. Gunakan struktur: hook, masalah, produk, manfaat, CTA. Gaya bahasa santai, natural, dan tidak memaksa. Hindari klaim berlebihan, review palsu, dan janji hasil pasti."
+**Perbandingan yang adil** — *"Buatkan 5 konsep perbandingan (cara lama vs baru, sebelum-sesudah, dua variasi). Jangan menjelekkan produk lain, jangan buat perbandingan yang tidak sebanding."*
 
-Contoh:
+**Before-after yang jujur** — *"Buatkan 5 konsep before-after: kondisi awal, proses, kondisi akhir, elemen yang harus dibuat sebanding, risiko visual menyesatkan. Jangan tambahkan barang/kapasitas/perubahan yang tidak terjadi."*
 
-"Buatkan script TikTok Affiliate berdurasi sekitar 15 detik untuk produk rak bumbu dapur. Target pembelinya orang yang punya dapur kecil. Masalah yang dibahas adalah botol bumbu sering berantakan dan meja dapur terasa penuh. Gunakan struktur: hook, masalah, produk, manfaat, CTA. Gaya bahasa santai, natural, dan tidak memaksa. Hindari klaim berlebihan, review palsu, dan janji hasil pasti."
+**Review jujur** *(hanya kalau kamu sudah memakai produk)* — *"Berdasarkan pengalaman penggunaan berikut [tempel], buatkan struktur review: fakta, pengalaman pribadi, opini, keterbatasan, hal yang belum diuji, cocok/kurang cocok untuk siapa, CTA. Jangan ubah pengalaman singkat jadi klaim jangka panjang."*
 
-Catatan editing:
+**Konten edukatif tanpa produk fisik** *(kalau belum pernah memakai produk)* — *"Buatkan 10 ide konten edukatif tentang kategori [isi]: cara memilih, hal yang perlu diperiksa, kesalahan umum, pertanyaan pembeli. Jangan gunakan sudut review pribadi atau buat pengalaman penggunaan."*
 
-Setelah AI memberi script, cek lagi:
+**Menjawab komentar** — *"Berikut komentar penonton [tempel]. Fakta yang saya tahu: [isi]. Hal yang belum saya tahu: [isi]. Buatkan 5 konsep jawaban: hook, jawaban, bukti, info yang perlu diverifikasi, CTA. Jangan buat jawaban pasti kalau datanya belum tersedia."*
 
-- apakah terlalu panjang?
-- apakah bahasa terlalu kaku?
-- apakah ada klaim berlebihan?
-- apakah produk dijelaskan dengan benar?
-- apakah CTA terlalu memaksa?
+**Skenario edukatif** — *"Buatkan tiga skenario edukatif yang realistis untuk menjelaskan situasi calon pembeli. Harus jelas disebut simulasi, tidak menyerupai testimoni, tidak mengarang hasil penjualan."* Tambahkan selalu catatan: ***"Skenario ini merupakan simulasi edukatif, bukan testimoni atau jaminan hasil."***
 
-Kalau iya, edit dulu.
+**Caption** — *"Buatkan 10 caption pendek (konteks, pertanyaan, edukatif, pertimbangan, CTA). Jangan mengulang seluruh skrip, jangan pakai hashtag tidak relevan."*
 
----
+**CTA halus** — *"Buatkan 15 CTA (cek ukuran, cek variasi, cek ulasan, pertimbangan, bertanya). Hindari kata wajib, buruan, pasti, dijamin, atau nada menekan."*
 
-# Bagian 4
-## Prompt untuk Membuat Script 30 Detik
+**Audit klaim** — *"Audit skrip ini dari sisi klaim. Tandai fakta/pengalaman/opini/klaim penjual/asumsi/klaim berlebihan dengan status hijau-kuning-merah. Beri revisi yang lebih proporsional tanpa menambah fakta atau menghilangkan batasan."*
 
-Gunakan prompt ini jika kamu ingin penjelasan sedikit lebih lengkap.
+**Audit etika lengkap** — *"Audit konten ini: kesesuaian produk, klaim, pengalaman, testimoni, visual, hak cipta, musik, identitas orang lain, penggunaan AI, disclosure, CTA, urgensi, privasi. Beri temuan, tingkat risiko, bagian yang perlu diperbaiki/dihapus, dan versi revisi. Jangan nyatakan konten pasti aman secara hukum/kebijakan."*
 
-Prompt:
+**Content calendar 7 atau 14 hari** — *"Berdasarkan Context Pack, buatkan rencana [7/14] hari mencakup riset, skrip, produksi, publikasi, evaluasi — tidak harus posting tiap hari. Tiap konten: tujuan, angle, hook, bukti, CTA. Sesuaikan dengan kapasitas [isi jumlah waktu/target]."*
 
-"Buatkan script TikTok Affiliate berdurasi sekitar 30 detik untuk produk [nama produk]. Target pembelinya [target pembeli]. Masalah utama mereka adalah [masalah pembeli]. Jelaskan produk dengan struktur: hook, situasi masalah, produk sebagai alat bantu, manfaat, hal yang perlu dicek sebelum beli, dan CTA halus. Gunakan bahasa natural, tidak lebay, dan tidak membuat klaim berlebihan."
+**Evaluasi data** — *"Berikut data konten saya [tempel]. Pisahkan observasi dan dugaan, bandingkan konten yang sejenis, jangan buat kesimpulan sebab-akibat, cari maksimal 3 pola sementara dan 3 hipotesis, sarankan satu uji per hipotesis. Jangan sebut satu format 'terbukti terbaik' kalau data belum cukup."*
 
-Contoh:
+**Rencana konten berikutnya** — *"Berdasarkan evaluasi ini [tempel], buatkan rencana 5 konten berikutnya — masing-masing dengan satu variabel yang diuji dan hal yang dipertahankan. Jangan ubah semua variabel sekaligus."*
 
-"Buatkan script TikTok Affiliate berdurasi sekitar 30 detik untuk produk tripod HP. Target pembelinya pemula yang ingin membuat konten sendiri dari rumah. Masalah utama mereka adalah sulit merekam video karena tidak ada yang membantu. Jelaskan produk dengan struktur: hook, situasi masalah, produk sebagai alat bantu, manfaat, hal yang perlu dicek sebelum beli, dan CTA halus. Gunakan bahasa natural, tidak lebay, dan tidak membuat klaim berlebihan."
+**Live selling (struktur & FAQ)** — *"Buatkan struktur live ~15-20 menit dengan sistem putaran (pembuka-masalah-produk-demo-pertimbangan-FAQ-CTA-pengulangan), poin bicara singkat bukan skrip hafalan. Lalu buatkan 20 kemungkinan pertanyaan penonton dikelompokkan (ukuran/bahan/fungsi/harga/keterbatasan), dengan jawaban dari fakta saja dan kalimat aman kalau belum tahu."*
 
-Catatan:
+**Menentukan produk yang layak diuji** — *"Berdasarkan hasil riset produk ini [tempel dari Bonus 2], pisahkan kekuatan, kelemahan, red flag, info yang kurang, dan potensi konten. Berikan keputusan: uji sekarang / uji terbatas / tunda / bandingkan penjual lain / hindari. Jangan jadikan skor atau komisi sebagai satu-satunya dasar."*
 
-Script 30 detik cocok untuk:
-- review jujur
-- checklist sebelum beli
-- problem-solution
-- demo produk
-- menjawab keraguan pembeli
+**SOP produksi sederhana** — *"Berdasarkan alat, waktu, dan kapasitas berikut [isi], buatkan SOP produksi: riset → persona → ide → skrip → shot list → produksi → audit → publikasi → catat → evaluasi. Buat versi satu konten dan versi batch tiga konten."*
 
 ---
 
-# Bagian 5
-## Prompt untuk Membuat Caption
+## Kata yang Perlu Diwaspadai
 
-Gunakan prompt ini untuk membuat caption yang mendukung video.
+Kalau hasil AI memakai kata **pasti, dijamin, auto, langsung, wajib, terbaik, selalu, tidak pernah, tanpa risiko, ampuh, terbukti, hasil instan, cocok untuk semua, buruan** — periksa lagi. Bukan berarti kata-kata ini selalu salah, tapi butuh dasar yang kuat.
 
-Prompt:
-
-"Buatkan 15 caption pendek untuk konten TikTok Affiliate produk [nama produk]. Target pembelinya [target pembeli]. Gaya bahasa santai, tidak terlalu jualan, tidak lebay, dan tidak menjanjikan hasil pasti. Sertakan CTA halus di beberapa caption."
-
-Contoh:
-
-"Buatkan 15 caption pendek untuk konten TikTok Affiliate produk organizer kabel. Target pembelinya mahasiswa dan pekerja dari rumah yang meja kerjanya sering penuh kabel. Gaya bahasa santai, tidak terlalu jualan, tidak lebay, dan tidak menjanjikan hasil pasti. Sertakan CTA halus di beberapa caption."
-
-Contoh caption yang aman:
-
-"Mulai rapikan meja dari bagian kecil dulu."
-
-"Kalau kabel sering berantakan, mungkin kamu perlu tempat khusus."
-
-"Cek ukuran dan detail produknya dulu sebelum beli."
-
-"Solusi kecil untuk meja yang sering penuh kabel."
+Ganti dengan: **dapat membantu, bisa jadi pilihan, cocok dipertimbangkan, dalam penggunaan saya, berdasarkan informasi produk, periksa ukuran, sesuaikan dengan kebutuhan, hasil dapat berbeda.**
 
 ---
 
-# Bagian 6
-## Prompt untuk Membuat CTA Halus
+## Checklist Setelah Menggunakan AI
 
-Gunakan prompt ini jika kamu bingung mengajak orang cek produk tanpa terdengar memaksa.
+**Fakta:** produk yang disebut benar, ukuran/bahan sesuai, fitur tidak ditambah, harga/stok tidak dikarang, hal yang belum diketahui sudah ditandai.
 
-Prompt:
+**Pengalaman & klaim:** tidak ada pengalaman/testimoni palsu, tidak ada hasil pasti atau klaim "cocok untuk semua", keterbatasan tidak dihapus.
 
-"Buatkan 20 CTA halus untuk konten TikTok Affiliate produk [nama produk]. Gaya bahasa santai, tidak memaksa, tidak memakai kata wajib, pasti, dijamin, atau buruan. CTA harus mengarahkan penonton untuk cek detail produk dengan bijak."
+**Bahasa & visual:** terasa natural, tidak terlalu panjang atau seperti katalog, CTA tidak memaksa, visual dapat dibuat secara nyata, AI tidak dipakai sebagai bukti.
 
-Contoh:
-
-"Buatkan 20 CTA halus untuk konten TikTok Affiliate produk rak bumbu dapur. Gaya bahasa santai, tidak memaksa, tidak memakai kata wajib, pasti, dijamin, atau buruan. CTA harus mengarahkan penonton untuk cek detail produk dengan bijak."
-
-Contoh CTA halus:
-
-"Cek ukuran dan detailnya dulu di keranjang."
-
-"Kalau punya masalah yang sama, boleh lihat produknya dulu."
-
-"Pastikan ukurannya cocok dengan kebutuhanmu sebelum beli."
-
-"Detail produk dan review bisa kamu cek di keranjang."
+**Disclosure & etika:** disclosure komersial dan kebutuhan label AI sudah diperiksa, hak musik diperiksa, tidak ada data pribadi.
 
 ---
 
-# Bagian 7
-## Prompt untuk Membuat Shot List
+## Catat Prompt yang Benar-Benar Berguna
 
-Shot list adalah daftar adegan yang perlu direkam.
-
-Prompt:
-
-"Buatkan shot list untuk video TikTok Affiliate berdurasi [15/30] detik tentang produk [nama produk]. Format video [tanpa wajah / tangan saja / voiceover / tampil wajah]. Target pembelinya [target pembeli]. Alurnya: hook, masalah, produk, manfaat, CTA. Buat 5–7 shot yang mudah direkam dengan HP dari rumah."
-
-Contoh:
-
-"Buatkan shot list untuk video TikTok Affiliate berdurasi 20 detik tentang produk rak bumbu dapur. Format video tanpa wajah dan hanya menampilkan tangan. Target pembelinya orang yang punya dapur kecil. Alurnya: hook, masalah, produk, manfaat, CTA. Buat 5–7 shot yang mudah direkam dengan HP dari rumah."
-
-Contoh shot list yang mungkin muncul:
-
-1. Tampilkan meja dapur dengan botol bumbu berantakan
-2. Close-up beberapa botol bumbu
-3. Tampilkan rak bumbu
-4. Susun botol bumbu ke rak
-5. Tampilkan hasil setelah lebih rapi
-6. Tambahkan teks manfaat
-7. Tampilkan CTA cek ukuran di keranjang
-
-Catatan:
-
-Pastikan shot list tetap sesuai dengan produk asli.
-
-Jangan membuat visual yang menyesatkan.
+Tidak perlu menyimpan semua prompt yang pernah kamu coba — simpan yang menghasilkan output jelas, mudah disesuaikan, dan benar-benar kamu pakai berulang. Catat: tanggal, prompt yang dipakai, tujuan, dan versi final setelah kamu edit. Ini membantumu tahu prompt mana yang paling cocok dengan gaya kontenmu.
 
 ---
 
-# Bagian 8
-## Prompt untuk Konten Tanpa Wajah
+## Penutup Prompt AI Pack
 
-Gunakan prompt ini jika kamu belum percaya diri tampil di kamera.
+AI dapat membantu membuat proses konten terasa lebih ringan. Tapi AI tidak menggantikan riset produk, pemahaman pembeli, pengalaman nyata, pemeriksaan fakta, dan tanggung jawab kreator.
 
-Prompt:
+Gunakan AI untuk membuka kemungkinan, menyusun pilihan, dan merapikan proses — jangan untuk menciptakan kenyataan, mengarang pengalaman, atau menutupi produk yang lemah.
 
-"Buatkan 10 konsep konten TikTok Affiliate tanpa wajah untuk produk [nama produk]. Target pembelinya [target pembeli]. Fokus pada masalah [masalah pembeli]. Format konten boleh berupa tangan saja, POV produk, before-after, text on screen, voiceover, atau slideshow foto sendiri. Hindari klaim berlebihan dan review palsu."
+Alur yang sehat: **pahami → beri konteks → minta draft → periksa → edit → audit → praktikkan.** Konten yang baik bukan sekadar konten yang dibuat dengan AI — tapi konten yang punya dasar, sesuai produk, menunjukkan bukti, dan tetap berada di bawah kendali manusia.
 
-Contoh:
-
-"Buatkan 10 konsep konten TikTok Affiliate tanpa wajah untuk produk tripod HP. Target pembelinya pemula yang ingin membuat konten dari rumah. Fokus pada masalah sulit merekam video sendiri. Format konten boleh berupa tangan saja, POV produk, before-after, text on screen, voiceover, atau slideshow foto sendiri. Hindari klaim berlebihan dan review palsu."
-
-Catatan:
-
-Konten tanpa wajah tetap harus jelas.
-
-Produk terlihat.
-Masalah tersampaikan.
-Manfaat dijelaskan.
-CTA tidak memaksa.
-
----
-
-# Bagian 9
-## Prompt untuk Mengubah Fitur Menjadi Manfaat
-
-Gunakan prompt ini agar konten tidak terasa seperti katalog.
-
-Prompt:
-
-"Bantu saya mengubah fitur produk [nama produk] menjadi manfaat untuk calon pembeli. Target pembelinya [target pembeli]. Fitur produk: [tulis fitur]. Buat dalam format: fitur, manfaat, situasi penggunaan, dan contoh kalimat konten. Gunakan bahasa sederhana dan tidak berlebihan."
-
-Contoh:
-
-"Bantu saya mengubah fitur produk rak bumbu dapur menjadi manfaat untuk calon pembeli. Target pembelinya orang yang punya dapur kecil. Fitur produk: rak 3 tingkat, ukuran kecil, bisa menampung beberapa botol bumbu. Buat dalam format: fitur, manfaat, situasi penggunaan, dan contoh kalimat konten. Gunakan bahasa sederhana dan tidak berlebihan."
-
-Contoh hasil yang diinginkan:
-
-Fitur:
-rak 3 tingkat
-
-Manfaat:
-membantu menyusun lebih banyak botol bumbu tanpa memenuhi meja
-
-Situasi:
-cocok untuk dapur kecil yang botol bumbunya sering tercecer
-
-Kalimat konten:
-"Kalau meja dapur kamu sering penuh botol bumbu, rak 3 tingkat seperti ini bisa bantu susun bumbu supaya lebih rapi."
-
----
-
-# Bagian 10
-## Prompt untuk Membuat Konten Problem-Solution
-
-Prompt:
-
-"Buatkan 10 ide konten problem-solution untuk produk [nama produk]. Target pembelinya [target pembeli]. Masalah utama mereka adalah [masalah pembeli]. Buat dalam format: masalah, hook, produk sebagai solusi, manfaat, dan CTA halus. Jangan memakai klaim berlebihan."
-
-Contoh:
-
-"Buatkan 10 ide konten problem-solution untuk produk organizer kabel. Target pembelinya pekerja dari rumah dan mahasiswa. Masalah utama mereka adalah meja kerja penuh kabel charger dan headset. Buat dalam format: masalah, hook, produk sebagai solusi, manfaat, dan CTA halus. Jangan memakai klaim berlebihan."
-
-Catatan:
-
-Format problem-solution cocok untuk pemula karena alurnya jelas.
-
-Masalah → produk → manfaat → CTA.
-
----
-
-# Bagian 11
-## Prompt untuk Konten Before-After
-
-Prompt:
-
-"Buatkan 10 konsep konten before-after untuk produk [nama produk]. Target pembelinya [target pembeli]. Jelaskan visual sebelum, proses sederhana, visual sesudah, teks layar, dan CTA. Pastikan hasil before-after tidak berlebihan dan tidak menyesatkan."
-
-Contoh:
-
-"Buatkan 10 konsep konten before-after untuk produk rak bumbu dapur. Target pembelinya orang yang punya dapur kecil. Jelaskan visual sebelum, proses sederhana, visual sesudah, teks layar, dan CTA. Pastikan hasil before-after tidak berlebihan dan tidak menyesatkan."
-
-Catatan:
-
-Before-after harus realistis.
-
-Jangan membuat hasil yang terlalu dibuat-buat.
-
-Tampilkan perubahan yang wajar.
-
----
-
-# Bagian 12
-## Prompt untuk Review Jujur
-
-Gunakan prompt ini jika kamu memang sudah memahami atau memakai produk.
-
-Prompt:
-
-"Buatkan struktur review jujur untuk produk [nama produk]. Target pembelinya [target pembeli]. Bahas: produk ini apa, cocok untuk siapa, manfaat utama, hal yang perlu dicek sebelum beli, batasan produk, dan CTA halus. Jangan memakai klaim berlebihan, jangan membuat pengalaman palsu, dan jangan terdengar terlalu sales."
-
-Contoh:
-
-"Buatkan struktur review jujur untuk produk tripod HP. Target pembelinya pemula yang ingin membuat konten dari rumah. Bahas: produk ini apa, cocok untuk siapa, manfaat utama, hal yang perlu dicek sebelum beli, batasan produk, dan CTA halus. Jangan memakai klaim berlebihan, jangan membuat pengalaman palsu, dan jangan terdengar terlalu sales."
-
-Catatan:
-
-Kalau kamu belum pernah memakai produk, jangan membuat review personal.
-
-Gunakan format edukatif seperti:
-
-"Hal yang perlu dicek sebelum beli..."
-
-bukan:
-
-"Saya sudah pakai dan hasilnya..."
-
----
-
-# Bagian 13
-## Prompt untuk Checklist Sebelum Beli
-
-Konten checklist bagus untuk membangun trust.
-
-Prompt:
-
-"Buatkan konten TikTok Affiliate format checklist sebelum beli untuk produk [nama produk]. Target pembelinya [target pembeli]. Buat 5 poin yang perlu dicek pembeli sebelum membeli. Gaya bahasa santai, jujur, dan membantu. Jangan membuat klaim berlebihan."
-
-Contoh:
-
-"Buatkan konten TikTok Affiliate format checklist sebelum beli untuk produk rak bumbu dapur. Target pembelinya orang yang punya dapur kecil. Buat 5 poin yang perlu dicek pembeli sebelum membeli. Gaya bahasa santai, jujur, dan membantu. Jangan membuat klaim berlebihan."
-
-Contoh poin checklist:
-
-- cek ukuran rak
-- cek ukuran botol bumbu
-- cek bahan
-- cek cara pemasangan
-- cek review pembeli
-
-Catatan:
-
-Konten seperti ini membantu pembeli mengambil keputusan dengan lebih bijak.
-
----
-
-# Bagian 14
-## Prompt untuk Menjawab Keraguan Pembeli
-
-Gunakan prompt ini jika kamu menemukan komentar atau pertanyaan dari penonton.
-
-Prompt:
-
-"Bantu saya membuat 10 ide konten untuk menjawab keraguan pembeli tentang produk [nama produk]. Keraguan yang muncul adalah [tulis keraguan]. Target pembelinya [target pembeli]. Buat dalam format: pertanyaan pembeli, jawaban konten, hook, dan CTA halus. Jangan membuat jawaban yang terlalu pasti jika informasinya perlu dicek di halaman produk."
-
-Contoh:
-
-"Bantu saya membuat 10 ide konten untuk menjawab keraguan pembeli tentang produk rak bumbu dapur. Keraguan yang muncul adalah apakah rak ini cocok untuk botol bumbu tinggi. Target pembelinya orang yang punya dapur kecil. Buat dalam format: pertanyaan pembeli, jawaban konten, hook, dan CTA halus. Jangan membuat jawaban yang terlalu pasti jika informasinya perlu dicek di halaman produk."
-
-Contoh CTA:
-
-"Cek ukuran rak dan botol kamu dulu sebelum beli."
-
----
-
-# Bagian 15
-## Prompt untuk Membuat Variasi dari 1 Produk
-
-Gunakan prompt ini agar kamu tidak cepat kehabisan ide.
-
-Prompt:
-
-"Buatkan 20 variasi ide konten TikTok Affiliate dari satu produk: [nama produk]. Target pembelinya [target pembeli]. Bagi ide ke beberapa format: problem-solution, before-after, demo, review jujur, checklist, edukasi, tanya-jawab, dan soft selling. Hindari klaim berlebihan dan jangan membuat review palsu."
-
-Contoh:
-
-"Buatkan 20 variasi ide konten TikTok Affiliate dari satu produk: organizer kabel. Target pembelinya mahasiswa dan pekerja dari rumah yang meja kerjanya penuh kabel. Bagi ide ke beberapa format: problem-solution, before-after, demo, review jujur, checklist, edukasi, tanya-jawab, dan soft selling. Hindari klaim berlebihan dan jangan membuat review palsu."
-
-Catatan:
-
-Satu produk bisa menjadi banyak konten.
-
-Jangan buru-buru ganti produk kalau kamu belum mencoba beberapa angle.
-
----
-
-# Bagian 16
-## Prompt untuk Membuat Content Calendar 7 Hari
-
-Prompt:
-
-"Buatkan content calendar 7 hari untuk TikTok Affiliate produk [nama produk]. Niche-nya [niche]. Target pembelinya [target pembeli]. Setiap hari berisi: format konten, hook, angle, manfaat utama, CTA, dan catatan produksi. Gaya konten ramah pemula, realistis, dan tidak memakai klaim berlebihan."
-
-Contoh:
-
-"Buatkan content calendar 7 hari untuk TikTok Affiliate produk rak bumbu dapur. Niche-nya perlengkapan dapur. Target pembelinya orang yang punya dapur kecil. Setiap hari berisi: format konten, hook, angle, manfaat utama, CTA, dan catatan produksi. Gaya konten ramah pemula, realistis, dan tidak memakai klaim berlebihan."
-
-Catatan:
-
-Gunakan kalender ini sebagai panduan.
-
-Boleh disesuaikan dengan waktu, alat, dan produk yang kamu punya.
-
----
-
-# Bagian 17
-## Prompt untuk Membuat Content Calendar 14 Hari
-
-Prompt:
-
-"Buatkan content calendar 14 hari untuk akun TikTok Affiliate niche [niche]. Produk utama yang ingin diuji adalah [produk 1], [produk 2], dan [produk 3]. Target pembelinya [target pembeli]. Buat variasi format konten seperti problem-solution, demo, before-after, checklist, review jujur, edukasi, dan tanya-jawab. Untuk setiap hari, tulis hook, angle, produk, CTA, dan catatan produksi. Hindari klaim berlebihan dan review palsu."
-
-Contoh:
-
-"Buatkan content calendar 14 hari untuk akun TikTok Affiliate niche home organizer. Produk utama yang ingin diuji adalah organizer kabel, rak meja kecil, dan holder HP. Target pembelinya mahasiswa dan pekerja dari rumah. Buat variasi format konten seperti problem-solution, demo, before-after, checklist, review jujur, edukasi, dan tanya-jawab. Untuk setiap hari, tulis hook, angle, produk, CTA, dan catatan produksi. Hindari klaim berlebihan dan review palsu."
-
-Catatan:
-
-Kalender 14 hari cocok dipakai setelah kamu punya niche dan beberapa produk kandidat.
-
----
-
-# Bagian 18
-## Prompt untuk Audit Klaim
-
-Gunakan prompt ini sebelum upload.
-
-Prompt:
-
-"Tolong audit script TikTok Affiliate berikut. Cek apakah ada klaim berlebihan, review palsu, testimoni palsu, informasi menyesatkan, CTA yang terlalu memaksa, atau kalimat yang terlalu menjanjikan. Jika ada, berikan versi revisi yang lebih aman, jujur, dan tetap menarik. Ini script-nya: [tempel script]."
-
-Contoh:
-
-"Tolong audit script TikTok Affiliate berikut. Cek apakah ada klaim berlebihan, review palsu, testimoni palsu, informasi menyesatkan, CTA yang terlalu memaksa, atau kalimat yang terlalu menjanjikan. Jika ada, berikan versi revisi yang lebih aman, jujur, dan tetap menarik. Ini script-nya: ‘Tripod ini wajib banget, dijamin video kamu langsung profesional.’"
-
-Contoh revisi yang diharapkan:
-
-"Kalau kamu sering rekam video sendirian, tripod seperti ini bisa membantu video lebih stabil. Cek tinggi dan ukuran holder-nya dulu supaya sesuai dengan HP kamu."
-
-Catatan:
-
-Prompt audit klaim sangat penting untuk menjaga trust.
-
-Gunakan terutama jika script terasa terlalu agresif.
-
----
-
-# Bagian 19
-## Prompt untuk Membuat Bahasa Lebih Natural
-
-Kadang hasil AI terdengar kaku.
-
-Gunakan prompt ini untuk membuatnya lebih manusiawi.
-
-Prompt:
-
-"Ubah script berikut agar terdengar lebih natural seperti bahasa sehari-hari di TikTok. Tetap jaga agar tidak lebay, tidak terlalu sales, tidak memakai klaim berlebihan, dan tidak menjanjikan hasil pasti. Ini script-nya: [tempel script]."
-
-Contoh:
-
-"Ubah script berikut agar terdengar lebih natural seperti bahasa sehari-hari di TikTok. Tetap jaga agar tidak lebay, tidak terlalu sales, tidak memakai klaim berlebihan, dan tidak menjanjikan hasil pasti. Ini script-nya: ‘Produk ini merupakan solusi optimal untuk menciptakan dapur yang lebih tertata dan efisien.’"
-
-Contoh revisi:
-
-"Kalau dapur kamu kecil dan botol bumbu sering berantakan, rak seperti ini bisa bantu bikin sudut dapur terlihat lebih rapi."
-
----
-
-# Bagian 20
-## Prompt untuk Memendekkan Script
-
-Gunakan prompt ini jika script terlalu panjang.
-
-Prompt:
-
-"Pendekkan script berikut menjadi versi 15–20 detik untuk TikTok. Pertahankan struktur hook, masalah, produk, manfaat, dan CTA. Buat bahasa tetap natural, jelas, dan tidak berlebihan. Ini script-nya: [tempel script]."
-
-Catatan:
-
-Video pendek sebaiknya cepat masuk ke inti.
-
-Jangan terlalu lama memberi pembuka.
-
----
-
-# Bagian 21
-## Prompt untuk Membuat Konten Edukatif Tanpa Review Palsu
-
-Gunakan prompt ini jika kamu belum memegang produk atau belum pernah memakainya.
-
-Prompt:
-
-"Buatkan 10 ide konten edukatif TikTok Affiliate tentang [kategori produk], tanpa mengaku sudah memakai produk dan tanpa membuat review palsu. Fokus pada hal yang perlu dicek sebelum membeli, cara memilih produk, kesalahan umum, dan pertanyaan pembeli. Target pembelinya [target pembeli]. Gunakan bahasa santai, jujur, dan tidak berlebihan."
-
-Contoh:
-
-"Buatkan 10 ide konten edukatif TikTok Affiliate tentang rak bumbu dapur, tanpa mengaku sudah memakai produk dan tanpa membuat review palsu. Fokus pada hal yang perlu dicek sebelum membeli, cara memilih produk, kesalahan umum, dan pertanyaan pembeli. Target pembelinya orang yang punya dapur kecil. Gunakan bahasa santai, jujur, dan tidak berlebihan."
-
-Contoh ide:
-
-"3 hal yang perlu dicek sebelum beli rak bumbu."
-
-"Cara memilih rak bumbu untuk dapur kecil."
-
-"Jangan lupa ukur botol bumbu sebelum beli rak."
-
-Catatan:
-
-Konten edukatif bisa menjadi pilihan yang lebih aman jika kamu belum punya pengalaman langsung dengan produk tertentu.
-
----
-
-# Bagian 22
-## Prompt untuk Membuat Ide dari Komentar Penonton
-
-Gunakan prompt ini setelah kamu mendapat komentar.
-
-Prompt:
-
-"Saya mendapat komentar penonton seperti ini: [tempel komentar]. Produk yang saya bahas adalah [nama produk]. Target pembeli saya [target pembeli]. Tolong buatkan 5 ide konten lanjutan untuk menjawab komentar ini dengan jujur, jelas, dan tidak berlebihan. Sertakan hook, angle, dan CTA halus."
-
-Contoh:
-
-"Saya mendapat komentar penonton seperti ini: ‘Ini muat buat botol bumbu tinggi nggak?’ Produk yang saya bahas adalah rak bumbu dapur. Target pembeli saya orang yang punya dapur kecil. Tolong buatkan 5 ide konten lanjutan untuk menjawab komentar ini dengan jujur, jelas, dan tidak berlebihan. Sertakan hook, angle, dan CTA halus."
-
-Catatan:
-
-Komentar adalah bahan konten yang sangat bagus.
-
-Karena komentar menunjukkan keraguan nyata dari penonton.
-
----
-
-# Bagian 23
-## Prompt untuk Evaluasi Konten
-
-Gunakan prompt ini setelah kamu punya beberapa data konten.
-
-Prompt:
-
-"Saya punya data beberapa konten TikTok Affiliate. Tolong bantu analisis pola secara sederhana. Jangan membuat kesimpulan terlalu pasti. Bantu lihat konten mana yang lebih baik dari sisi hook, format, klik produk, komentar, dan potensi perbaikan. Ini datanya: [tempel data konten]."
-
-Format data yang bisa kamu tempel:
-
-Konten 1:
-Produk:
-Hook:
-Format:
-Views:
-Komentar:
-Klik produk:
-Order:
-Catatan:
-
-Konten 2:
-Produk:
-Hook:
-Format:
-Views:
-Komentar:
-Klik produk:
-Order:
-Catatan:
-
-Catatan:
-
-AI bisa membantu membaca pola, tapi jangan dijadikan hakim mutlak.
-
-Tetap gunakan penilaianmu sendiri.
-
----
-
-# Bagian 24
-## Prompt untuk Rencana Perbaikan 5 Konten Berikutnya
-
-Prompt:
-
-"Berdasarkan data konten berikut: [tempel data], buatkan rencana 5 konten berikutnya. Fokus pada perbaikan hook, angle, format, CTA, dan kejelasan manfaat. Jangan menyarankan klaim berlebihan atau cara yang menyesatkan."
-
-Contoh:
-
-"Berdasarkan data konten berikut: konten before-after mendapat views lebih baik, tapi klik masih rendah; konten checklist mendapat klik lebih baik, tapi views lebih kecil. Buatkan rencana 5 konten berikutnya. Fokus pada perbaikan hook, angle, format, CTA, dan kejelasan manfaat. Jangan menyarankan klaim berlebihan atau cara yang menyesatkan."
-
-Catatan:
-
-Prompt ini berguna setelah kamu punya minimal 5–10 konten.
-
----
-
-# Bagian 25
-## Prompt untuk Live Selling
-
-Prompt:
-
-"Buatkan script live selling 15 menit untuk produk [nama produk]. Target penontonnya [target pembeli]. Masalah utama yang dibahas adalah [masalah]. Gunakan struktur: pembuka, kenalkan produk, demo, manfaat, jawab keraguan umum, CTA halus, dan pengulangan untuk penonton baru. Bahasa santai, jujur, tidak memaksa, dan tidak memakai klaim berlebihan."
-
-Contoh:
-
-"Buatkan script live selling 15 menit untuk produk rak bumbu dapur. Target penontonnya orang yang punya dapur kecil. Masalah utama yang dibahas adalah botol bumbu sering berantakan dan meja dapur terasa penuh. Gunakan struktur: pembuka, kenalkan produk, demo, manfaat, jawab keraguan umum, CTA halus, dan pengulangan untuk penonton baru. Bahasa santai, jujur, tidak memaksa, dan tidak memakai klaim berlebihan."
-
-Catatan:
-
-Saat live, jangan membaca script seperti robot.
-
-Gunakan script sebagai pegangan.
-
-Bicaralah lebih natural.
-
----
-
-# Bagian 26
-## Prompt untuk Q&A Live
-
-Prompt:
-
-"Buatkan 20 pertanyaan yang mungkin ditanyakan penonton saat live selling produk [nama produk]. Target penontonnya [target pembeli]. Sertakan jawaban yang jujur, hati-hati, dan tidak berlebihan. Jika jawabannya bergantung pada detail produk, arahkan penonton untuk cek halaman produk."
-
-Contoh:
-
-"Buatkan 20 pertanyaan yang mungkin ditanyakan penonton saat live selling produk tripod HP. Target penontonnya pemula yang ingin membuat konten dari rumah. Sertakan jawaban yang jujur, hati-hati, dan tidak berlebihan. Jika jawabannya bergantung pada detail produk, arahkan penonton untuk cek halaman produk."
-
-Contoh jawaban aman:
-
-"Untuk ukuran pastinya, lebih aman cek detail produk di keranjang ya, karena tiap varian bisa berbeda."
-
----
-
-# Bagian 27
-## Prompt untuk Cek Etika Konten
-
-Prompt:
-
-"Tolong cek konten berikut dari sisi etika affiliate. Apakah ada potensi masalah seperti klaim berlebihan, review palsu, visual menyesatkan, CTA terlalu memaksa, kurang disclosure, penggunaan AI yang perlu diberi label, atau informasi produk yang perlu dicek ulang? Berikan catatan dan versi perbaikan yang lebih aman. Kontennya: [tempel konten]."
-
-Catatan:
-
-Gunakan prompt ini sebelum upload, terutama untuk konten yang bersifat promosi kuat.
-
----
-
-# Bagian 28
-## Prompt untuk Membuat Checklist Produksi Konten
-
-Prompt:
-
-"Buatkan checklist produksi konten TikTok Affiliate untuk produk [nama produk]. Checklist harus mencakup: riset produk, persona pembeli, hook, script, shot list, visual, CTA, etika, disclosure, audit klaim, dan catatan setelah upload. Buat dalam bahasa sederhana dan praktis."
-
-Contoh:
-
-"Buatkan checklist produksi konten TikTok Affiliate untuk produk rak bumbu dapur. Checklist harus mencakup: riset produk, persona pembeli, hook, script, shot list, visual, CTA, etika, disclosure, audit klaim, dan catatan setelah upload. Buat dalam bahasa sederhana dan praktis."
-
----
-
-# Bagian 29
-## Prompt untuk Membuat Variasi Bahasa yang Lebih Halus
-
-Prompt:
-
-"Buatkan 10 versi kalimat promosi yang lebih halus dan tidak memaksa dari kalimat berikut: [tempel kalimat]. Hindari kata wajib, pasti, dijamin, buruan, dan jangan membuat pembeli merasa ditekan."
-
-Contoh:
-
-Kalimat awal:
-"Wajib checkout sekarang, produk ini pasti kepakai."
-
-Prompt:
-
-"Buatkan 10 versi kalimat promosi yang lebih halus dan tidak memaksa dari kalimat berikut: ‘Wajib checkout sekarang, produk ini pasti kepakai.’ Hindari kata wajib, pasti, dijamin, buruan, dan jangan membuat pembeli merasa ditekan."
-
-Contoh hasil yang lebih aman:
-
-"Kalau kamu punya kebutuhan seperti ini, boleh cek detail produknya dulu."
-
-"Pastikan produknya sesuai kebutuhanmu sebelum membeli."
-
----
-
-# Bagian 30
-## Prompt untuk Membuat Soft Selling
-
-Prompt:
-
-"Buatkan 10 contoh soft selling untuk produk [nama produk]. Target pembelinya [target pembeli]. Soft selling harus fokus pada masalah, manfaat, dan ajakan cek produk dengan halus. Jangan terdengar memaksa, jangan memakai klaim berlebihan, dan jangan menjanjikan hasil pasti."
-
-Contoh:
-
-"Buatkan 10 contoh soft selling untuk produk organizer kabel. Target pembelinya pekerja dari rumah yang meja kerjanya penuh kabel. Soft selling harus fokus pada masalah, manfaat, dan ajakan cek produk dengan halus. Jangan terdengar memaksa, jangan memakai klaim berlebihan, dan jangan menjanjikan hasil pasti."
-
----
-
-# Bagian 31
-## Prompt untuk Membuat Konten Storytelling Ringan
-
-Prompt:
-
-"Buatkan 5 ide konten storytelling ringan untuk produk [nama produk]. Target pembelinya [target pembeli]. Ceritanya harus berupa skenario edukatif yang realistis, bukan kisah sukses pribadi atau testimoni palsu. Fokus pada masalah pembeli, proses menemukan solusi, dan CTA halus. Hindari klaim berlebihan."
-
-Contoh:
-
-"Buatkan 5 ide konten storytelling ringan untuk produk tripod HP. Target pembelinya pemula yang ingin membuat konten sendiri. Ceritanya harus berupa skenario edukatif yang realistis, bukan kisah sukses pribadi atau testimoni palsu. Fokus pada masalah pembeli, proses menemukan solusi, dan CTA halus. Hindari klaim berlebihan."
-
-Catatan:
-
-Storytelling boleh dipakai, tapi jangan membuat cerita palsu yang seolah-olah pengalaman pribadi jika itu tidak benar.
-
-Gunakan sebagai skenario edukatif.
-
----
-
-# Bagian 32
-## Prompt untuk Membuat Konten Edukasi
-
-Prompt:
-
-"Buatkan 10 ide konten edukasi TikTok untuk niche [niche]. Target pembelinya [target pembeli]. Konten harus membantu penonton memahami masalah, cara memilih produk, kesalahan umum, dan hal yang perlu dicek sebelum beli. Jangan terlalu jualan dan jangan memakai klaim berlebihan."
-
-Contoh:
-
-"Buatkan 10 ide konten edukasi TikTok untuk niche perlengkapan dapur. Target pembelinya orang yang punya dapur kecil. Konten harus membantu penonton memahami masalah, cara memilih produk, kesalahan umum, dan hal yang perlu dicek sebelum beli. Jangan terlalu jualan dan jangan memakai klaim berlebihan."
-
----
-
-# Bagian 33
-## Prompt untuk Membuat Konten dari Review Pembeli
-
-Gunakan prompt ini jika kamu membaca review produk dan ingin mengambil insight secara aman.
-
-Prompt:
-
-"Saya membaca beberapa review pembeli tentang produk [nama produk]. Berikut insight yang saya temukan: [tulis ringkasan review]. Tolong bantu buat 10 ide konten berdasarkan insight ini. Jangan membuat testimoni palsu, jangan mengutip review seolah milik saya, dan jangan membuat klaim berlebihan. Fokus pada pertanyaan, keraguan, dan hal yang perlu dicek pembeli."
-
-Catatan:
-
-Jangan mengambil review orang lain seolah-olah itu pengalamanmu.
-
-Gunakan review sebagai bahan memahami keraguan pembeli.
-
----
-
-# Bagian 34
-## Prompt untuk Membuat Hook dari Masalah Pembeli
-
-Prompt:
-
-"Buatkan 20 hook TikTok dari daftar masalah pembeli berikut: [tempel masalah]. Produk yang ingin dipromosikan adalah [nama produk]. Target pembelinya [target pembeli]. Hook harus singkat, natural, dan terasa dekat dengan masalah pembeli. Hindari clickbait berlebihan."
-
-Contoh masalah:
-
-- dapur kecil
-- botol bumbu berantakan
-- meja dapur penuh
-- bumbu susah dicari saat masak
-
-Contoh output yang diinginkan:
-
-"Dapur kecil tapi botol bumbu sering berantakan?"
-
-"Kalau bumbu sering hilang pas masak, coba mulai rapikan dari sini."
-
----
-
-# Bagian 35
-## Prompt untuk Membuat Konten Perbandingan
-
-Prompt:
-
-"Buatkan 10 ide konten perbandingan sederhana untuk produk [nama produk]. Perbandingannya bukan untuk menjelekkan produk lain, tapi untuk menunjukkan kondisi sebelum-sesudah atau cara lama vs cara yang lebih rapi. Target pembelinya [target pembeli]. Hindari klaim berlebihan."
-
-Contoh:
-
-"Buatkan 10 ide konten perbandingan sederhana untuk produk tripod HP. Perbandingannya bukan untuk menjelekkan produk lain, tapi untuk menunjukkan kondisi sebelum-sesudah atau cara lama vs cara yang lebih rapi. Target pembelinya pemula yang ingin merekam konten sendiri. Hindari klaim berlebihan."
-
-Contoh angle:
-
-"HP disandarkan ke gelas vs pakai tripod."
-
-"Meja penuh kabel vs kabel disusun dengan organizer."
-
----
-
-# Bagian 36
-## Prompt untuk Membuat Konten "Kesalahan Umum"
-
-Prompt:
-
-"Buatkan 10 ide konten ‘kesalahan umum’ untuk niche [niche] dan produk [nama produk]. Target pembelinya [target pembeli]. Konten harus bersifat edukatif, tidak menghakimi, dan membantu pembeli mengambil keputusan lebih baik. Hindari klaim berlebihan."
-
-Contoh:
-
-"Buatkan 10 ide konten ‘kesalahan umum’ untuk niche perlengkapan dapur dan produk rak bumbu. Target pembelinya orang yang punya dapur kecil. Konten harus bersifat edukatif, tidak menghakimi, dan membantu pembeli mengambil keputusan lebih baik. Hindari klaim berlebihan."
-
-Contoh:
-
-"3 kesalahan saat memilih rak bumbu untuk dapur kecil."
-
-"Jangan lupa ukur botol bumbu sebelum beli rak."
-
----
-
-# Bagian 37
-## Prompt untuk Membuat Konten "Cocok untuk Siapa?"
-
-Prompt:
-
-"Buatkan 10 ide konten TikTok dengan angle ‘produk ini cocok untuk siapa’ untuk produk [nama produk]. Target pembelinya [target pembeli]. Jelaskan siapa yang cocok, siapa yang mungkin kurang cocok, dan hal yang perlu dicek sebelum membeli. Gunakan bahasa jujur dan tidak terlalu sales."
-
-Contoh:
-
-"Buatkan 10 ide konten TikTok dengan angle ‘produk ini cocok untuk siapa’ untuk produk organizer kabel. Target pembelinya mahasiswa dan pekerja dari rumah. Jelaskan siapa yang cocok, siapa yang mungkin kurang cocok, dan hal yang perlu dicek sebelum membeli. Gunakan bahasa jujur dan tidak terlalu sales."
-
-Catatan:
-
-Konten "cocok untuk siapa" bisa membantu membangun trust karena tidak memaksa semua orang membeli.
-
----
-
-# Bagian 38
-## Prompt untuk Membuat Konten "Sebelum Beli, Cek Ini"
-
-Prompt:
-
-"Buatkan 10 ide konten TikTok dengan angle ‘sebelum beli, cek ini dulu’ untuk produk [nama produk]. Target pembelinya [target pembeli]. Fokus pada ukuran, fungsi, bahan, kecocokan, review, atau hal penting lain. Jangan membuat pembeli takut berlebihan, tapi bantu mereka lebih bijak."
-
-Contoh:
-
-"Buatkan 10 ide konten TikTok dengan angle ‘sebelum beli, cek ini dulu’ untuk produk rak bumbu dapur. Target pembelinya orang yang punya dapur kecil. Fokus pada ukuran, fungsi, bahan, kecocokan, review, atau hal penting lain. Jangan membuat pembeli takut berlebihan, tapi bantu mereka lebih bijak."
-
----
-
-# Bagian 39
-## Prompt untuk Membuat Konten Recap Mingguan
-
-Prompt:
-
-"Buatkan format recap mingguan untuk akun TikTok Affiliate niche [niche]. Recap ini berisi: konten yang dibuat, produk yang diuji, konten dengan respon terbaik, pertanyaan penonton, ide perbaikan, dan rencana minggu berikutnya. Buat sederhana untuk pemula."
-
-Catatan:
-
-Recap mingguan membantu kamu tidak hanya upload, tapi juga belajar dari proses.
-
----
-
-# Bagian 40
-## Prompt untuk Membuat SOP Produksi Konten
-
-Prompt:
-
-"Buatkan SOP sederhana produksi konten TikTok Affiliate untuk pemula. Alurnya mulai dari riset produk, persona pembeli, ide konten, script, shot list, produksi, audit etika, upload, catat data, dan evaluasi. Gunakan bahasa praktis dan mudah diikuti."
-
-Catatan:
-
-Prompt ini cocok kalau kamu ingin membuat sistem kerja mingguan.
-
----
-
-# Checklist Setelah Memakai AI
-
-Sebelum memakai hasil AI, cek ini:
-
-[ ] Apakah hasil AI sesuai dengan produk yang benar?
-
-[ ] Apakah bahasanya natural?
-
-[ ] Apakah terlalu panjang?
-
-[ ] Apakah ada klaim berlebihan?
-
-[ ] Apakah ada kata "pasti", "dijamin", "langsung", atau "wajib" yang perlu diubah?
-
-[ ] Apakah ada review palsu?
-
-[ ] Apakah ada testimoni palsu?
-
-[ ] Apakah ada informasi yang perlu dicek ulang?
-
-[ ] Apakah CTA terlalu memaksa?
-
-[ ] Apakah konten bisa membuat pembeli salah paham?
-
-[ ] Apakah perlu disclosure konten komersial?
-
-[ ] Apakah ada elemen AI realistis yang perlu label atau pengungkapan?
-
-[ ] Apakah hasil akhir sudah kamu edit menjadi versi yang lebih manusiawi?
-
----
-
-# Kata-Kata yang Perlu Diwaspadai
-
-Saat memakai AI, hati-hati kalau muncul kata-kata seperti:
-
-- pasti
-- dijamin
-- langsung
-- wajib
-- terbaik untuk semua orang
-- tidak akan gagal
-- hasil instan
-- ampuh
-- terbukti untuk semua orang
-- semua orang harus punya
-- solusi paling sempurna
-- buruan sebelum menyesal
-
-Bukan berarti semua kata itu selalu salah.
-
-Tapi dalam konten affiliate, kata-kata seperti itu bisa membuat klaim terasa terlalu kuat.
-
-Lebih aman gunakan bahasa seperti:
-
-- bisa membantu
-- bisa jadi pilihan
-- cocok untuk kebutuhan tertentu
-- lebih praktis untuk sebagian orang
-- cek dulu ukurannya
-- lihat review sebelum beli
-- sesuaikan dengan kebutuhanmu
-- hasil bisa berbeda
-- pastikan cocok dengan kondisi kamu
-
----
-
-# Formula Prompt Cepat
-
-Kalau kamu ingin membuat prompt sendiri, pakai formula ini:
-
-"Saya ingin membuat konten TikTok Affiliate untuk produk [produk]. Target pembelinya [target]. Masalah utama mereka [masalah]. Manfaat produk [manfaat]. Buatkan [jenis output] dengan gaya bahasa [gaya]. Hindari [batasan]. Format output [format]."
-
-Contoh:
-
-"Saya ingin membuat konten TikTok Affiliate untuk produk rak bumbu. Target pembelinya orang yang punya dapur kecil. Masalah utama mereka botol bumbu sering berantakan. Manfaat produk membantu menyusun bumbu supaya lebih rapi. Buatkan 10 hook dengan gaya bahasa santai. Hindari klaim berlebihan dan clickbait. Format output berupa daftar hook pendek."
-
----
-
-# Penutup Prompt AI Pack
-
-AI bisa membuat proses konten terasa lebih ringan.
-
-Tapi AI bukan jalan pintas untuk menghindari praktik.
-
-Kamu tetap perlu memahami produk.
-Kamu tetap perlu memahami pembeli.
-Kamu tetap perlu mengecek klaim.
-Kamu tetap perlu menjaga trust.
-Kamu tetap perlu membuat konten yang jujur.
-
-Gunakan prompt pack ini sebagai alat bantu.
-
-Bukan sebagai mesin copy-paste.
-
-Ambil hasilnya.
-Pilih yang paling cocok.
-Edit bahasanya.
-Cek etikanya.
-Sesuaikan dengan produkmu.
-Lalu praktikkan.
-
-Karena konten terbaik bukan hanya yang dibantu AI.
-
-Tapi yang dibantu AI, lalu dipoles dengan pemahaman manusia.
+Gunakan satu prompt yang paling kamu butuhkan hari ini. Hasilkan satu output nyata. Periksa dengan teliti. Lalu ubah jadi konten yang benar-benar bisa kamu pertanggungjawabkan.

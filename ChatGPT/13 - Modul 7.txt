@@ -3,972 +3,238 @@
 
 ### AI Bisa Membantu, Tapi Bukan Menggantikan Kamu
 
-Salah satu alasan pemula sering berhenti adalah karena kehabisan ide.
+Salah satu alasan pemula sering berhenti adalah karena kehabisan ide. Hari pertama masih semangat, hari kedua mulai bingung, hari ketiga bertanya: *"Mau bikin konten apa lagi ya?"* Lalu akhirnya tidak posting.
 
-Hari pertama masih semangat.
-Hari kedua mulai bingung.
-Hari ketiga mulai bertanya:
+Padahal sering kali masalahnya bukan karena kamu tidak kreatif — masalahnya adalah kamu belum punya sistem bantu untuk menghasilkan ide. Di sinilah AI bisa membantu: mencari ide konten, membuat variasi hook, menyusun skrip video pendek, membuat caption, CTA, shot list, dan membantu evaluasi konten.
 
-"Mau bikin konten apa lagi ya?"
-
-Lalu akhirnya tidak posting.
-
-Padahal sering kali masalahnya bukan karena kamu tidak kreatif.
-
-Masalahnya adalah kamu belum punya sistem bantu untuk menghasilkan ide.
-
-Di sinilah AI bisa membantu.
-
-AI bisa dipakai untuk:
-- mencari ide konten
-- membuat variasi hook
-- menyusun skrip video pendek
-- membuat caption
-- membuat CTA
-- membuat konsep voiceover
-- membuat shot list
-- membantu evaluasi konten
-- dan mengembangkan satu produk menjadi banyak angle
-
-Tapi sejak awal kamu perlu paham:
-
-AI adalah alat bantu.
-
-Bukan pengganti pemahamanmu.
-Bukan pengganti kejujuranmu.
-Bukan pengganti praktikmu.
-Bukan jalan pintas untuk membuat konten palsu.
-
-AI bisa mempercepat proses berpikir.
-
-Tapi keputusan akhir tetap ada di kamu.
+Tapi sejak awal kamu perlu paham: **AI adalah alat bantu, bukan pengganti pemahamanmu, kejujuranmu, atau praktikmu.** AI bisa mempercepat proses berpikir, tapi keputusan akhir tetap ada di kamu.
 
 ---
 
 ### Kenapa AI Berguna untuk Pemula?
 
-Pemula biasanya punya tiga hambatan besar.
+**Bingung mulai dari mana** — kamu sudah punya produk, tapi tidak tahu kontennya mau dibuat seperti apa. AI bisa membantu memberi beberapa pilihan angle (masalah, manfaat, tutorial, before-after, review jujur) supaya kamu tidak mulai dari kertas kosong.
 
-#### 1. Bingung Mulai dari Mana
+**Sulit menyusun kata-kata** — kamu tahu produknya bagus, tapi bingung menjelaskannya. AI bisa membantu menyusun kalimat awal dan alur skrip, yang nanti kamu sesuaikan agar terdengar lebih natural.
 
-Kamu sudah punya produk, tapi tidak tahu kontennya mau dibuat seperti apa.
+**Cepat kehabisan ide** — satu produk sebenarnya bisa dibuat menjadi banyak konten, tapi pemula sering hanya melihat satu ide. AI bisa membantu memecah satu produk menjadi banyak sudut pandang sekaligus.
 
-AI bisa membantu memberi beberapa pilihan angle.
+---
 
-Misalnya:
-- angle masalah
-- angle manfaat
-- angle tutorial
-- angle before-after
-- angle review jujur
-- angle checklist sebelum beli
+### AI Tidak Tahu Produkmu Secara Otomatis
 
-Dengan begitu, kamu tidak mulai dari kertas kosong.
+Ini kesalahpahaman penting yang perlu diluruskan sejak awal. Kalau kamu cuma menulis *"buatkan konten untuk rak bumbu ini,"* AI belum tentu tahu ukuran, bahan, jumlah tingkat, cara memasang, atau keterbatasannya.
 
-#### 2. Sulit Menyusun Kata-Kata
+Kalau informasi tidak diberikan, AI akan mengisi kekosongan itu dengan tebakan — dan tebakan itu bisa terdengar sangat meyakinkan meskipun sebenarnya salah. Karena itu, jangan minta AI membuat fakta produk dari nol. Berikan hanya informasi yang sudah benar-benar kamu periksa.
 
-Kadang kamu tahu produknya bagus, tapi bingung menjelaskannya.
+---
 
-AI bisa membantu menyusun kalimat awal, alur skrip, dan caption.
+### Bedakan Fakta, Pengalaman, Dugaan, dan Klaim Penjual
 
-Nanti kamu tinggal menyesuaikan agar terdengar lebih natural.
+Ini kebiasaan yang paling menentukan aman-tidaknya hasil AI yang kamu pakai. Sebelum menulis prompt, kelompokkan dulu informasi yang kamu punya jadi empat jenis:
 
-#### 3. Cepat Kehabisan Ide
+**Fakta** — hal yang bisa diperiksa langsung: ukuran, jumlah slot, bahan yang tercantum, cara pemasangan.
 
-Satu produk sebenarnya bisa dibuat menjadi banyak konten.
+**Pengalaman pribadi** — hal yang benar-benar kamu alami sendiri: sudah berapa lama dipakai, dalam situasi apa, apa yang benar-benar terjadi.
 
-Tapi pemula sering hanya melihat satu ide.
+**Dugaan** — hal yang belum kamu buktikan: *"sepertinya cocok untuk dapur kecil", "mungkin cukup kuat."* Dugaan perlu diuji, jangan diberikan ke AI seolah-olah fakta.
 
-AI bisa membantu memecah satu produk menjadi banyak sudut pandang.
+**Klaim penjual** — hal yang disebutkan seller tapi belum kamu verifikasi sendiri: "tahan lama", "antikarat", "aman untuk semua kondisi."
 
-Contoh:
-
-Produk:
-rak bumbu
-
-AI bisa membantu membuat ide:
-- dapur kecil
-- bumbu berantakan
-- before-after sudut dapur
-- tips memilih rak
-- kesalahan menyimpan bumbu
-- review ukuran
-- cara menata bumbu
-- rekomendasi untuk anak kos
-- solusi meja dapur penuh
-- checklist sebelum beli
-
-Dari satu produk, kamu bisa punya banyak bahan konten.
+Coba tandai catatanmu dengan label sederhana — **FAKTA**, **PENGALAMAN**, **BELUM DIPASTIKAN**, **KLAIM PENJUAL** — sebelum kamu masukkan ke AI. Kalau semuanya kamu masukkan tanpa label, AI cenderung mencampur semuanya jadi terdengar sama-sama meyakinkan, padahal levelnya beda jauh. Kebiasaan kecil ini mencegah klaim berlebihan sejak dari sumbernya, bukan cuma disunting belakangan.
 
 ---
 
 ### Cara Berpikir yang Benar Saat Memakai AI
 
-Jangan berpikir:
+Jangan berpikir *"AI akan membuatkan semua konten untuk saya."* Lebih sehat kalau kamu berpikir: *"AI membantu saya menyusun bahan mentah, lalu saya edit agar sesuai produk, pembeli, dan gaya saya."*
 
-"AI akan membuatkan semua konten untuk saya."
+Prosesnya: kamu beri konteks → AI memberi draft → kamu pilih yang paling cocok → kamu edit agar lebih natural → kamu cek agar tidak ada klaim berlebihan → kamu sesuaikan dengan produk yang benar → kamu produksi kontennya.
 
-Lebih sehat kalau kamu berpikir:
-
-"AI membantu saya menyusun bahan mentah, lalu saya edit agar sesuai produk, pembeli, dan gaya saya."
-
-Jadi prosesnya seperti ini:
-
-1. Kamu beri konteks ke AI
-2. AI memberi draft ide atau skrip
-3. Kamu pilih yang paling cocok
-4. Kamu edit agar lebih natural
-5. Kamu cek agar tidak ada klaim berlebihan
-6. Kamu sesuaikan dengan produk yang benar
-7. Kamu produksi kontennya
-
-AI yang bagus bukan AI yang membuat kamu berhenti berpikir.
-
-AI yang bagus adalah AI yang membuat kamu lebih mudah mulai berpikir.
-
----
-
-### Masukan yang Bagus Akan Menghasilkan Output yang Lebih Baik
-
-AI sangat bergantung pada instruksi yang kamu berikan.
-
-Kalau instruksinya terlalu umum, hasilnya juga biasanya terlalu umum.
-
-Contoh instruksi yang terlalu umum:
-
-"Buatkan ide konten rak bumbu."
-
-Hasilnya mungkin tetap berguna, tapi bisa terasa biasa saja.
-
-Lebih baik berikan konteks seperti ini:
-
-"Buatkan 10 ide konten TikTok Affiliate untuk produk rak bumbu. Target pembelinya ibu rumah tangga atau orang yang punya dapur kecil. Gaya bahasanya santai, tidak lebay, dan tidak menjanjikan hasil berlebihan. Fokus pada masalah dapur berantakan, hemat tempat, dan bumbu lebih mudah dicari."
-
-Instruksi kedua lebih jelas.
-
-Karena AI diberi:
-- produk
-- target pembeli
-- gaya bahasa
-- batasan klaim
-- masalah utama
-- arah manfaat
-
-Semakin jelas konteksnya, semakin besar peluang hasilnya berguna.
+AI yang bagus bukan AI yang membuat kamu berhenti berpikir. AI yang bagus adalah AI yang membuat kamu lebih mudah *mulai* berpikir.
 
 ---
 
 ### Struktur Prompt yang Mudah Dipakai
 
-Agar tidak bingung, kamu bisa memakai struktur prompt sederhana ini:
+Gunakan struktur ini: **Produk, Target pembeli, Masalah pembeli, Manfaat produk, Fakta yang sudah diverifikasi, Gaya bahasa, Batasan (apa yang tidak boleh dibuat AI), Output yang diminta.**
 
-Produk:
-Target pembeli:
-Masalah pembeli:
-Manfaat produk:
-Gaya bahasa:
-Batasan:
-Output yang diminta:
+Contoh: *"Produk: rak bumbu dapur. Target: ibu rumah tangga dengan dapur kecil. Masalah: botol bumbu berantakan, meja terasa penuh. Fakta: rak punya 3 tingkat, tinggi 40cm, bahan besi. Gaya bahasa: hangat, santai, tidak lebay. Batasan: jangan pakai klaim berlebihan, jangan menyebut fitur yang tidak saya sebutkan, jangan mengarang pengalaman. Output: 10 ide konten TikTok pendek, masing-masing dengan hook dan angle utama."*
 
-Contoh:
-
-Produk:
-rak bumbu dapur
-
-Target pembeli:
-ibu rumah tangga dan orang yang punya dapur kecil
-
-Masalah pembeli:
-botol bumbu sering berantakan, meja dapur terasa penuh, susah mencari bumbu saat masak
-
-Manfaat produk:
-membantu menyusun bumbu agar lebih rapi dan mudah dicari
-
-Gaya bahasa:
-hangat, santai, tidak lebay, ramah pemula
-
-Batasan:
-jangan pakai klaim berlebihan, jangan menjanjikan hasil pasti, jangan terdengar terlalu sales
-
-Output:
-buatkan 10 ide konten TikTok pendek, masing-masing dengan hook dan angle utama
-
-Kalau kamu memberi AI bahan seperti ini, hasilnya biasanya jauh lebih terarah.
+Semakin jelas konteks dan fakta yang kamu beri, semakin kecil peluang AI mengarang.
 
 ---
 
 ### AI untuk Ide Konten
 
-Fungsi pertama AI adalah membantu mencari ide konten.
+Contoh prompt: *"Buatkan 10 ide konten TikTok Affiliate untuk produk [nama produk]. Target pembelinya [target]. Fokus pada masalah [masalah]. Gaya bahasa santai, jujur, tidak lebay. Hindari klaim berlebihan."*
 
-Ini berguna saat kamu merasa buntu.
+Untuk tripod HP dengan target pemula konten dari rumah: *Hook: "Mau bikin konten tapi nggak ada yang bantu rekam?" — Angle: tripod sebagai alat bantu pemula. Manfaat: HP lebih stabil dan angle lebih mudah diatur.*
 
-Tapi ingat:
-
-ide dari AI belum tentu langsung bagus.
-
-Anggap saja AI memberi bahan mentah.
-
-Kamu tetap perlu memilih, mengedit, dan menyesuaikan.
-
-Contoh prompt:
-
-"Buatkan 10 ide konten TikTok Affiliate untuk produk [nama produk]. Target pembelinya [target pembeli]. Fokus pada masalah [masalah utama]. Gaya bahasa santai, jujur, dan tidak lebay. Hindari klaim berlebihan. Buat dalam format: ide konten, hook, dan manfaat utama."
-
-Contoh hasil yang kamu harapkan:
-
-Produk:
-tripod HP
-
-Target:
-pemula yang mau bikin konten dari rumah
-
-Masalah:
-susah rekam video sendiri
-
-Ide konten:
-1. Hook: "Mau bikin konten tapi nggak ada yang bantu rekam?"
-   Angle: tripod sebagai alat bantu pemula
-   Manfaat: HP lebih stabil dan angle lebih mudah diatur
-
-2. Hook: "Masih nyandarin HP ke gelas buat rekam video?"
-   Angle: before-after pakai tripod
-   Manfaat: rekaman lebih rapi dan tidak mudah jatuh
-
-3. Hook: "Alat kecil yang kepakai banget buat pemula ngonten"
-   Angle: rekomendasi alat pertama
-   Manfaat: membantu mulai produksi konten sendiri
-
-Dari ide seperti ini, kamu bisa memilih mana yang paling cocok untuk dibuat dulu.
+Anggap saja AI memberi bahan mentah — kamu tetap perlu memilih, mengedit, dan menyesuaikan.
 
 ---
 
-### AI untuk Membuat Hook
+### AI untuk Hook, Skrip, Caption, dan CTA
 
-Hook adalah bagian awal video yang membuat orang berhenti scrolling.
+**Hook** — minta AI membuat variasi, misalnya *"Dapur kecil tapi botol bumbu sering berantakan?"* Pilih yang paling natural, jangan yang paling heboh.
 
-AI bisa membantu membuat variasi hook.
+**Skrip** — minta struktur hook-masalah-produk-manfaat-CTA, misalnya untuk organizer kabel: *"Meja kerja kamu sering penuh kabel charger dan headset? Kadang bukan mejanya yang terlalu kecil, tapi kabelnya belum punya tempat. Organizer kecil seperti ini bisa bantu pisahin kabel biar nggak kusut. Kalau meja kamu punya masalah yang sama, cek dulu detail produknya di keranjang."* Jangan langsung pakai mentah — skrip AI sering terlalu rapi atau formal, tugasmu memendekkan dan membuatnya lebih manusiawi.
 
-Namun kamu harus tetap memilih hook yang paling natural.
+**Caption** — tidak harus panjang, cukup mendukung video: *"Bumbu lebih gampang dicari kalau tempatnya jelas. Cek ukuran raknya dulu sebelum beli."*
 
-Contoh prompt:
-
-"Buatkan 20 hook TikTok untuk produk [nama produk]. Targetnya [target pembeli]. Gunakan bahasa sehari-hari. Fokus pada masalah [masalah]. Jangan pakai klaim berlebihan, jangan terlalu clickbait, dan jangan menjanjikan hasil pasti."
-
-Contoh untuk produk rak bumbu:
-
-- "Dapur kecil tapi botol bumbu sering berantakan?"
-- "Kalau meja dapur kamu mulai penuh, coba cek bagian ini."
-- "Bumbu dapur sering hilang pas lagi masak?"
-- "Sudut dapur kecil bisa kelihatan lebih rapi mulai dari sini."
-- "Sebelum beli rak bumbu, cek dulu ukuran dapur kamu."
-
-Hook yang baik tidak harus heboh.
-
-Yang penting relevan.
-
-Kalau hook terasa terlalu berlebihan, ubah agar lebih wajar.
+**CTA** — hindari yang keras (*"Beli sekarang! Jangan sampai kehabisan!"*), pilih yang halus: *"Cek detailnya di keranjang. Lihat ukuran dan review-nya dulu sebelum beli."*
 
 ---
 
-### AI untuk Membuat Skrip Video Pendek
+### AI untuk Shot List dan Voiceover
 
-Setelah punya ide dan hook, kamu bisa meminta AI membuat skrip.
+**Shot list** — sangat membantu kalau kamu bingung harus mengambil gambar apa. Contoh untuk rak bumbu tanpa wajah: meja dengan botol berantakan → tangan mengambil rak → tangan menyusun botol → hasil meja lebih rapi → close-up rak → teks CTA. Ini menyambung langsung dengan kerangka Shot List yang sudah kita bahas di Modul 6 — AI bisa jadi titik awal, tapi kamu tetap yang memutuskan urutan akhirnya.
 
-Tapi jangan langsung pakai mentah-mentah.
-
-Skrip dari AI sering terlalu rapi, terlalu formal, atau terlalu panjang.
-
-Tugasmu adalah memendekkan dan membuatnya lebih manusiawi.
-
-Contoh prompt:
-
-"Buatkan skrip video TikTok 20 detik untuk produk [nama produk]. Target pembelinya [target]. Masalahnya [masalah]. Gunakan struktur hook, masalah, produk, manfaat, CTA. Gaya bahasa santai dan natural. Hindari klaim berlebihan. CTA jangan memaksa."
-
-Contoh output yang bisa kamu pakai:
-
-Produk:
-organizer kabel
-
-Skrip:
-
-"Meja kerja kamu sering penuh kabel charger dan headset?
-
-Kadang bukan mejanya yang terlalu kecil, tapi kabelnya belum punya tempat.
-
-Organizer kecil seperti ini bisa bantu pisahin kabel biar nggak kusut dan lebih gampang dicari.
-
-Kalau meja kamu punya masalah yang sama, cek dulu detail produknya di keranjang."
-
-Skrip ini tidak terlalu panjang.
-
-Ada masalah.
-Ada produk.
-Ada manfaat.
-Ada CTA.
+**Voiceover** — kalau belum percaya diri bicara langsung saat merekam, minta AI menyusun teks voiceover dulu, baru kamu rekam suara sendiri setelahnya. Suara sendiri biasanya terasa lebih natural daripada suara AI.
 
 ---
 
-### AI untuk Caption
+### AI untuk Video dan Visual: Boleh, Tapi Bertingkat Risikonya
 
-Caption tidak harus panjang.
+Ada banyak tools AI sekarang yang bisa membantu membuat video, visual, avatar, atau gambar produk. Tapi tidak semua penggunaan setara risikonya.
 
-Di TikTok, caption bisa dipakai untuk:
-- memperjelas isi video
-- menambahkan konteks
-- memberi CTA
-- memasukkan kata kunci
-- membuat konten terasa lebih mudah ditemukan
+**Relatif aman**: membuat storyboard, sketsa posisi kamera, ikon, latar nonproduk, atau elemen dekoratif yang jelas terlihat sebagai ilustrasi.
 
-Contoh prompt:
+**Berisiko tinggi**: membuat foto produk yang terlihat realistis, demonstrasi penggunaan buatan, model seolah memegang produk, suara testimoni, atau hasil before-after yang tidak pernah terjadi. Semakin realistis hasil AI, semakin besar kemungkinan penonton menganggapnya nyata — dan semakin besar risiko mereka salah paham soal produk yang sebenarnya.
 
-"Buatkan 10 caption pendek untuk video TikTok Affiliate tentang [produk]. Target pembeli [target]. Gaya bahasa santai, tidak lebay, dan tidak menjanjikan hasil pasti. Sertakan CTA halus."
-
-Contoh caption untuk rak bumbu:
-
-- "Mulai rapikan dapur dari sudut kecil dulu."
-- "Bumbu lebih gampang dicari kalau tempatnya jelas."
-- "Cek ukuran raknya dulu sebelum beli, biar pas di dapur kamu."
-- "Solusi kecil buat meja dapur yang sering penuh."
-- "Kalau dapur kamu kecil, penyimpanan kecil seperti ini bisa membantu."
-
-Caption yang baik tidak harus memaksa.
-
-Yang penting mendukung video.
+Kalau konten memakai elemen AI yang realistis dan berpotensi membuat orang mengira itu nyata, perhatikan kebutuhan label sesuai aturan platform yang sedang berlaku. Satu hal yang perlu diingat: label AI dan disclosure komersial adalah dua hal berbeda — pakai AI untuk bikin video tidak menghilangkan kewajibanmu memberi disclosure kalau kontennya memang promosi berbayar/komisi.
 
 ---
 
-### AI untuk CTA
+### Teknik "Dua Tahap AI": Pembuat, Lalu Pengkritik
 
-CTA adalah ajakan.
+Ini teknik yang jarang dipakai pemula, padahal sederhana dan efektif: jangan langsung pakai jawaban pertama dari AI. Setelah dapat draft, minta AI **mengkritik draftnya sendiri** — di percakapan baru atau dengan instruksi eksplisit seperti *"Sekarang bertindak sebagai editor kritis. Jangan mempertahankan draft ini hanya karena sudah dibuat. Cari bagian yang membingungkan, klaim yang tidak didukung, atau berpotensi menyesatkan pembeli."*
 
-Tapi dalam affiliate, CTA tidak harus keras.
-
-Tidak harus selalu:
-
-"Beli sekarang!"
-"Wajib checkout!"
-"Jangan sampai kehabisan!"
-
-CTA yang lebih halus bisa terdengar lebih natural.
-
-Contoh prompt:
-
-"Buatkan 15 CTA halus untuk konten TikTok Affiliate produk [nama produk]. Gaya bahasa santai, tidak memaksa, dan tetap mendorong orang cek produk."
-
-Contoh CTA halus:
-
-- "Cek detailnya di keranjang."
-- "Lihat ukuran dan review-nya dulu sebelum beli."
-- "Kalau punya masalah yang sama, boleh cek produknya."
-- "Pastikan ukurannya cocok dengan kebutuhanmu."
-- "Detail produk bisa kamu lihat di keranjang."
-
-CTA seperti ini lebih aman dan lebih nyaman untuk pembeli.
+AI cenderung "menyetujui" hasilnya sendiri kalau tidak diminta secara eksplisit untuk mengkritik. Dua tahap ini membantu kamu menangkap masalah yang mungkin terlewat di tahap pertama.
 
 ---
 
-### AI untuk Shot List
+### Contoh Penggunaan AI yang Aman dan Tidak Aman
 
-Shot list adalah daftar adegan yang perlu direkam.
+**Aman**: membuat ide konten (kamu tetap memilih), draft skrip (kamu cek fakta dan klaim), variasi caption (kamu edit agar natural), shot list (kamu tetap merekam sendiri), dan bantuan membaca pola data performa.
 
-Ini sangat membantu kalau kamu bingung harus mengambil gambar apa.
-
-Contoh prompt:
-
-"Buatkan shot list untuk video TikTok 20 detik tentang produk rak bumbu. Format video tanpa wajah. Target pembeli orang yang punya dapur kecil. Alurnya: masalah, demo produk, hasil, CTA."
-
-Contoh shot list:
-
-1. Shot 1: meja dapur dengan botol bumbu berantakan
-2. Shot 2: tangan mengambil rak bumbu
-3. Shot 3: tangan menyusun botol bumbu ke rak
-4. Shot 4: tampilan sesudah meja lebih rapi
-5. Shot 5: close-up rak dan botol bumbu
-6. Shot 6: teks CTA "cek ukuran rak sebelum beli"
-
-Dengan shot list, kamu tidak bingung saat merekam.
-
-Kamu tinggal mengikuti urutan.
+**Tidak aman**: membuat review palsu (*"saya sudah pakai produk ini selama 1 bulan"* padahal belum pernah), testimoni fiktif, klaim berlebihan (*"pasti bikin dapur selalu rapi"*), visual yang membuat produk terlihat berbeda dari kenyataan, atau membuat seolah-olah tokoh publik mendukung produk padahal tidak. Ingat, tujuan kita bukan hanya mendapat klik — tujuan kita adalah membangun trust.
 
 ---
 
-### AI untuk Voiceover
+### Jaga Privasi Saat Pakai AI
 
-Kalau kamu belum percaya diri bicara langsung saat merekam, kamu bisa membuat voiceover setelah video selesai.
+Satu hal yang gampang terlewat: jangan sembarangan memasukkan data sensitif ke tools AI — nomor identitas, alamat lengkap, data pembayaran, atau percakapan pribadi pelanggan. Kalau kamu perlu menganalisis komentar atau data, hapus nama dan informasi pribadi dulu sebelum dimasukkan.
 
-AI bisa membantu menyusun teks voiceover.
-
-Contoh prompt:
-
-"Buatkan voiceover 20 detik untuk video produk [nama produk]. Bahas masalah [masalah], manfaat [manfaat], dan CTA halus. Gaya bahasa seperti ngobrol, bukan iklan berlebihan."
-
-Contoh voiceover:
-
-"Kalau meja dapur kamu sering penuh botol bumbu, coba mulai rapikan dari bagian kecil dulu. Rak seperti ini bisa bantu susun bumbu supaya lebih gampang dicari saat masak. Jangan lupa cek ukuran dan detailnya di keranjang, biar cocok dengan dapur kamu."
-
-Setelah itu, kamu bisa merekam suara sendiri.
-
-Suara sendiri biasanya terasa lebih natural.
-
-Kalau memakai suara AI, tetap perhatikan apakah terdengar wajar, jelas, dan tidak menyesatkan.
-
----
-
-### AI untuk Video: Boleh, Tapi Harus Hati-Hati
-
-Sekarang ada banyak tools AI yang bisa membantu membuat video, visual, avatar, voiceover, atau gambar produk.
-
-Ini bisa membantu, tapi juga perlu kehati-hatian.
-
-Karena konten affiliate menyangkut keputusan membeli.
-
-Jangan sampai visual AI membuat pembeli salah paham tentang produk yang sebenarnya.
-
-Contoh yang perlu dihindari:
-
-- membuat produk terlihat lebih besar dari aslinya
-- membuat hasil pemakaian yang tidak realistis
-- membuat testimoni palsu
-- membuat wajah orang seolah-olah mendukung produk
-- membuat visual before-after yang menyesatkan
-- membuat review seolah-olah kamu memakai produk padahal tidak
-
-Kalau memakai AI untuk membantu visual, pastikan tetap jujur.
-
-Jika konten menggunakan elemen AI yang realistis dan berpotensi membuat orang mengira itu nyata, perhatikan kebutuhan label atau pengungkapan sesuai aturan platform.
-
-Prinsipnya:
-
-AI boleh mempercantik proses kreatif.
-
-Tapi jangan membuat pembeli salah paham.
-
----
-
-### Contoh Penggunaan AI yang Aman
-
-Berikut contoh penggunaan AI yang relatif aman untuk pemula.
-
-#### 1. Membuat Ide Konten
-
-AI membantu memberi daftar ide.
-
-Kamu tetap memilih dan menyesuaikan.
-
-#### 2. Membuat Draft Skrip
-
-AI membantu menyusun alur.
-
-Kamu tetap cek fakta, manfaat, dan klaim.
-
-#### 3. Membuat Caption
-
-AI membantu variasi caption.
-
-Kamu edit agar lebih natural.
-
-#### 4. Membuat Shot List
-
-AI membantu menentukan adegan.
-
-Kamu tetap merekam sendiri.
-
-#### 5. Membuat Checklist Konten
-
-AI membantu menyusun daftar hal yang perlu dicek sebelum upload.
-
-#### 6. Membantu Evaluasi
-
-AI bisa membantu membaca catatan performa konten dan menyarankan perbaikan.
-
-Selama kamu tetap jujur, tidak membuat klaim palsu, dan tidak menyesatkan pembeli, AI bisa menjadi alat bantu yang sangat berguna.
-
----
-
-### Contoh Penggunaan AI yang Tidak Aman
-
-Berikut contoh yang perlu dihindari.
-
-#### 1. Review Palsu
-
-Jangan membuat script seperti:
-
-"Saya sudah pakai produk ini selama 1 bulan dan hasilnya luar biasa,"
-
-kalau kamu belum pernah memakai produk itu.
-
-#### 2. Testimoni Fiktif
-
-Jangan membuat komentar atau cerita pembeli palsu.
-
-#### 3. Klaim Berlebihan
-
-Jangan meminta AI membuat klaim seperti:
-
-"Produk ini pasti bikin dapur selalu rapi"
-"Pasti bikin kulit glowing"
-"Dijamin langsung laku"
-"Pasti cocok untuk semua orang"
-
-#### 4. Visual Menyesatkan
-
-Jangan membuat gambar atau video yang membuat produk terlihat berbeda dari kenyataan.
-
-#### 5. Tokoh Publik Palsu
-
-Jangan membuat seolah-olah tokoh publik, artis, dokter, atau orang terkenal mendukung produk jika itu tidak benar.
-
-#### 6. Manipulasi Emosi Berlebihan
-
-Jangan memakai AI untuk membuat konten yang menakut-nakuti atau memanipulasi pembeli secara tidak wajar.
-
-Ingat:
-
-tujuan kita bukan hanya mendapat klik.
-
-Tujuan kita adalah membangun trust.
+Begitu juga kalau kamu memakai AI untuk mengedit foto atau membuat avatar — jangan memasukkan foto orang lain (pelanggan, kreator lain) tanpa izin mereka. Kemampuan teknis untuk melakukan sesuatu tidak sama dengan izin untuk melakukannya.
 
 ---
 
 ### Cara Mengedit Hasil AI agar Lebih Manusiawi
 
-Hasil AI sering terdengar terlalu rapi.
+**Pendekkan kalimat.** *"Produk ini merupakan pilihan ideal bagi Anda yang memiliki dapur berukuran kecil..."* → *"Kalau dapur kamu kecil, rak seperti ini bisa bantu hemat tempat."*
 
-Kadang terlalu formal.
-Kadang terlalu panjang.
-Kadang terlalu seperti iklan.
-Kadang terlalu banyak kata "solusi terbaik".
+**Ganti bahasa formal jadi sehari-hari.** *"Memiliki fungsi optimal"* → *"Lebih kepakai."*
 
-Agar lebih manusiawi, lakukan beberapa hal ini.
+**Tambahkan konteks nyata.** Ganti kalimat umum dengan situasi konkret: "meja dapur berantakan", "HP disandarin ke gelas."
 
-#### 1. Pendekkan Kalimat
+**Hapus klaim berlebihan.** *"Pasti bikin dapur rapi"* → *"Bisa membantu dapur terlihat lebih rapi."*
 
-Kalimat panjang sulit dipakai untuk video pendek.
-
-Ubah menjadi kalimat yang lebih singkat.
-
-Contoh:
-
-Versi terlalu panjang:
-"Produk ini merupakan pilihan ideal bagi Anda yang memiliki dapur berukuran kecil dan membutuhkan solusi penyimpanan yang efisien."
-
-Versi lebih natural:
-"Kalau dapur kamu kecil, rak seperti ini bisa bantu hemat tempat."
-
-#### 2. Ganti Bahasa Formal
-
-Ubah bahasa yang terasa kaku menjadi bahasa sehari-hari.
-
-Contoh:
-
-"memiliki fungsi optimal"
-
-ubah menjadi:
-
-"lebih kepakai"
-
-#### 3. Tambahkan Konteks Nyata
-
-AI sering membuat kalimat umum.
-
-Tambahkan kondisi yang lebih nyata.
-
-Contoh:
-
-"meja dapur berantakan"
-"HP disandarin ke gelas"
-"kabel charger numpuk"
-"bumbu susah dicari pas masak"
-
-Konteks nyata membuat konten terasa hidup.
-
-#### 4. Hapus Klaim Berlebihan
-
-Kalau AI membuat kalimat yang terlalu menjanjikan, ubah.
-
-Contoh:
-
-"pasti bikin dapur rapi"
-
-ubah menjadi:
-
-"bisa membantu dapur terlihat lebih rapi"
-
-#### 5. Sesuaikan dengan Produk Asli
-
-Jangan menyebut fitur yang tidak ada.
-
-Cek ulang produk sebelum memakai script.
-
-Kalau produk tidak tahan panas, jangan bilang tahan panas.
-Kalau ukuran kecil, jangan membuatnya terlihat besar.
-Kalau belum tahu bahannya, jangan asal sebut bahan.
+**Sesuaikan dengan produk asli.** Jangan biarkan AI menyebut fitur yang sebenarnya tidak ada — cek ulang produk sebelum memakai skripnya.
 
 ---
 
 ### Workflow AI untuk Membuat 1 Konten
 
-Agar lebih mudah, pakai alur ini:
-
-#### Langkah 1: Pilih Produk
-
-Contoh:
-rak bumbu
-
-#### Langkah 2: Tentukan Target Pembeli
-
-Contoh:
-orang yang punya dapur kecil
-
-#### Langkah 3: Tentukan Masalah
-
-Contoh:
-botol bumbu berantakan
-
-#### Langkah 4: Minta AI Membuat Ide
-
-Prompt:
-"Buatkan 10 ide konten TikTok untuk rak bumbu, targetnya orang yang punya dapur kecil. Fokus pada masalah botol bumbu berantakan. Gaya bahasa santai dan tidak lebay."
-
-#### Langkah 5: Pilih 1 Ide
-
-Misalnya:
-before-after sudut dapur
-
-#### Langkah 6: Minta AI Membuat Skrip
-
-Prompt:
-"Buatkan skrip video 20 detik dengan struktur hook, masalah, produk, manfaat, CTA. Jangan pakai klaim berlebihan."
-
-#### Langkah 7: Edit Skrip
-
-Pendekkan.
-Buat lebih natural.
-Cek klaim.
-Sesuaikan dengan produk.
-
-#### Langkah 8: Buat Shot List
-
-Prompt:
-"Buatkan shot list tanpa wajah untuk video ini."
-
-#### Langkah 9: Rekam
-
-Ikuti shot list.
-
-#### Langkah 10: Upload dan Catat Hasil
-
-Setelah upload, catat performanya.
-
-Nanti kamu bisa memakai AI lagi untuk membantu evaluasi.
+Pilih produk → tentukan target pembeli → tentukan masalah → minta AI buat 10 ide → pilih 1 ide → minta AI buat skrip → edit skrip (pendekkan, naturalkan, cek klaim) → minta AI buat shot list → rekam sesuai shot list → upload dan catat hasilnya. Setelah punya data, kamu bisa pakai AI lagi untuk membantu membaca pola performa — tapi tetap sebagai bahan pertimbangan, bukan kesimpulan mutlak, karena AI tidak tahu seluruh konteks akunmu.
 
 ---
 
-### AI untuk Evaluasi Konten
+### Contoh Skenario Pemula: Nia dan Organizer Kabel
 
-AI tidak hanya berguna sebelum posting.
+Nia memilih niche home organizer, produk pertamanya organizer kabel. Ia bingung menulis script, lalu memakai AI dengan prompt: *"Buatkan 5 ide konten TikTok untuk organizer kabel. Targetnya pekerja dari rumah dan mahasiswa. Masalahnya meja kerja penuh kabel. Gaya bahasa santai."*
 
-AI juga bisa dipakai setelah kamu punya data.
+AI memberi beberapa ide, Nia memilih *"Meja kerja penuh kabel?"* Hasil skrip pertama dari AI terdengar terlalu formal: *"Produk ini merupakan solusi efektif untuk menciptakan ruang kerja yang lebih tertata."* Nia mengeditnya jadi: *"Kalau meja kerja kamu penuh kabel charger dan headset, coba mulai rapikan dari bagian kecil dulu."*
 
-Misalnya kamu sudah punya catatan 5 video:
+Lalu ia minta AI buat shot list: meja berantakan → kabel kusut → organizer dipasang → kabel dirapikan → hasil akhir. Nia mengikuti shot list itu untuk merekam. Videonya belum sempurna, tapi Nia tidak lagi mulai dari kosong — ia memakai AI sebagai alat bantu, lalu tetap memakai penilaian manusia untuk membuat kontennya lebih jujur dan natural.
 
-Video 1:
-produk rak bumbu, hook dapur kecil, views 500, klik 3
-
-Video 2:
-produk rak bumbu, hook before-after, views 1.200, klik 12
-
-Video 3:
-produk rak bumbu, hook murah dan praktis, views 300, klik 1
-
-Kamu bisa minta AI membantu membaca pola.
-
-Contoh prompt:
-
-"Saya punya data 3 konten TikTok Affiliate berikut. Tolong bantu analisis secara sederhana: konten mana yang lebih baik, kemungkinan penyebabnya, dan ide perbaikan untuk konten berikutnya. Jangan membuat klaim pasti."
-
-AI bisa membantu memberi kemungkinan insight.
-
-Tapi tetap ingat:
-
-AI tidak tahu seluruh konteks akunmu.
-
-Jadikan hasilnya sebagai bahan pertimbangan, bukan keputusan mutlak.
-
----
-
-### Contoh Skenario Pemula
-
-Bayangkan seorang pemula bernama Nia.
-
-Nia memilih niche home organizer.
-
-Produk pertamanya adalah organizer kabel.
-
-Nia ingin membuat konten, tapi bingung menulis script.
-
-Lalu ia memakai AI dengan prompt sederhana:
-
-"Buatkan 5 ide konten TikTok untuk organizer kabel. Targetnya pekerja dari rumah dan mahasiswa. Masalahnya meja kerja penuh kabel. Gaya bahasa santai dan tidak berlebihan."
-
-AI memberi beberapa ide.
-
-Nia memilih ide:
-
-"Meja kerja penuh kabel?"
-
-Lalu ia meminta AI membuat skrip 20 detik.
-
-Hasil pertama dari AI terdengar terlalu formal:
-
-"Produk ini merupakan solusi efektif untuk menciptakan ruang kerja yang lebih tertata dan nyaman."
-
-Nia mengeditnya menjadi:
-
-"Kalau meja kerja kamu penuh kabel charger dan headset, coba mulai rapikan dari bagian kecil dulu."
-
-Versi kedua terasa lebih natural.
-
-Lalu Nia meminta AI membuat shot list.
-
-AI menyarankan:
-- tampilkan meja berantakan
-- tunjukkan kabel kusut
-- masukkan organizer
-- rapikan kabel
-- tampilkan hasil akhir
-
-Nia mengikuti shot list itu.
-
-Videonya belum sempurna.
-
-Tapi sekarang Nia tidak lagi mulai dari kosong.
-
-Ia memakai AI sebagai alat bantu, lalu tetap memakai penilaian manusia untuk membuat kontennya lebih jujur dan natural.
-
-Itulah cara yang sehat memakai AI.
+> Skenario ini adalah simulasi edukatif untuk membantu memahami proses berpikir — bukan testimoni atau gambaran hasil yang dijanjikan.
 
 ---
 
 ### Bagaimana Workbook Ini Membantu Kamu Memakai AI
 
-Di bagian bonus, kamu akan mendapatkan Prompt AI Pack dan AI Video Affiliate Prompt Pack.
-
-Fungsinya bukan untuk membuat kamu menyalin mentah-mentah.
-
-Fungsinya adalah memberi titik awal.
-
-Kamu bisa memakai prompt untuk:
-- mencari ide konten
-- membuat hook
-- membuat script
-- membuat caption
-- membuat CTA
-- membuat shot list
-- membuat variasi angle
-- mengecek klaim
-- dan mengevaluasi konten
-
-Tapi setiap output tetap perlu kamu cek.
-
-Karena konten terbaik bukan yang 100% dibuat AI.
-
-Konten terbaik adalah yang dibantu AI, lalu disesuaikan dengan:
-produk nyata,
-target pembeli,
-bahasa manusia,
-dan etika promosi.
+Di bagian bonus, kamu akan mendapatkan Prompt AI Pack dan AI Video Affiliate Prompt Pack. Fungsinya bukan untuk membuat kamu menyalin mentah-mentah, tapi memberi titik awal. Konten terbaik bukan yang 100% dibuat AI — konten terbaik adalah yang dibantu AI, lalu disesuaikan dengan produk nyata, target pembeli, bahasa manusia, dan etika promosi.
 
 ---
 
 ### Kesalahan Umum Saat Memakai AI
 
-#### 1. Copy-Paste Mentah-Mentah
-
-Hasil AI perlu diedit.
-
-Kalau langsung dipakai, sering terdengar kaku atau terlalu umum.
-
-#### 2. Memberi Prompt Terlalu Umum
-
-Prompt yang terlalu umum menghasilkan jawaban yang terlalu umum.
-
-Berikan konteks.
-
-#### 3. Tidak Mengecek Klaim
-
-AI bisa membuat kalimat yang terdengar meyakinkan, tapi belum tentu akurat.
-
-Cek sebelum dipakai.
-
-#### 4. Membuat Review Palsu
-
-Jangan memakai AI untuk mengarang pengalaman yang tidak kamu alami.
-
-#### 5. Terlalu Bergantung pada AI
-
-AI membantu, tapi kamu tetap perlu belajar membaca produk, pembeli, dan data.
-
-#### 6. Mengabaikan Label atau Disclosure
-
-Kalau konten memakai elemen AI yang realistis atau bersifat komersial, perhatikan aturan label dan pengungkapan yang berlaku di platform.
-
-#### 7. Membuat Konten Terlalu Sempurna tapi Tidak Natural
-
-Kadang konten yang terlalu rapi malah terasa seperti iklan.
-
-Jaga agar bahasa tetap manusiawi.
+1. **Copy-paste mentah-mentah** — hasil AI perlu diedit, kalau langsung dipakai sering terdengar kaku atau terlalu umum.
+2. **Memberi prompt terlalu umum** — menghasilkan jawaban yang terlalu umum juga.
+3. **Tidak mengecek klaim** — AI bisa membuat kalimat yang terdengar meyakinkan tapi belum tentu akurat.
+4. **Membuat review palsu** — jangan memakai AI untuk mengarang pengalaman yang tidak kamu alami.
+5. **Terlalu bergantung pada AI** — kamu tetap perlu belajar membaca produk, pembeli, dan data sendiri.
+6. **Mengira AI tahu harga atau stok terbaru** — AI tidak mengecek halaman produk secara real-time. Selalu verifikasi info harga/stok/promo langsung dari sumbernya, bukan dari asumsi AI.
+7. **Mengabaikan label atau disclosure** — kalau konten memakai elemen AI realistis atau bersifat komersial, perhatikan aturan label dan pengungkapan yang berlaku.
 
 ---
 
 ### Latihan Modul 7: Buat Konten dengan Bantuan AI
 
-Sekarang pilih satu produk dari Modul 4 atau 6.
+Pilih satu produk dari Modul 4 atau 6, lalu:
 
-Lalu ikuti latihan ini.
-
-#### Langkah 1: Isi konteks produk
-
-Produk:
-Target pembeli:
-Masalah pembeli:
-Manfaat utama:
-Gaya bahasa:
-Batasan klaim:
-
-#### Langkah 2: Gunakan prompt ide konten
-
-Prompt:
-
-"Buatkan 10 ide konten TikTok Affiliate untuk produk [nama produk]. Target pembelinya [target pembeli]. Masalah utama yang dibantu adalah [masalah]. Gaya bahasa santai, jujur, dan tidak lebay. Hindari klaim berlebihan. Buat dalam format: ide konten, hook, manfaat utama."
-
-#### Langkah 3: Pilih 1 ide
-
-Pilih ide yang paling mudah kamu eksekusi.
-
-Jangan pilih yang paling rumit.
-
-#### Langkah 4: Gunakan prompt skrip
-
-Prompt:
-
-"Buatkan skrip video TikTok 20 detik untuk ide ini: [masukkan ide]. Gunakan struktur hook, masalah, produk, manfaat, CTA. Gaya bahasa santai dan natural. Jangan membuat klaim berlebihan atau menyesatkan."
-
-#### Langkah 5: Edit hasil AI
-
-Cek:
-- apakah terlalu panjang?
-- apakah bahasanya kaku?
-- apakah klaimnya aman?
-- apakah sesuai produk?
-- apakah CTA-nya tidak memaksa?
-
-#### Langkah 6: Buat shot list
-
-Prompt:
-
-"Buatkan shot list video tanpa wajah berdasarkan skrip ini. Format 5–7 shot, mudah direkam dengan HP dari rumah."
-
-#### Langkah 7: Produksi
-
-Rekam video sesuai shot list.
-
-Tidak perlu sempurna.
-
-Yang penting mulai.
+1. **Isi konteks** — produk, target pembeli, masalah, manfaat, fakta yang sudah kamu verifikasi (beri label FAKTA/DUGAAN/KLAIM PENJUAL), gaya bahasa, batasan klaim.
+2. **Minta ide** — gunakan prompt ide konten, pilih 1 ide yang paling mudah dieksekusi.
+3. **Minta skrip** — gunakan struktur hook-masalah-produk-manfaat-CTA.
+4. **Edit hasil AI** — cek: terlalu panjang? bahasanya kaku? klaimnya aman? sesuai produk? CTA-nya tidak memaksa?
+5. **Minta shot list** — 5–7 shot yang mudah direkam dengan HP dari rumah.
+6. **Produksi** — rekam video sesuai shot list. Tidak perlu sempurna, yang penting mulai.
 
 ---
 
 ### Contoh Prompt Siap Pakai
 
-#### Prompt Ide Konten
+**Ide konten**: *"Buatkan 10 ide konten TikTok Affiliate untuk produk [nama produk]. Target pembelinya [target]. Masalah utama mereka [masalah]. Gaya bahasa santai, jujur, tidak lebay. Hindari klaim berlebihan."*
 
-"Buatkan 10 ide konten TikTok Affiliate untuk produk [nama produk]. Target pembelinya [target pembeli]. Masalah utama mereka adalah [masalah]. Gaya bahasa santai, jujur, dan tidak lebay. Hindari klaim berlebihan. Buat dalam format: ide konten, hook, dan manfaat utama."
+**Hook**: *"Buatkan 20 hook pendek untuk produk [nama produk]. Targetnya [target]. Fokus pada masalah [masalah]. Bahasa sehari-hari, jangan terlalu clickbait."*
 
-#### Prompt Hook
+**Skrip 15 detik**: *"Buatkan skrip video TikTok 15 detik untuk produk [nama produk]. Struktur: hook, masalah, produk, manfaat, CTA. Gaya bahasa santai dan tidak memaksa."*
 
-"Buatkan 20 hook pendek untuk produk [nama produk]. Targetnya [target pembeli]. Fokus pada masalah [masalah]. Gunakan bahasa sehari-hari dan jangan terlalu clickbait."
+**Shot list**: *"Buatkan shot list video TikTok tanpa wajah untuk produk [nama produk]. Format 6 shot sederhana yang bisa direkam dengan HP di rumah."*
 
-#### Prompt Skrip 15 Detik
+**Audit klaim**: *"Tolong cek skrip berikut. Apakah ada klaim berlebihan, menyesatkan, atau terlalu menjanjikan? Kelompokkan mana yang fakta, mana yang masih dugaan. Berikan versi yang lebih aman."*
 
-"Buatkan skrip video TikTok 15 detik untuk produk [nama produk]. Struktur: hook, masalah, produk, manfaat, CTA. Gaya bahasa santai, natural, dan tidak memaksa."
-
-#### Prompt Skrip 30 Detik
-
-"Buatkan skrip video TikTok 30 detik untuk produk [nama produk]. Target pembelinya [target]. Bahas masalah, manfaat, cara pakai singkat, dan CTA halus. Hindari klaim berlebihan."
-
-#### Prompt Caption
-
-"Buatkan 10 caption pendek untuk video TikTok Affiliate produk [nama produk]. Gaya bahasa santai, ramah, dan tidak terlalu jualan. Sertakan CTA halus."
-
-#### Prompt Shot List
-
-"Buatkan shot list video TikTok tanpa wajah untuk produk [nama produk]. Target pembeli [target]. Format 6 shot sederhana yang bisa direkam dengan HP di rumah."
-
-#### Prompt Audit Klaim
-
-"Tolong cek script berikut. Apakah ada klaim berlebihan, menyesatkan, atau terlalu menjanjikan? Jika ada, berikan versi yang lebih aman dan tetap menarik."
-
-#### Prompt Evaluasi Konten
-
-"Saya punya data beberapa konten berikut: [masukkan data]. Tolong bantu analisis pola secara sederhana dan beri saran perbaikan untuk konten berikutnya. Jangan membuat kesimpulan yang terlalu pasti."
+**Pengkritik**: *"Sekarang bertindak sebagai editor kritis terhadap draft ini. Jangan mempertahankan draft hanya karena sudah dibuat. Cari bagian yang membingungkan, berulang, tidak didukung bukti, atau berpotensi menyesatkan."*
 
 ---
 
 ### Ringkasan Modul 7
 
-Di modul ini, kamu belajar bahwa:
+- AI bisa membantu mencari ide, hook, skrip, caption, CTA, shot list, dan evaluasi — tapi tetap alat bantu, bukan pengganti pemahaman dan praktik.
+- Pisahkan fakta, pengalaman pribadi, dugaan, dan klaim penjual sebelum masuk ke prompt — jangan biarkan semuanya tercampur jadi terdengar sama meyakinkan.
+- AI tidak tahu produkmu secara otomatis — kalau tidak dikasih fakta, ia akan mengarang tebakan yang terdengar meyakinkan.
+- Prompt yang jelas (produk, target, masalah, fakta, batasan, output) menghasilkan output yang lebih terarah.
+- Pakai teknik dua tahap: minta AI buat draft, lalu minta AI mengkritik draftnya sendiri.
+- AI visual berisiko tinggi kalau dipakai membuat foto produk realistis, demonstrasi palsu, atau testimoni palsu — beda dengan storyboard/ikon yang relatif aman.
+- Jaga privasi: jangan masukkan data sensitif atau foto orang lain tanpa izin ke AI.
+- Hasil AI perlu diedit agar lebih natural, singkat, dan sesuai fakta produk.
 
-- AI bisa membantu pemula mencari ide, membuat hook, skrip, caption, CTA, shot list, voiceover, dan evaluasi.
-- AI adalah alat bantu, bukan pengganti pemahaman dan praktik.
-- Prompt yang jelas akan menghasilkan output yang lebih berguna.
-- Hasil AI perlu diedit agar lebih natural, singkat, dan sesuai produk.
-- AI tidak boleh dipakai untuk membuat review palsu, testimoni palsu, klaim berlebihan, visual menyesatkan, atau dukungan tokoh publik palsu.
-- Jika memakai elemen AI yang realistis, perhatikan aturan label atau pengungkapan yang berlaku.
-- Workflow yang sehat adalah: beri konteks, minta ide, pilih, minta skrip, edit, buat shot list, produksi, lalu evaluasi.
-- Prompt pack membantu kamu tidak mulai dari nol, tapi tetap perlu disesuaikan dengan produk dan pembeli.
-
-Kalau diringkas dalam satu kalimat:
-
-AI bisa mempercepat proses konten, tapi trust tetap dibangun oleh kejujuran, relevansi, dan cara kamu menyesuaikan hasil AI menjadi konten yang manusiawi.
+Kalau diringkas dalam satu kalimat: **AI bisa mempercepat proses konten, tapi trust tetap dibangun oleh kejujuran, relevansi, dan cara kamu menyesuaikan hasil AI menjadi konten yang manusiawi dan bisa dipertanggungjawabkan.**
 
 ---
 
 ### Penutup Modul 7
 
-AI bisa membuat proses terasa lebih ringan.
+AI bisa membuat proses terasa lebih ringan. Tapi jangan sampai kamu memakai AI untuk menghindari praktik — karena pada akhirnya, konten tetap perlu dibuat, produk tetap perlu dipahami, dan hasil tetap perlu dievaluasi.
 
-Tapi jangan sampai kamu memakai AI untuk menghindari praktik.
-
-Karena pada akhirnya, konten tetap perlu dibuat.
-Produk tetap perlu dipahami.
-Pembeli tetap perlu diperhatikan.
-Dan hasil tetap perlu dievaluasi.
-
-Gunakan AI sebagai teman berpikir.
-
-Bukan sebagai mesin untuk membuat konten palsu.
-
-Kalau kamu memakai AI dengan cara yang sehat, kamu bisa mengurangi rasa buntu, mempercepat produksi, dan membuat variasi konten yang lebih banyak.
-
-Tapi tetap pegang prinsipnya:
-
-jujur,
-jelas,
-tidak berlebihan,
-dan tidak menyesatkan.
+Gunakan AI sebagai teman berpikir, bukan sebagai mesin untuk membuat konten palsu. Kalau kamu memakai AI dengan cara yang sehat, kamu bisa mengurangi rasa buntu dan mempercepat produksi — tapi tetap pegang prinsipnya: jujur, jelas, tidak berlebihan, dan tidak menyesatkan.
 
 ---
 
 ### Lanjut ke Modul 8
 
-Di modul berikutnya, kita akan membahas:
+Di modul berikutnya, kita akan membahas **Sprint Praktik 7 Hari**.
 
-Sprint Praktik 7 Hari
-
-Karena setelah kamu memahami produk, pembeli, konten original, dan bantuan AI, langkah berikutnya adalah menjalankan praktik nyata.
-
-Bukan hanya membaca.
-
-Tapi mulai bergerak selama 7 hari dengan langkah yang sederhana dan jelas.
+Karena setelah kamu memahami produk, pembeli, konten original, dan bantuan AI, langkah berikutnya adalah menjalankan praktik nyata — bukan hanya membaca, tapi mulai bergerak selama 7 hari dengan langkah yang sederhana dan jelas.

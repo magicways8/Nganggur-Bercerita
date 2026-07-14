@@ -1,623 +1,507 @@
-Iya, belum dibahas detail cover-nya.
-Selama ini kita baru fokus ke isi/naskah produk, bonus, dan struktur produk. Jadi sekarang memang waktu yang pas untuk mengonsep cover.
+# DOKUMEN KONSEP COVER  
+## Affiliate TikTok dari Nol — Edisi 2026
 
-Menurut saya, untuk produk ini cover harus terasa:
+**Versi:** 1.1  
+**Status:** Siap disounding ke Chatroom PDF  
+**Project:** 📚 - 01 Affiliate TikTok dari Nol Project  
+**Induk aktif:** Nganggur Bercerita  
+**Ruang eksekusi:** PDF 📚 - 01 Affiliate TikTok dari Nol Project  
 
-* hangat
-* rapi
-* modern
-* pemula-friendly
-* terlihat bernilai / premium
-* bukan vibe "janji cepat kaya"
-* masuk dengan identitas seri Peta Cuan 2026
+---
 
-Aku bantu konsepkan ya.
+## Riwayat Revisi
 
-⸻
+- **v1.0:** Draft awal brief cover.
+- **v1.1:** Penambahan spesifikasi teknis produksi (Bagian 21), gerbang approval eksplisit (Bagian 22), arahan orisinalitas elemen visual (Bagian 23), dan catatan koordinasi soal identitas foto Reza di halaman dalam (Bagian 24) — sebagai isu terbuka yang perlu klarifikasi Reza, bukan keputusan yang sudah dikunci.
 
-Konsep Arah Cover
+---
 
-Tujuan cover
+## 1. Fungsi Dokumen
 
-Cover harus langsung mengomunikasikan 4 hal:
+Dokumen ini menjadi brief resmi untuk pembuatan cover produk **Affiliate TikTok dari Nol — Edisi 2026** di Chatroom PDF.
 
-1. Ini adalah bagian dari seri Peta Cuan 2026
-2. Topiknya adalah TikTok Affiliate
-3. Cocok untuk pemula dari nol
-4. Produk ini terasa seperti panduan praktik + workbook, bukan ebook motivasi kosong
+Chatroom PDF boleh mengembangkan komposisi, tipografi, ilustrasi, dan detail visual, tetapi tidak boleh mengubah copy utama, positioning, atau identitas brand yang sudah dikunci tanpa dibawa kembali ke Chatroom Blueprint.
 
-⸻
+---
 
-Rekomendasi Cover Utama
+## 2. Keputusan Brand yang Dikunci
 
-Judul besar
+- Induk aktif produk: **Nganggur Bercerita**
+- Label cover: **Diproduksi oleh Nganggur Bercerita**
+- Label **Peta Cuan 2026 — Seri #01** tidak digunakan lagi.
+- Peta Cuan Online 2026 hanya menjadi referensi historis, bukan identitas aktif produk.
+- Cover tidak boleh menyampaikan janji cepat kaya, hasil instan, nominal penghasilan, atau kesan bahwa TikTok Affiliate pasti menghasilkan uang.
+- Cover harus terasa sebagai produk praktik yang serius, ramah pemula, dan realistis.
 
-Affiliate TikTok dari Nol
-Edisi 2026
+---
 
-Label seri
+## 3. Tujuan Komunikasi Cover
 
-Peta Cuan 2026 -- Seri #01
+Saat calon pembeli melihat cover, mereka idealnya langsung menangkap bahwa:
 
-Subtitle
+1. Produk ini membahas cara memulai TikTok Affiliate dari nol.
+2. Produk ini dibuat untuk pemula dan disampaikan dengan pendekatan yang ramah.
+3. Isinya berupa panduan praktik dan alat bantu, bukan motivasi kosong.
+4. AI digunakan sebagai alat bantu, bukan jalan pintas atau mesin hasil instan.
+5. Produk ini diproduksi oleh **Nganggur Bercerita**.
+6. Produk ini tidak menjanjikan penghasilan tertentu.
 
-Panduan hangat untuk pemula yang ingin mulai TikTok Affiliate dengan konten original, bantuan AI, dan langkah praktik yang rapi.
+Kesan spontan yang ingin muncul:
 
-Tagline kecil
+> “Ini panduan pemula yang rapi, realistis, dan bisa dipakai praktik.”
 
-Bukan janji cepat kaya. Ini peta mulai yang lebih jelas.
+---
 
-Format / badge kecil
+## 4. Copy Cover yang Dikunci
 
-PDF Workbook + Starter Kit
+### Label produsen
 
-⸻
+**Diproduksi oleh Nganggur Bercerita**
 
-Konsep Visual yang Saya Rekomendasikan
+### Judul utama
 
-Arah visual:
+**Affiliate TikTok dari Nol**
 
-Clean modern workbook cover
+### Penanda edisi
 
-Bukan terlalu ramai.
-Bukan seperti poster jualan norak.
-Bukan juga terlalu formal seperti buku kuliah.
+**Edisi 2026**
 
-Vibe:
+### Subtitle
 
-* cerah
-* modern
-* digital
-* ringan
-* praktis
-* profesional tapi tetap ramah
+**Panduan hangat untuk pemula yang ingin mulai TikTok Affiliate dengan konten original, bantuan AI, dan langkah praktik yang rapi.**
 
-⸻
+### Format produk
 
-Komposisi Cover yang Direkomendasikan
+**PDF Workbook + Starter Kit**
 
-Bagian atas
+### Tagline
+
+**Bukan janji cepat kaya. Ini peta mulai yang lebih jelas.**
+
+---
+
+## 5. Susunan Copy pada Cover
+
+Urutan copy yang disarankan:
+
+1. Label kecil: **Diproduksi oleh Nganggur Bercerita**
+2. Judul utama: **Affiliate TikTok dari Nol**
+3. Penanda: **Edisi 2026**
+4. Subtitle
+5. Badge atau label format: **PDF Workbook + Starter Kit**
+6. Tagline
+
+Chatroom PDF boleh memindahkan posisi label produsen ke bagian bawah apabila komposisi visual lebih kuat, selama identitas tersebut tetap terbaca jelas.
+
+---
+
+## 6. Hierarki Visual
+
+Urutan dominansi visual:
+
+1. **Affiliate TikTok dari Nol**
+2. **Edisi 2026**
+3. Subtitle
+4. **PDF Workbook + Starter Kit**
+5. Tagline
+6. **Diproduksi oleh Nganggur Bercerita**
+
+Judul produk harus menjadi fokus utama. Identitas produsen harus terlihat, tetapi tidak boleh mengalahkan judul.
+
+---
+
+## 7. Arah Konsep Utama
+
+### Clean Premium Workbook
+
+Ini adalah arah utama yang direkomendasikan.
+
+Karakter desain:
+
+- bersih;
+- modern;
+- hangat;
+- profesional;
+- ramah pemula;
+- terasa premium tanpa berlebihan;
+- seperti workbook digital yang benar-benar dapat digunakan;
+- tidak menyerupai poster promosi yang penuh klaim.
+
+Pendekatan visual:
+
+- tipografi kuat sebagai fokus;
+- komposisi editorial modern;
+- ruang kosong yang cukup;
+- elemen pendukung ringan;
+- visual digital creator yang halus;
+- minim clutter.
+
+Cover utama disarankan **tanpa figur manusia** agar lebih konsisten, premium, mudah dikembangkan sebagai sistem desain produk, dan tidak terlihat seperti template generik.
+
+---
+
+## 8. Alternatif Arah Visual
+
+### Alternatif A — Creator Desk / Beginner from Home
+
+Visual dapat menggunakan suasana meja kerja kreator pemula tanpa menampilkan wajah:
+
+- ponsel vertikal;
+- tablet atau laptop;
+- sticky notes;
+- checklist;
+- kalender konten;
+- ikon keranjang atau tautan produk;
+- simbol AI kecil;
+- catatan niche, produk, konten, dan data.
+
+Arah ini boleh dipakai apabila hasilnya tetap bersih dan tidak terlalu ilustratif.
+
+### Alternatif B — Beginner Roadmap / Jalur Mulai
+
+Visual dapat menggambarkan perjalanan belajar:
+
+**Niche → Produk → Calon Pembeli → Konten → AI → Data → Etika**
+
+Roadmap harus mewakili proses belajar pembaca, bukan identitas seri Peta Cuan.
+
+Arah ini dapat digunakan sebagai konsep cadangan atau sebagai elemen visual halaman dalam.
+
+---
+
+## 9. Elemen Visual yang Boleh Digunakan
+
+Elemen pendukung yang relevan:
+
+- bingkai ponsel atau video vertikal;
+- checklist;
+- worksheet;
+- kartu atau panel modern;
+- kalender konten;
+- simbol play;
+- ikon keranjang atau link produk;
+- ikon AI spark yang ringan;
+- grafik atau tracker mini;
+- sticky notes;
+- garis alur atau roadmap;
+- bentuk geometris modern;
+- tekstur kertas atau grid yang sangat halus.
+
+Elemen harus mendukung cerita produk, bukan sekadar dekorasi.
+
+---
+
+## 10. Elemen yang Harus Dihindari
+
+Cover tidak boleh menggunakan:
+
+- tangkapan layar pendapatan;
+- angka komisi;
+- tumpukan uang;
+- simbol kekayaan berlebihan;
+- grafik yang seolah menjanjikan kenaikan penghasilan;
+- kata “auto cuan”, “pasti laku”, “cepat kaya”, atau klaim serupa;
+- visual selebritas atau figur yang menyerupai kreator tertentu;
+- logo TikTok resmi sebagai fokus utama;
+- tampilan yang terlalu mirip antarmuka resmi TikTok;
+- terlalu banyak ikon;
+- efek neon atau cyberpunk yang dominan;
+- gaya poster seminar bisnis;
+- layout terlalu ramai;
+- elemen visual yang membuat AI terkesan bekerja otomatis tanpa keterlibatan manusia;
+- label **Peta Cuan 2026** atau **Seri #01**.
+
+---
+
+## 11. Palet Warna
+
+Arah palet yang direkomendasikan:
+
+### Warna dasar
+
+- putih;
+- off-white;
+- cream sangat muda;
+- charcoal atau navy gelap untuk teks utama.
+
+### Warna aksen
+
+- teal;
+- soft blue;
+- coral;
+- pink-merah lembut.
+
+Aksen dapat memberi nuansa creator economy dan short-form video, tetapi tidak perlu meniru warna TikTok secara literal.
+
+Prinsip warna:
+
+- cerah tetapi tidak kekanak-kanakan;
+- modern tetapi tidak terlalu tech;
+- hangat tetapi tidak terlalu feminin;
+- kontras teks harus tetap tinggi;
+- tetap nyaman dilihat dalam versi layar dan cetak.
+
+---
+
+## 12. Arahan Tipografi
+
+Tipografi yang disarankan:
+
+- sans serif modern;
+- tegas dan mudah dibaca;
+- memiliki variasi bobot yang cukup;
+- judul dapat menggunakan huruf kapital sebagian atau title case;
+- subtitle tidak boleh terlalu tipis;
+- hindari font dekoratif berlebihan;
+- hindari kombinasi terlalu banyak jenis font.
+
+Maksimal dua keluarga font:
+
+1. font utama untuk judul;
+2. font pendamping untuk subtitle, badge, dan label.
+
+---
+
+## 13. Komposisi yang Direkomendasikan
+
+### Area atas
 
 Label kecil:
 
-Peta Cuan 2026
-Seri #01
+**Diproduksi oleh Nganggur Bercerita**
 
-Ini penting karena sekarang produk sudah masuk ekosistem seri.
+### Area tengah
 
-⸻
+Judul dominan:
 
-Bagian tengah
+**Affiliate TikTok dari Nol**
 
-Fokus utama:
+Diikuti:
 
-Affiliate TikTok dari Nol
+**Edisi 2026**
+
+### Area tengah-bawah
+
+Subtitle dalam blok yang mudah dibaca.
+
+### Area bawah
+
+- Badge: **PDF Workbook + Starter Kit**
+- Tagline: **Bukan janji cepat kaya. Ini peta mulai yang lebih jelas.**
+
+Elemen visual dapat mengisi sisi kanan, sudut bawah, atau menjadi lapisan belakang yang tidak mengganggu keterbacaan.
+
+---
+
+## 14. Versi Copy Siap Tempel
+
+```text
+Diproduksi oleh
+Nganggur Bercerita
+
+Affiliate TikTok
+dari Nol
+
 Edisi 2026
-
-Judul harus paling dominan.
-
-⸻
-
-Bagian bawah judul
-
-Subtitle:
-
-Panduan hangat untuk pemula yang ingin mulai TikTok Affiliate dengan konten original, bantuan AI, dan langkah praktik yang rapi.
-
-Ini boleh dibuat lebih kecil dari judul, tapi masih jelas terbaca.
-
-⸻
-
-Bagian bawah
-
-Bisa ada 2 elemen:
-
-1. Tagline
-
-Bukan janji cepat kaya. Ini peta mulai yang lebih jelas.
-
-2. Badge
-
-PDF Workbook + Starter Kit
-
-⸻
-
-Elemen Visual Pendukung
-
-Supaya cover tidak kosong, bisa diberi ilustrasi / elemen seperti ini:
-
-Opsi elemen visual:
-
-* ikon HP / layar konten vertical
-* ikon keranjang / affiliate / link produk
-* ikon AI spark / prompt / automation ringan
-* sticky notes / checklist / worksheet feel
-* chart / tracker / calendar mini
-* shape modern geometris
-* elemen "creator desk" yang halus
-* simbol play / short video / content workflow
-
-Tapi ingat:
-elemen hanya pendukung, bukan membuat cover jadi penuh dan berisik.
-
-⸻
-
-Warna yang Cocok
-
-Aku rekomendasikan palet:
-
-Opsi warna utama:
-
-* putih / off-white
-* hitam / charcoal
-* biru muda / teal
-* aksen pink-merah lembut yang mengingatkan ke TikTok vibe, tapi jangan terlalu literal
-
-Atau kombinasi:
-
-Palet aman:
-
-* putih
-* navy gelap / charcoal
-* teal
-* coral / pink soft
-
-Kenapa?
-Karena:
-
-* terasa digital
-* fresh
-* tidak norak
-* tetap beginner-friendly
-* tidak terlalu "gelap tech"
-* tidak terlalu "feminim berlebihan"
-
-⸻
-
-Gaya Desain yang Cocok
-
-Gaya yang direkomendasikan:
-
-Minimal modern editorial workbook
-
-Bayangkan campuran:
-
-* workbook digital
-* ebook premium
-* visual startup / creator economy
-* clean dashboard aesthetic
-
-Bukan:
-
-* cover motivasi murahan
-* cover penuh ledakan komisi
-* cover terlalu "TikTok ramai"
-* cover penuh icon receh
-
-⸻
-
-Apakah Perlu Wajah/Orang di Cover?
-
-Menurut saya ada 2 opsi:
-
-Opsi 1 -- Tanpa orang
-
-Lebih aman, lebih premium, lebih evergreen.
-
-Isi cover fokus ke:
-
-* tipografi
-* elemen digital
-* shape modern
-* icon kecil
-* worksheet aesthetic
-
-Kelebihan:
-
-* terlihat profesional
-* tidak cepat terasa norak
-* cocok untuk produk seri
-* lebih fleksibel
-
-⸻
-
-Opsi 2 -- Pakai ilustrasi orang
-
-Misalnya ilustrasi perempuan / pemula sedang membuat konten dari rumah.
-
-Kelebihan:
-
-* terasa lebih dekat
-* lebih hangat
-* cocok untuk target pemula
-
-Risiko:
-
-* kalau salah gaya bisa terlihat generik / murahan
-* cepat terasa seperti template Canva biasa
-
-⸻
-
-Rekomendasi saya:
-
-Untuk cover utama, lebih baik TANPA orang.
-
-Kalau mau unsur manusia, bisa lewat:
-
-* siluet ringan
-* ilustrasi flat kecil
-* atau nanti dipakai di halaman dalam, bukan cover utama
-
-⸻
-
-Konsep Copy Final untuk Cover
-
-Berikut versi copy yang menurut saya paling pas:
-
-Peta Cuan 2026
-Seri #01
-Affiliate TikTok dari Nol
-Edisi 2026
-Panduan hangat untuk pemula yang ingin mulai TikTok Affiliate
-dengan konten original, bantuan AI, dan langkah praktik yang rapi.
-Bukan janji cepat kaya. Ini peta mulai yang lebih jelas.
-PDF Workbook + Starter Kit
-
-⸻
-
-Versi Cover yang Lebih Singkat
-
-Kalau kamu ingin cover lebih bersih, subtitle bisa dipendekkan:
-
-Peta Cuan 2026
-Seri #01
-Affiliate TikTok dari Nol
-Edisi 2026
-Panduan hangat untuk pemula yang ingin mulai
-dengan konten original, bantuan AI, dan langkah praktik yang rapi.
-PDF Workbook + Starter Kit
-Bukan janji cepat kaya. Ini peta mulai yang lebih jelas.
-
-⸻
-
-Saran Hierarki Tulisan
-
-Urutan visual yang paling kuat:
-
-1. Affiliate TikTok dari Nol
-2. Edisi 2026
-3. Peta Cuan 2026 -- Seri #01
-4. Subtitle
-5. PDF Workbook + Starter Kit
-6. Tagline
-
-⸻
-
-Kesan yang Harus Keluar Saat Orang Lihat Cover
-
-Begitu orang lihat cover, respons idealnya adalah:
-
-* "Oh ini panduan pemula."
-* "Oh ini bukan ebook tipu-tipu."
-* "Oh ini rapi dan kelihatan serius."
-* "Oh ini bukan cuma teori, ada workbook dan starter kit."
-* "Oh ini bagian dari seri yang lebih besar."
-* "Oh ini modern dan relevan buat 2026."
-
-⸻
-
-Rekomendasi Final Saya
-
-Kalau aku simpulkan, cover terbaik untuk produk ini adalah:
-
-Direction:
-
-Clean modern premium workbook
-
-Isi utama:
-
-* label seri
-* judul besar
-* edisi
-* subtitle
-* tagline
-* badge workbook + starter kit
-
-Gaya:
-
-* minim clutter
-* modern editorial
-* digital creator aesthetic
-* tanpa janji bombastis
-* tanpa visual berlebihan
-
-⸻
-
-Next Step yang Bisa Kita Lakukan
-
-Kalau kamu setuju, kita bisa lanjut dengan salah satu dari 3 jalur ini:
-
-Opsi A -- Finalkan konsep cover dulu
-
-Aku bantu buat:
-
-* struktur cover final
-* copy final
-* urutan elemen
-* arahan warna
-* arahan layout
-
-Opsi B -- Buat 3 alternatif konsep cover
-
-Misalnya:
-
-1. Clean Minimal
-2. Modern Workbook
-3. Creator Economy Style
-
-Lalu kamu pilih yang paling cocok.
-
-Opsi C -- Langsung buat prompt desain cover
-
-Kalau nanti kamu mau generate visual cover, aku bisa bantu bikin:
-
-* prompt image generation
-* arahan layout
-* teks cover final
-* style direction
-
-⸻
-
-Kalau kamu mau, kita lanjut sekarang dengan:
-
-"Gas 3 alternatif konsep cover"
-
-biar kamu bisa bandingkan dulu sebelum kita lock 1 arah final.
-
-Siap, betul. Di chatroom ini kita konsep saja, belum generate cover. Nanti eksekusi visualnya kita taruh di chatroom khusus PDF/layout biar satu paket dengan desain halaman demi halaman.
-
-Berikut 3 pilihan konsep cover untuk nanti kita bandingkan.
-
-⸻
-
-Konsep Cover 1
-
-Clean Premium Workbook
-
-Karakter utama
-
-Cover ini paling aman, paling profesional, dan paling cocok untuk produk digital premium.
-
-Vibe-nya seperti workbook modern, rapi, bersih, dan serius. Tidak terlalu ramai. Fokus ke judul, positioning, dan rasa "ini produk yang bisa dipakai praktik".
-
-Komposisi
-
-Bagian atas:
-
-Peta Cuan 2026 -- Seri #01
-
-Bagian tengah besar:
-
-Affiliate TikTok dari Nol
-Edisi 2026
-
-Bagian bawah:
 
 Panduan hangat untuk pemula yang ingin mulai TikTok Affiliate
 dengan konten original, bantuan AI, dan langkah praktik yang rapi.
 
-Badge kecil:
-
 PDF Workbook + Starter Kit
 
-Tagline:
+Bukan janji cepat kaya.
+Ini peta mulai yang lebih jelas.
+```
 
-Bukan janji cepat kaya. Ini peta mulai yang lebih jelas.
+---
 
-Visual pendukung
+## 15. Target Audiens yang Perlu Terasa dari Visual
 
-* background putih/off-white
-* elemen garis halus seperti worksheet
-* ikon kecil: checklist, calendar, AI spark, short video frame
-* bentuk kartu/card modern
-* sedikit aksen warna teal dan coral/pink lembut
+Cover terutama harus terasa cocok untuk:
 
-Kesan
+- pemula total;
+- ibu rumah tangga;
+- mahasiswa;
+- karyawan;
+- orang yang ingin mulai dari rumah;
+- orang yang belum memiliki produk sendiri;
+- orang yang belum percaya diri tampil di depan kamera;
+- orang yang ingin menggunakan AI secara realistis;
+- orang yang pernah mencoba tetapi masih merasa belum punya arah.
 
-Terasa:
+Tidak semua kelompok perlu ditulis pada cover. Mereka cukup diterjemahkan melalui suasana yang ramah, tidak mengintimidasi, dan tidak terlalu teknis.
 
-* premium
-* clean
-* tidak murahan
-* tidak hype berlebihan
-* cocok untuk seri panjang Peta Cuan 2026
+---
 
-Cocok kalau kamu ingin
+## 16. Kriteria Penilaian Mockup
 
-Produk terlihat seperti ebook/workbook serius yang bisa dijual satuan maupun bundling.
+Setiap alternatif cover nantinya dinilai menggunakan pertanyaan berikut:
 
-Risiko
+1. Apakah judul terbaca jelas dalam ukuran thumbnail?
+2. Apakah produk langsung terlihat cocok untuk pemula?
+3. Apakah tampilannya terasa seperti workbook premium?
+4. Apakah AI terlihat sebagai alat bantu, bukan janji otomatisasi hasil?
+5. Apakah cover bebas dari kesan cepat kaya?
+6. Apakah identitas Nganggur Bercerita terlihat jelas?
+7. Apakah subtitle tetap terbaca tanpa membuat cover penuh?
+8. Apakah elemen visual relevan dengan isi?
+9. Apakah cover tetap bagus saat dilihat di ponsel?
+10. Apakah tampilannya cukup khas untuk dikembangkan menjadi sistem visual halaman dalam?
 
-Kurang "rame" kalau target marketplace suka visual yang sangat mencolok. Tapi untuk positioning premium, ini paling kuat.
+---
 
-⸻
+## 17. Output yang Diharapkan dari Chatroom PDF
 
-Konsep Cover 2
+Chatroom PDF disarankan menghasilkan:
 
-Creator Desk / From Home Beginner
+1. **Tiga alternatif cover depan**
+   - Clean Premium Workbook;
+   - Creator Desk;
+   - Beginner Roadmap.
 
-Karakter utama
+2. **Satu rekomendasi utama** beserta alasan visualnya.
 
-Cover ini lebih hangat dan relatable untuk pemula. Nuansanya seperti seseorang yang sedang mulai membangun konten dari rumah: ada HP, notes, checklist, laptop/tablet, dan elemen produk affiliate.
+3. **Preview thumbnail** untuk mengecek keterbacaan.
 
-Tanpa perlu wajah manusia. Cukup visual meja kerja kreator pemula.
+4. **Preview ukuran halaman penuh**.
 
-Komposisi
+5. **Versi tanpa mockup perangkat** untuk final PDF.
 
-Bagian atas:
+6. **Mockup promosi terpisah** setelah cover utama disetujui.
 
-Peta Cuan 2026 -- Seri #01
+Mockup promosi tidak boleh dijadikan file cover final.
 
-Judul utama di tengah-kiri atau tengah-atas:
+---
 
-Affiliate TikTok dari Nol
-Edisi 2026
+## 18. Batas Wewenang Chatroom PDF
 
-Visual utama di tengah/bawah:
+Chatroom PDF boleh:
 
-* meja kreator
-* HP vertikal dengan frame konten
-* sticky notes bertuliskan "niche", "produk", "konten", "data"
-* checklist kecil
-* ikon keranjang/link produk
-* ikon AI spark kecil
+- mengatur layout;
+- memilih font;
+- menentukan ukuran dan posisi;
+- menyusun palet;
+- membuat ilustrasi atau elemen grafis;
+- menguji beberapa komposisi;
+- menyederhanakan pemenggalan baris tanpa mengubah makna.
 
-Bagian bawah:
+Chatroom PDF tidak boleh secara diam-diam:
 
-PDF Workbook + Starter Kit
+- mengganti judul;
+- mengubah subtitle;
+- menghapus tagline;
+- menghidupkan kembali label Peta Cuan;
+- menambahkan klaim penghasilan;
+- mengubah format produk;
+- mengubah positioning;
+- menambahkan logo atau identitas pihak lain;
+- mengubah isi produk.
 
-Tagline:
+Konflik yang menyangkut positioning atau copy harus dikembalikan ke Chatroom Blueprint.
 
-Bukan janji cepat kaya. Ini peta mulai yang lebih jelas.
+---
 
-Warna
+## 19. Rekomendasi Final
 
-* cream/off-white
-* teal
-* soft blue
-* coral/pink lembut
-* sedikit charcoal untuk teks
+Arah utama yang dibawa ke tahap desain:
 
-Kesan
+> **Clean Premium Workbook dengan tipografi dominan, ruang kosong yang cukup, elemen creator-workflow yang ringan, warna off-white–charcoal dengan aksen teal dan coral, serta identitas “Diproduksi oleh Nganggur Bercerita.”**
 
-Terasa:
+Cover harus terasa:
 
-* lebih manusiawi
-* lebih ramah pemula
-* lebih "mulai dari rumah"
-* cocok untuk ibu rumah tangga, mahasiswa, karyawan, pemula malu tampil wajah
+- ramah;
+- praktis;
+- modern;
+- realistis;
+- premium;
+- mudah dipahami pemula;
+- tidak bombastis.
 
-Cocok kalau kamu ingin
+---
 
-Cover yang terasa dekat dengan kondisi pembaca, bukan terlalu formal.
+## 20. Status Keputusan
 
-Risiko
+### Dikunci
 
-Kalau elemen meja terlalu banyak, cover bisa terlihat ramai. Perlu dijaga tetap clean.
+- Judul produk
+- Edisi 2026
+- Subtitle
+- Tagline
+- Format produk
+- Label produsen
+- Induk brand Nganggur Bercerita
+- Larangan klaim hasil instan
+- Arah utama Clean Premium Workbook
 
-⸻
+### Masih dapat dieksplorasi di Chatroom PDF
 
-Konsep Cover 3
+- jenis font;
+- detail palet;
+- posisi setiap elemen;
+- ilustrasi pendukung;
+- bentuk badge;
+- komposisi portrait;
+- pemenggalan baris;
+- alternatif visual Creator Desk dan Beginner Roadmap.
 
-Digital Roadmap / Peta Mulai
+---
 
-Karakter utama
+## 21. Spesifikasi Teknis Produksi
 
-Cover ini paling kuat untuk integrasi Peta Cuan 2026. Visual utamanya seperti peta/roadmap digital: dari "nol" menuju tahap-tahap belajar affiliate.
+Chatroom PDF membutuhkan angka konkret berikut sebelum mulai eksekusi, supaya tidak menebak sendiri:
 
-Ini menonjolkan konsep "peta", bukan "janji hasil".
+### Cover PDF (isi produk)
 
-Komposisi
+- **Ukuran halaman:** mengikuti ukuran halaman isi ebook/workbook (perlu dikonfirmasi ke Chatroom Isi/PDF — umumnya A4 atau custom digital seperti 1600×2000px, belum ditentukan di sini).
+- **Orientasi:** portrait.
+- **Resolusi:** minimal 300 DPI bila ada kemungkinan cetak; 150–300 DPI cukup untuk digital-only.
+- **Warna:** CMYK bila disiapkan untuk cetak, RGB bila digital-only. Perlu dikonfirmasi mode distribusi (Lynk.id = digital-only, jadi RGB kemungkinan cukup).
+- **Format file akhir:** PDF/print-ready (tanpa mockup perangkat) + PNG/JPG resolusi tinggi untuk keperluan lain.
 
-Bagian atas:
+### Thumbnail Lynk.id
 
-Peta Cuan 2026 -- Seri #01
+- Proporsi thumbnail marketplace Lynk.id sering berbeda dari cover PDF (cenderung mendekati rasio persegi atau landscape, bukan portrait A4). **Perlu dicek langsung ke halaman upload produk Lynk.id** untuk rasio dan ukuran piksel yang disyaratkan, supaya cover tidak terpotong salah saat dipakai sebagai thumbnail.
+- Sarankan Chatroom PDF membuat versi crop/adaptasi terpisah dari cover utama untuk thumbnail ini, bukan memakai file cover apa adanya.
 
-Judul besar:
+### Preview promosi (Instagram, TikTok, dsb.)
 
-Affiliate TikTok dari Nol
-Edisi 2026
+- Rasio berbeda per platform (mis. 4:5 atau 1:1 untuk feed, 9:16 untuk story/reel). Disiapkan sebagai mockup promosi terpisah sesuai Bagian 17 poin 6, bukan bagian dari file cover final.
 
-Visual utama:
+**Catatan:** Bagian ini memberi kerangka, bukan angka final yang mengunci — angka pasti (dimensi halaman isi, dsb.) tetap perlu dikonfirmasi silang dengan Chatroom Isi/PDF saat itu berjalan.
 
-* garis roadmap modern
-* titik-titik tahap belajar:
-    * Niche
-    * Produk
-    * Konten
-    * AI
-    * Data
-    * Etika
-* ikon HP vertikal
-* ikon keranjang affiliate
-* ikon workbook/checklist
-* panah halus menuju "mulai lebih jelas"
+---
 
-Subtitle:
+## 22. Gerbang Approval
 
-Panduan hangat untuk pemula yang ingin mulai TikTok Affiliate
-dengan konten original, bantuan AI, dan langkah praktik yang rapi.
+- Ketiga alternatif cover (Bagian 17) adalah draf eksplorasi, **bukan hasil akhir** sampai direview.
+- Sesuai Blueprint Induk Bagian 18 (publikasi/tindakan eksternal besar butuh persetujuan Reza), cover final dianggap locked hanya setelah Reza memilih/menyetujui salah satu alternatif secara eksplisit.
+- Chatroom PDF tidak berwenang menetapkan sendiri satu alternatif sebagai "cover resmi" tanpa persetujuan tersebut, termasuk untuk keperluan preview internal yang dibagikan lebih luas.
+- Setelah disetujui, versi yang locked dicatat di dokumen ini (Bagian 20) sebagai keputusan baru, bukan menimpa histori alternatif yang tidak dipilih.
 
-Badge:
+---
 
-PDF Workbook + Starter Kit
+## 23. Orisinalitas Elemen Visual
 
-Tagline:
+Selaras dengan Blueprint Induk Bagian 13 (larangan menyalin materi pihak ketiga tanpa kejelasan lisensi):
 
-Bukan janji cepat kaya. Ini peta mulai yang lebih jelas.
+- Ikon, ilustrasi, tekstur, dan elemen grafis pendukung harus salah satu dari: (a) dibuat custom/original, (b) AI-generated dengan gaya original (bukan meniru gaya ilustrator/brand tertentu), atau (c) berasal dari asset library dengan lisensi komersial yang jelas dan tercatat.
+- Chatroom PDF perlu mencatat sumber tiap elemen non-custom (nama asset library + jenis lisensi) sebagai bagian dari dokumentasi produksi, supaya bisa diverifikasi sebelum publish.
+- Font juga tunduk aturan yang sama — pastikan lisensi font mengizinkan penggunaan komersial pada produk yang dijual, bukan hanya lisensi personal-use.
+- Elemen yang lisensinya tidak jelas atau berisiko (Blueprint Induk Bagian 18) harus dibawa kembali ke Chatroom Blueprint untuk persetujuan, bukan diputuskan sendiri di Chatroom PDF.
 
-Warna
+---
 
-* navy gelap atau charcoal sebagai dasar
-* aksen teal
-* aksen pink/coral
-* putih untuk teks utama
-* glow halus, tapi jangan terlalu cyberpunk
+## 24. Isu Terbuka: Identitas Foto Reza di Halaman Dalam
 
-Kesan
+Blueprint Induk Bagian 5.2 menetapkan foto Reza (AI-smoothed) sebagai avatar lintas platform dalam sistem identitas visual studio. Dokumen ini merekomendasikan cover **tanpa figur manusia** (Bagian 7).
 
-Terasa:
+Ini bukan kontradiksi otomatis — cover produk dan avatar profil adalah konteks berbeda — tapi dokumen ini belum menjawab:
 
-* modern
-* strategis
-* sesuai nama Peta Cuan
-* lebih "sistematis"
-* cocok untuk seri pembuka dari 35 produk
+- Apakah foto Reza tetap muncul di halaman "Tentang Nganggur Bercerita" di bagian akhir PDF (sesuai Blueprint Induk Bagian 5.1)?
+- Apakah produk ini dimaksudkan tanpa foto dari cover sampai isi, sebagai pendekatan yang konsisten?
 
-Cocok kalau kamu ingin
+**Status:** belum diputuskan di dokumen ini. Perlu klarifikasi Reza sebelum Chatroom PDF mengerjakan halaman "Tentang Nganggur Bercerita", supaya tidak ada revisi bolak-balik akibat asumsi yang salah.
 
-Cover yang langsung terasa sebagai bagian dari ekosistem besar Peta Cuan 2026.
+---
 
-Risiko
-
-Kalau terlalu gelap/tech, bisa terasa kurang hangat untuk pemula. Perlu dibuat tetap soft dan friendly.
-
-⸻
-
-Perbandingan Cepat
-
-Konsep	Kekuatan Utama	Kesan	Rekomendasi
-1. Clean Premium Workbook	Paling profesional dan aman	Premium, rapi, serius	Terbaik untuk produk satuan premium
-2. Creator Desk	Paling relatable untuk pemula	Hangat, humanis, dari rumah	Terbaik untuk target pemula total
-3. Digital Roadmap	Paling kuat untuk Peta Cuan 2026	Strategis, modern, ekosistem	Terbaik untuk branding seri besar
-
-⸻
-
-Rekomendasi Saya
-
-Kalau untuk cover utama produk pertama, saya paling merekomendasikan:
-
-Pilihan Utama: Konsep 1 -- Clean Premium Workbook
-
-Karena produk ini sekarang sudah cukup serius: 12 modul premium + 12 bonus + positioning Peta Cuan. Cover clean akan membuatnya terasa bernilai dan tidak seperti ebook affiliate murahan.
-
-Alternatif yang sangat menarik: Konsep 2 -- Creator Desk
-
-Kalau kamu ingin lebih emosional dan terasa dekat dengan target pemula, Konsep 2 bisa sangat kuat.
-
-Untuk branding bundle/seri: Konsep 3 -- Digital Roadmap
-
-Konsep 3 menurutku lebih cocok dipakai untuk cover besar Peta Cuan 2026 Bundle, atau sebagai gaya visual halaman pembuka seri.
-
-⸻
-
-Kesimpulan Sementara
-
-Untuk nanti kita generate di chatroom khusus, kandidat terbaiknya:
-
-1. Clean Premium Workbook -- kandidat cover utama paling aman
-2. Creator Desk / From Home Beginner -- kandidat cover yang paling hangat
-3. Digital Roadmap / Peta Mulai -- kandidat cover paling kuat untuk identitas seri
-
-Nanti saat masuk fase generate cover, kita bisa generate ketiganya sebagai mockup, lalu pilih:
-mana yang jadi cover utama, mana yang jadi style halaman dalam, dan mana yang bisa dipakai untuk bundle Peta Cuan 2026.
+**Catatan koordinasi:** Dokumen ini adalah brief isi dan positioning cover. Persetujuan visual final tetap dilakukan di Chatroom PDF. Perubahan terhadap keputusan yang dikunci harus dibawa kembali ke Chatroom Blueprint.

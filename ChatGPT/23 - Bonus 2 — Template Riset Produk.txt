@@ -1,988 +1,258 @@
 # Bonus 2
 ## Template Riset Produk
 
-Template ini dibuat untuk membantumu memilih produk dengan lebih rapi.
+Template ini membantumu menilai apakah sebuah produk cukup layak untuk diuji melalui konten affiliate — bukan asal ikut produk viral, bukan hanya karena komisinya besar.
 
-Bukan asal ikut produk viral.
-
-Bukan hanya karena komisinya besar.
-
-Bukan juga karena banyak orang lain sedang membahas produk itu.
-
-Tujuan template ini adalah membantu kamu melihat apakah sebuah produk cukup masuk akal untuk diuji sebagai konten affiliate.
-
-Tidak harus sempurna.
-
-Yang penting kamu punya alasan yang lebih jelas sebelum mulai membuat konten.
+Produk dengan penjualan tinggi, komisi besar, atau status viral tetap belum tentu cocok dengan niche, audiensmu, kemampuan produksimu, atau standar etikamu. Gunakan template ini supaya keputusan produk tidak hanya berdasarkan *"kelihatannya ramai"*, tapi berdasarkan pertanyaan yang lebih penting: produk ini membantu siapa, apakah kualitas dan penjualnya layak, apakah risikonya sanggup dikelola, dan apakah kamu punya cukup bahan untuk membuat beberapa konten darinya.
 
 ---
 
-## Cara Menggunakan Template Ini
+## Cara Menggunakan Template
 
-Gunakan template ini setiap kali kamu ingin menilai produk.
+Gunakan untuk satu produk dulu. Setelah terbiasa, bandingkan maksimal tiga produk dalam niche yang sama.
 
-Kamu bisa mengisinya untuk 1 produk dulu.
+Gunakan tiga status: `[x]` sudah diperiksa, `[~]` masih perlu diverifikasi, `[ ]` belum diperiksa. Jangan mengisi berdasarkan tebakan hanya supaya terlihat lengkap — kalau informasinya belum tersedia, tulis saja **"belum diketahui"**. Itu lebih aman daripada jawaban yang dibuat-buat.
 
-Kalau sudah terbiasa, kamu bisa membandingkan 3–5 produk dalam satu niche.
-
-Isi dengan sederhana.
-
-Tidak perlu terlalu panjang.
-
-Yang penting kamu bisa menjawab:
-
-produk ini untuk siapa,
-masalah apa yang dibantu,
-apakah produknya layak,
-apakah aman dipromosikan,
-dan apakah bisa dibuat menjadi beberapa ide konten.
+**Template ini punya dua tahap.** Tahap 1 memeriksa red flag — untuk tahu apakah produk sebaiknya langsung dihentikan atau ditunda. Tahap 2 baru menilai kelayakan lewat skor, dan hanya dilakukan kalau produk tidak punya red flag berat. **Risiko serius tidak boleh dikalahkan oleh skor tinggi** — produk dengan skor 40/50 tetap tidak layak kalau ternyata barangnya diduga palsu atau ada risiko keselamatan yang disembunyikan.
 
 ---
 
-# Bagian 1
-## Identitas Produk
+## Bagian 1 — Identitas Produk
 
-Nama produk:
+Tanggal riset, nama produk, kategori/niche, tautan sumber, nama penjual, harga saat diperiksa, estimasi komisi, status stok.
 
-............................................................................
+- [ ] Saya sudah mencatat tanggal pemeriksaan (harga, stok, dan komisi bisa berubah).
+- [ ] Saya memahami komisi estimasi bukan penghasilan final, dan akan cek ulang sebelum publikasi.
 
-Kategori / niche:
-
-............................................................................
-
-Contoh:
-perlengkapan dapur, home organizer, alat content creator pemula, kebutuhan anak kos, fashion basic.
-
-Link / sumber produk:
-
-............................................................................
-
-Nama seller / toko jika tersedia:
-
-............................................................................
-
-Harga produk:
-
-............................................................................
-
-Estimasi komisi:
-
-............................................................................
-
-Catatan:
-
-Jangan hanya menilai dari komisi.
-
-Komisi tinggi tidak selalu berarti produk layak dipromosikan.
-
-Produk yang komisinya lebih kecil tapi kualitasnya lebih baik dan lebih dipercaya bisa lebih sehat untuk jangka panjang.
+*Jangan hanya menilai dari komisi — produk dengan komisi lebih kecil tapi lebih dipercaya bisa lebih sehat untuk jangka panjang.*
 
 ---
 
-# Bagian 2
-## Produk Ini Membantu Masalah Apa?
+## Bagian 2 — Apa yang Sebenarnya Dijual, dan Masalah Apa yang Dibantu?
 
-Tuliskan masalah yang dibantu oleh produk ini.
+Jelaskan produk tanpa kalimat promosi. Lengkapi: *"Produk ini adalah ... yang digunakan untuk ..."* — kalau kamu belum bisa menjelaskan produk secara sederhana, jangan buru-buru membuat konten.
 
-Contoh:
+**Fungsi utama, fitur utama (3), dan hal yang belum saya pahami (3):** ...
 
-Produk:
-rak bumbu
+**Masalah yang dibantu, situasi kapan masalah terjadi, dan siapa yang sering mengalaminya:** ...
 
-Masalah:
-botol bumbu sering berantakan, meja dapur terasa penuh, bumbu susah dicari saat masak.
+**Seberapa penting masalah ini?** [ ] Gangguan kecil [ ] Cukup sering terjadi [ ] Kebutuhan penting [ ] Belum diketahui
 
-Produk:
-tripod HP
+**Apakah produk benar-benar membantu, atau hubungannya terasa dipaksakan?** ...
 
-Masalah:
-susah merekam video sendiri, HP sering disandarkan ke gelas atau buku, hasil video tidak stabil.
-
-Sekarang isi untuk produkmu:
-
-Produk ini membantu masalah:
-
-............................................................................
-
-............................................................................
-
-Masalah ini sering dialami oleh siapa?
-
-............................................................................
-
-............................................................................
-
-Apakah masalahnya cukup jelas?
-
-[ ] Ya
-
-[ ] Belum terlalu jelas
-
-[ ] Tidak yakin
-
-Catatan:
-
-Kalau masalahnya belum jelas, produk akan lebih sulit dibuat konten.
-
-Karena konten affiliate yang kuat biasanya tidak hanya menampilkan barang, tapi menghubungkan barang dengan masalah calon pembeli.
+Lengkapi: *"Produk ini dapat membantu ... ketika ..."* — hindari mengubah manfaat kecil jadi solusi masalah besar.
 
 ---
 
-# Bagian 3
-## Siapa Calon Pembelinya?
+## Bagian 3 — Calon Pembeli Ringkas
 
-Tuliskan siapa yang mungkin membutuhkan produk ini.
+Bagian ini hanya untuk menentukan kecocokan produk. Persona lengkap dibuat lewat **Bonus 3 — Template Persona Pembeli**.
 
-Calon pembeli utama:
+**Calon pembeli utama, situasi mereka, yang mereka inginkan, dan 3 keraguan sebelum membeli:** ...
 
-............................................................................
-
-Contoh:
-ibu rumah tangga, anak kos, mahasiswa, pekerja dari rumah, pemula yang mau bikin konten, orang yang punya dapur kecil, orang yang ingin rumah lebih rapi.
-
-Calon pembeli tambahan:
-
-............................................................................
-
-............................................................................
-
-Apa kondisi mereka?
-
-............................................................................
-
-............................................................................
-
-Apa yang mereka inginkan?
-
-............................................................................
-
-............................................................................
-
-Apa yang mungkin membuat mereka ragu?
-
-............................................................................
-
-............................................................................
-
-Catatan:
-
-Semakin jelas calon pembeli, semakin mudah kamu membuat hook, script, dan CTA.
-
-Jangan membuat konten terlalu umum untuk "semua orang".
+**Apakah produk relevan untuk mereka?** [ ] Sangat relevan [ ] Cukup relevan [ ] Lemah [ ] Belum diketahui
 
 ---
 
-# Bagian 4
-## Manfaat Utama Produk
+## Bagian 4 — Fitur, Fungsi, dan Manfaat
 
-Tuliskan manfaat produk dengan bahasa sederhana.
+Jangan campur fitur dengan hasil besar. Gunakan alur **Fitur → Fungsi → Manfaat yang masuk akal**, isi tabel untuk minimal 3 fitur:
 
-Jangan hanya menulis fitur.
+| Fitur | Fungsinya | Manfaat bagi Pembeli | Bukti/Sumber |
+|---|---|---|---|
+|  |  |  |  |
 
-Ubah fitur menjadi manfaat.
+*Contoh: Fitur "rak 3 tingkat" → fungsi "botol disusun vertikal" → manfaat "sebagian ruang meja terpakai lebih efisien". Bukan "rak ini pasti bikin dapur selalu rapi."*
 
-Contoh:
-
-Fitur:
-rak 3 tingkat
-
-Manfaat:
-bisa membantu menyusun lebih banyak botol bumbu tanpa memenuhi meja dapur.
-
-Fitur:
-tripod bisa dipanjangkan
-
-Manfaat:
-membantu merekam video dari sudut yang lebih fleksibel.
-
-Sekarang isi untuk produkmu:
-
-Fitur produk:
-
-1. ..........................................................................
-
-2. ..........................................................................
-
-3. ..........................................................................
-
-Manfaat untuk pembeli:
-
-1. ..........................................................................
-
-2. ..........................................................................
-
-3. ..........................................................................
-
-Kalimat manfaat sederhana:
-
-............................................................................
-
-............................................................................
-
-Contoh format:
-
-"Produk ini bisa membantu [calon pembeli] untuk [manfaat] ketika mereka mengalami [masalah]."
-
-Isi versi kamu:
-
-Produk ini bisa membantu:
-
-............................................................................
-
-untuk:
-
-............................................................................
-
-ketika mereka mengalami:
-
-............................................................................
+Lengkapi: *"Produk ini dapat membantu [calon pembeli] untuk [manfaat] ketika [situasi]."*
 
 ---
 
-# Bagian 5
-## Apakah Produk Mudah Dibuat Konten?
+## Bagian 5 — Pisahkan Fakta, Pengalaman, dan Klaim Penjual
 
-Centang yang sesuai.
+Kebiasaan yang sama seperti sejak Modul 7 — jangan biarkan tiga jenis informasi ini tercampur sebelum menulis konten.
 
-[ ] Produk bisa ditunjukkan secara visual.
-
-[ ] Produk bisa dibuat demo.
-
-[ ] Produk bisa dibuat before-after.
-
-[ ] Produk bisa dibuat review jujur.
-
-[ ] Produk bisa dibuat tutorial singkat.
-
-[ ] Produk bisa dibuat checklist sebelum beli.
-
-[ ] Produk bisa dibuat konten problem-solution.
-
-[ ] Produk bisa dibuat konten tanpa wajah.
-
-[ ] Produk bisa dibuat minimal 3 ide konten.
-
-[ ] Produk bisa dibuat minimal 5 ide konten.
-
-Ide konten awal:
-
-1. ..........................................................................
-
-2. ..........................................................................
-
-3. ..........................................................................
-
-4. ..........................................................................
-
-5. ..........................................................................
-
-Catatan:
-
-Kalau kamu tidak bisa membayangkan minimal 3 ide konten dari produk ini, mungkin produk tersebut belum ideal untuk diuji sebagai produk pertama.
-
-Bukan berarti produknya buruk.
-
-Mungkin hanya belum cocok untuk tahap awalmu.
+**Fakta yang sudah diperiksa** (5): ...
+**Pengalaman pribadi yang benar-benar terjadi** (3, atau tulis "belum ada pengalaman langsung"): ...
+**Klaim penjual** (3): ...
+**Hal yang belum dipastikan, dan klaim yang tidak boleh digunakan** (3+3): ...
 
 ---
 
-# Bagian 6
-## Cek Visual Produk
+## Bagian 6 — Spesifikasi dan Visual
 
-Tanyakan ini sebelum memilih produk.
+**Spesifikasi** (isi yang tersedia): ukuran, bahan, kapasitas/daya, cara pemasangan, isi paket, peringatan penting, perbedaan antarvariasi.
 
-Apakah produk mudah terlihat dalam video?
+**Status kelengkapan informasi:** [ ] Cukup jelas [ ] Ada bagian belum jelas [ ] Info penting tidak tersedia [ ] Deskripsi saling bertentangan
 
-[ ] Ya
+**Audit visual:** apakah produk mudah dilihat dan fungsinya bisa ditunjukkan? Apakah ukuran bisa diperjelas (penggaris/objek pembanding/close-up)? Apakah demonstrasinya aman?
 
-[ ] Tidak
+**Visual yang perlu direkam** (5): ...
+**Visual yang tidak boleh dibuat-buat** (3): ...
 
-[ ] Tidak yakin
-
-Apakah ukuran produk mudah ditunjukkan?
-
-[ ] Ya
-
-[ ] Tidak
-
-[ ] Tidak yakin
-
-Apakah fungsi produk bisa ditunjukkan dalam waktu singkat?
-
-[ ] Ya
-
-[ ] Tidak
-
-[ ] Tidak yakin
-
-Apakah produk cocok untuk video 15–30 detik?
-
-[ ] Ya
-
-[ ] Tidak
-
-[ ] Tidak yakin
-
-Apakah produk bisa direkam dengan alat sederhana?
-
-[ ] Ya
-
-[ ] Tidak
-
-[ ] Tidak yakin
-
-Catatan visual:
-
-............................................................................
-
-............................................................................
-
-Hal yang perlu ditunjukkan di video:
-
-1. ..........................................................................
-
-2. ..........................................................................
-
-3. ..........................................................................
+*Kalau informasi dasar tidak jelas, produk lebih berisiko dipromosikan.*
 
 ---
 
-# Bagian 7
-## Cek Harga dan Keputusan Beli
+## Bagian 7 — Audit Penjual, Rating, dan Ulasan
 
-Harga produk:
+Produk yang menarik tetap bisa bermasalah kalau penjual atau halaman produknya lemah — ini sumber masalah yang berbeda dari produk itu sendiri, jadi periksa terpisah.
 
-............................................................................
+**Rating toko, jumlah terjual, konsistensi ulasan terbaru:** ...
 
-Apakah harga terasa masuk akal untuk calon pembeli?
+**Halaman produk:** [ ] Foto sesuai deskripsi [ ] Variasi jelas [ ] Harga/promo jelas [ ] Produk yang ditautkan sesuai dengan yang akan ditampilkan
 
-[ ] Ya
+**Pujian yang sering muncul (3) dan keluhan yang sering muncul (3):** ...
 
-[ ] Mungkin
+**Keluhan yang memengaruhi keputusan beli** — centang yang relevan: ukuran tidak sesuai / bahan berbeda / barang mudah rusak / fungsi tidak jalan / produk beda dari gambar / klaim penjual berlebihan / keluhan keselamatan / tidak ada red flag besar.
 
-[ ] Tidak yakin
-
-[ ] Terlalu mahal untuk target pemula
-
-Apakah produk termasuk pembelian impulsif ringan?
-
-[ ] Ya
-
-[ ] Tidak
-
-[ ] Tidak yakin
-
-Apakah pembeli perlu banyak pertimbangan sebelum membeli?
-
-[ ] Ya
-
-[ ] Tidak
-
-[ ] Tidak yakin
-
-Apa yang mungkin membuat pembeli merasa produk ini worth it?
-
-............................................................................
-
-............................................................................
-
-Apa yang mungkin membuat pembeli batal membeli?
-
-............................................................................
-
-............................................................................
-
-Catatan:
-
-Produk murah belum tentu mudah laku.
-
-Produk mahal belum tentu sulit laku.
-
-Yang penting adalah kecocokan antara harga, manfaat, kebutuhan pembeli, dan trust.
+**Keputusan tentang penjual:** [ ] Cukup layak [ ] Perlu dipantau [ ] Perlu dibandingkan dengan penjual lain [ ] Sebaiknya dihindari
 
 ---
 
-# Bagian 8
-## Cek Rating, Review, dan Trust Produk
+## Bagian 8 — Pemeriksaan Red Flag (Tahap 1)
 
-Rating produk:
+Centang semua yang ditemukan. Ini gerbang sebelum skoring.
 
-............................................................................
+**Red flag produk:** sering dilaporkan rusak, berbeda dari gambar, risiko keselamatan tidak dijelaskan, spesifikasi tidak konsisten, diduga palsu, manfaat utama bergantung klaim tak terbukti, memerlukan penggunaan berisiko yang tidak saya pahami. [ ] Tidak ada red flag berat.
 
-Jumlah review jika tersedia:
+**Red flag konten:** saya harus mengarang pengalaman, saya harus menyembunyikan keterbatasan, saya harus pakai klaim besar supaya terasa berguna, produk sulit ditunjukkan jujur, produk dan tautan tidak benar-benar sama. [ ] Tidak ada red flag berat.
 
-............................................................................
+**Keputusan tahap 1:** [ ] Lanjut ke penilaian [ ] Tunda dan verifikasi [ ] Bandingkan penjual/listing lain [ ] Hentikan riset produk ini
 
-Jumlah terjual jika tersedia:
-
-............................................................................
-
-Apa komentar positif yang sering muncul?
-
-............................................................................
-
-............................................................................
-
-Apa keluhan yang sering muncul?
-
-............................................................................
-
-............................................................................
-
-Apakah ada red flag dari review?
-
-[ ] Banyak komplain kualitas
-
-[ ] Ukuran tidak sesuai ekspektasi
-
-[ ] Barang sering rusak
-
-[ ] Pengiriman bermasalah
-
-[ ] Produk tidak sesuai gambar
-
-[ ] Klaim seller terlalu berlebihan
-
-[ ] Review terlihat tidak meyakinkan
-
-[ ] Tidak ada red flag besar
-
-Catatan trust:
-
-............................................................................
-
-............................................................................
-
-Keputusan sementara:
-
-[ ] Produk terlihat layak diuji
-
-[ ] Produk perlu dicek lebih lanjut
-
-[ ] Produk sebaiknya dihindari dulu
+*Kalau ada red flag keselamatan, produk palsu, atau ketidaksesuaian produk-tautan — jangan lanjut hanya karena komisinya menarik.*
 
 ---
 
-# Bagian 9
-## Cek Klaim dan Risiko Konten
+## Bagian 9 — Risiko Kategori dan Klaim
 
-Apakah produk ini rawan klaim berlebihan?
+**Apakah produk termasuk kategori yang butuh kehati-hatian lebih?** Kesehatan / suplemen / skincare / produk bayi / keselamatan / listrik-panas-benda tajam / keuangan / klaim hasil tertentu / produk mahal / [ ] bukan kategori sensitif.
 
-[ ] Ya
+**Klaim yang harus dihindari (3) → bahasa yang lebih proporsional (3):** ...
 
-[ ] Tidak
-
-[ ] Tidak yakin
-
-Apakah produk masuk kategori yang perlu kehati-hatian ekstra?
-
-[ ] Kesehatan
-
-[ ] Suplemen
-
-[ ] Skincare
-
-[ ] Produk bayi
-
-[ ] Produk keuangan
-
-[ ] Produk dengan klaim hasil tertentu
-
-[ ] Produk keselamatan
-
-[ ] Tidak termasuk kategori sensitif
-
-Klaim yang harus dihindari:
-
-1. ..........................................................................
-
-2. ..........................................................................
-
-3. ..........................................................................
-
-Bahasa yang lebih aman:
-
-1. ..........................................................................
-
-2. ..........................................................................
-
-3. ..........................................................................
-
-Contoh:
-
-Kurang aman:
-"Produk ini pasti bikin dapur selalu rapi."
-
-Lebih aman:
-"Produk ini bisa membantu menyusun botol bumbu supaya sudut dapur terlihat lebih rapi."
-
-Isi versi produkmu:
-
-Kurang aman:
-
-............................................................................
-
-Lebih aman:
-
-............................................................................
-
-Catatan:
-
-Kalau kamu ragu apakah klaim terlalu berlebihan, pilih bahasa yang lebih hati-hati.
-
-Gunakan kata seperti:
-"bisa membantu"
-"cocok untuk kebutuhan tertentu"
-"bisa jadi pilihan"
-"cek ukuran dulu"
-"hasil tiap orang bisa berbeda"
-"sesuaikan dengan kebutuhanmu"
+*Contoh: "Produk ini pasti bikin dapur selalu rapi" → "Produk ini bisa membantu menyusun botol bumbu supaya sudut dapur terlihat lebih rapi."*
 
 ---
 
-# Bagian 10
-## Cek Kesesuaian dengan Niche
+## Bagian 10 — Harga, Kesesuaian Niche, dan Kapasitas Produksi
 
-Niche kamu:
+**Apakah harga masuk akal bagi calon pembeli?** [ ] Ya [ ] Mungkin [ ] Terlalu tinggi [ ] Belum dapat dinilai
 
-............................................................................
+**Alasan pembeli merasa layak, dan alasan mereka mungkin batal beli** (masing-masing 2-3): ...
 
-Apakah produk ini nyambung dengan niche kamu?
+**Hubungan produk dengan niche akun** — apakah audiens akan merasa relevan? [ ] Sangat jelas [ ] Cukup jelas [ ] Perlu konteks tambahan [ ] Terasa dipaksakan
 
-[ ] Sangat nyambung
+**Kesesuaian dengan kapasitas produksimu:** dapat direkam dengan alat yang tersedia, tidak butuh lokasi khusus, tidak butuh demonstrasi berbahaya, dapat dibuat tanpa wajah, produk fisik tersedia atau bisa diperoleh dengan sehat.
 
-[ ] Cukup nyambung
-
-[ ] Kurang nyambung
-
-[ ] Tidak nyambung
-
-Kalau produk ini dipromosikan, apakah audiens niche kamu akan merasa relevan?
-
-[ ] Ya
-
-[ ] Mungkin
-
-[ ] Tidak yakin
-
-[ ] Tidak
-
-Kenapa produk ini cocok dengan niche kamu?
-
-............................................................................
-
-............................................................................
-
-Kalau kurang cocok, apa risikonya?
-
-............................................................................
-
-............................................................................
-
-Catatan:
-
-Untuk pemula, lebih baik menguji beberapa produk yang masih satu arah niche.
-
-Ini membantu kamu membaca pola dengan lebih jelas.
+**Apakah sampel perlu dibeli?** [ ] Ya, karena butuh demonstrasi nyata [ ] Tidak, pakai yang sudah tersedia [ ] Belum, konten awal bisa edukasi [ ] Produk tidak layak dibeli — **batas anggaran:** ...
 
 ---
 
-# Bagian 11
-## Cek Ketersediaan dan Detail Produk
+## Bagian 11 — Potensi Konten dan Bahasa Pembeli
 
-Apakah stok produk terlihat tersedia?
+**Format yang bisa dibuat:** problem-solution, demonstrasi, tutorial, checklist sebelum beli, cocok/tidak cocok, keterbatasan, perbandingan adil, tanya jawab, before-after jujur.
 
-[ ] Ya
+**Lima ide awal:**
 
-[ ] Tidak
+| No. | Angle | Calon Pembeli | Bukti yang Dibutuhkan |
+|---:|---|---|---|
+| 1-5 |  |  |  |
 
-[ ] Tidak yakin
+**Apakah produk punya cukup bahan?** [ ] Lebih dari 5 angle [ ] Cukup 3-5 angle [ ] Sangat terbatas [ ] Hanya menarik lewat klaim berlebihan — *(kalau opsi terakhir, produk sebaiknya tidak digunakan)*
 
-Apakah variasi produk jelas?
-
-[ ] Ya
-
-[ ] Tidak
-
-[ ] Tidak yakin
-
-Apakah ukuran produk jelas?
-
-[ ] Ya
-
-[ ] Tidak
-
-[ ] Tidak yakin
-
-Apakah bahan atau spesifikasi utama jelas?
-
-[ ] Ya
-
-[ ] Tidak
-
-[ ] Tidak yakin
-
-Apakah foto produk cukup jelas?
-
-[ ] Ya
-
-[ ] Tidak
-
-[ ] Tidak yakin
-
-Apakah deskripsi produk cukup membantu?
-
-[ ] Ya
-
-[ ] Tidak
-
-[ ] Tidak yakin
-
-Hal yang perlu dicek pembeli sebelum membeli:
-
-1. ..........................................................................
-
-2. ..........................................................................
-
-3. ..........................................................................
-
-Contoh CTA aman:
-
-"Cek ukuran dan detail produknya dulu sebelum beli."
-
-"Lihat review dan varian yang tersedia di keranjang."
-
-"Pastikan produknya sesuai kebutuhanmu."
-
-CTA untuk produk ini:
-
-............................................................................
-
-............................................................................
+**Cari dari komentar/ulasan/pencarian — pertanyaan yang sering muncul (5), kata yang dipakai pembeli (5):** ... Jangan menyalin cerita pribadi pembeli dan mengakuinya sebagai pengalamanmu.
 
 ---
 
-# Bagian 12
-## Analisis Komentar dan Pertanyaan
+## Bagian 12 — Skor Kelayakan (Tahap 2)
 
-Cari komentar dari video produk sejenis atau review pembeli.
+Isi hanya kalau Bagian 8 sudah "lanjut ke penilaian". Skor 1 (sangat lemah) sampai 5 (sangat kuat).
 
-Pertanyaan yang sering muncul:
+| Kriteria | Skor |
+|---|---:|
+| Masalah & calon pembeli jelas |  |
+| Fungsi & manfaat mudah dijelaskan proporsional |  |
+| Spesifikasi cukup jelas |  |
+| Kualitas, ulasan, dan penjual cukup layak |  |
+| Harga sesuai calon pembeli |  |
+| Cocok dengan niche & kapasitas produksi |  |
+| Visual/demonstrasi mudah dibuat |  |
+| Tersedia minimal 3-5 angle konten |  |
+| Risiko klaim dapat dikelola |  |
+| Produk & tautan bisa dipastikan sesuai |  |
+| **Total** | **... / 50** |
 
-1. ..........................................................................
+**Interpretasi:** 40–50 cukup kuat untuk diuji · 30–39 bisa diuji, cek bagian lemah dulu · 20–29 perlu dipertimbangkan ulang · di bawah 20 sebaiknya cari produk lain.
 
-2. ..........................................................................
-
-3. ..........................................................................
-
-4. ..........................................................................
-
-5. ..........................................................................
-
-Keraguan pembeli yang terlihat:
-
-1. ..........................................................................
-
-2. ..........................................................................
-
-3. ..........................................................................
-
-Kata-kata pembeli yang bisa dipakai untuk konten:
-
-1. ..........................................................................
-
-2. ..........................................................................
-
-3. ..........................................................................
-
-Ide konten dari komentar:
-
-1. ..........................................................................
-
-2. ..........................................................................
-
-3. ..........................................................................
-
-Catatan:
-
-Komentar adalah sumber ide konten yang sangat berharga.
-
-Kalau banyak orang menanyakan hal yang sama, itu bisa menjadi bahan video berikutnya.
+*Skor tidak berlaku kalau ada red flag berat dari Bagian 8 — jangan biarkan angka tinggi mengalahkan risiko nyata.*
 
 ---
 
-# Bagian 13
-## Skor Produk
+## Bagian 13 — Keputusan Produk
 
-Beri skor 1–5 untuk setiap poin.
+- [ ] **Uji Sekarang** — layak, info utama tersedia
+- [ ] **Uji Terbatas** — layak untuk beberapa konten dengan batasan
+- [ ] **Tunda** — masih butuh verifikasi
+- [ ] **Bandingkan Penjual Lain** — produknya menarik, listing ini lemah
+- [ ] **Simpan sebagai Cadangan** — layak, tapi bukan prioritas
+- [ ] **Hindari** — risikonya lebih besar dari manfaatnya
 
-1 = lemah
-5 = sangat kuat
-
-1. Masalah pembeli jelas:
-Skor: ..........
-
-2. Manfaat produk mudah dijelaskan:
-Skor: ..........
-
-3. Visual produk mudah dibuat konten:
-Skor: ..........
-
-4. Harga masuk akal untuk target pembeli:
-Skor: ..........
-
-5. Rating dan review cukup baik:
-Skor: ..........
-
-6. Produk cocok dengan niche:
-Skor: ..........
-
-7. Risiko klaim berlebihan rendah:
-Skor: ..........
-
-8. Produk bisa dibuat minimal 3–5 ide konten:
-Skor: ..........
-
-9. Produk cukup mudah dipahami pemula:
-Skor: ..........
-
-10. Trust produk cukup baik:
-Skor: ..........
-
-Total skor:
-
-......../50
-
-Interpretasi sederhana:
-
-40–50:
-Produk cukup kuat untuk diuji.
-
-30–39:
-Produk bisa diuji, tapi cek bagian yang masih lemah.
-
-20–29:
-Produk perlu dipertimbangkan ulang.
-
-Di bawah 20:
-Sebaiknya cari produk lain dulu.
-
-Catatan:
-
-Skor ini bukan jaminan produk akan berhasil.
-
-Skor ini hanya alat bantu untuk mengurangi keputusan yang terlalu asal.
+**Alasan, bagian paling kuat, bagian paling lemah, info yang perlu diperiksa ulang, dan tanggal pemeriksaan ulang:** ...
 
 ---
 
-# Bagian 14
-## Keputusan Akhir
+## Bagian 14 — Rencana Uji dan Batas Penghentian
 
-Setelah mengisi template, pilih keputusan.
+Ini bukan janji produk akan berhasil — hanya batas eksperimen.
 
-[ ] Produk ini layak diuji sebagai produk utama.
+**Durasi uji:** [ ] 7 hari [ ] 14 hari [ ] Berdasarkan jumlah konten — **jumlah konten awal:** [ ] 3 [ ] 5 [ ] lainnya: ...
 
-[ ] Produk ini layak diuji nanti, tapi bukan prioritas pertama.
+**Tiga angle utama & tujuan uji** (menilai relevansi masalah / kemudahan penjelasan / klik produk / mengumpulkan pertanyaan): ...
 
-[ ] Produk ini perlu riset tambahan.
-
-[ ] Produk ini sebaiknya dihindari dulu.
-
-Alasan keputusan:
-
-............................................................................
-
-............................................................................
-
-Produk ini akan diuji selama:
-
-[ ] 7 hari
-
-[ ] 14 hari
-
-[ ] 30 hari
-
-[ ] Belum diputuskan
-
-Target konten awal:
-
-[ ] 3 konten
-
-[ ] 5 konten
-
-[ ] 10 konten
-
-[ ] Lainnya: ............................................................
-
-Angle utama yang akan diuji:
-
-1. ..........................................................................
-
-2. ..........................................................................
-
-3. ..........................................................................
+**Saya akan menghentikan promosi produk ini kalau:** kualitas memburuk, muncul keluhan serius, produk berbeda dari konten, stok/penjual bermasalah, klaim tidak bisa dijelaskan dengan aman, atau biaya jadi terlalu tinggi.
 
 ---
 
-# Bagian 15
-## Rencana Konten dari Produk Ini
+## Bagian 15 — Rencana Konten Awal
 
-Gunakan produk ini untuk membuat rencana konten awal.
+**Identitas:** produk, calon pembeli, masalah utama, manfaat utama, batasan utama.
 
-Produk:
-
-............................................................................
-
-Target pembeli:
-
-............................................................................
-
-Masalah utama:
-
-............................................................................
-
-Manfaat utama:
-
-............................................................................
-
-Ide konten 1:
-Format:
-Hook:
-CTA:
-
-............................................................................
-
-............................................................................
-
-Ide konten 2:
-Format:
-Hook:
-CTA:
-
-............................................................................
-
-............................................................................
-
-Ide konten 3:
-Format:
-Hook:
-CTA:
-
-............................................................................
-
-............................................................................
-
-Ide konten 4:
-Format:
-Hook:
-CTA:
-
-............................................................................
-
-............................................................................
-
-Ide konten 5:
-Format:
-Hook:
-CTA:
-
-............................................................................
-
-............................................................................
+Untuk 3 konten pertama, isi masing-masing: **tujuan, angle, hook, bukti visual, CTA.**
 
 ---
 
-# Contoh Pengisian Singkat
+## Contoh Pengisian Ringkas
 
-Produk:
-rak bumbu
+**Produk:** rak bumbu bertingkat · **Niche:** solusi dapur kecil · **Calon pembeli:** ruang meja terbatas, beberapa botol bumbu kecil · **Masalah:** botol tersebar, memenuhi permukaan meja · **Manfaat proporsional:** membantu mengelompokkan botol kecil agar lebih mudah dilihat dan dijangkau · **Keterbatasan:** botol tinggi belum tentu muat, kapasitas perlu diperiksa · **Red flag:** tidak ditemukan pada pemeriksaan awal.
 
-Niche:
-perlengkapan dapur
+**Ide konten:** cara mengukur ruang sebelum beli, botol seperti apa yang muat, before-after dengan kondisi sebanding, 3 hal yang perlu diperiksa sebelum beli, cocok dan kurang cocok untuk siapa.
 
-Masalah:
-botol bumbu sering berantakan dan meja dapur terasa penuh
+**CTA:** *"Periksa ukuran rak dan botol yang kamu gunakan sebelum memilih variasi."*
 
-Calon pembeli:
-orang yang punya dapur kecil, ibu rumah tangga, anak kos
-
-Manfaat:
-membantu menyusun botol bumbu agar lebih rapi dan mudah dicari
-
-Visual:
-mudah dibuat before-after
-
-Risiko:
-perlu cek ukuran rak dan ukuran botol bumbu
-
-CTA:
-"Cek ukuran dan detail raknya dulu sebelum beli."
-
-Ide konten:
-1. Dapur kecil tapi botol bumbu sering berantakan?
-2. Before-after sudut dapur setelah ditata
-3. 3 hal yang perlu dicek sebelum beli rak bumbu
-4. Cara menyusun botol bumbu supaya lebih mudah dicari
-5. Review jujur: cocok untuk botol kecil, cek ukuran dulu
-
-Keputusan:
-layak diuji
+**Keputusan:** uji terbatas melalui tiga konten awal.
 
 ---
 
-# Checklist Cepat Riset Produk
+## Checklist Cepat Riset Produk
 
-Gunakan bagian ini kalau kamu ingin versi ringkas.
-
-[ ] Produk nyambung dengan niche saya.
-
-[ ] Masalah pembelinya jelas.
-
-[ ] Manfaatnya mudah dijelaskan.
-
-[ ] Produknya mudah ditampilkan secara visual.
-
-[ ] Harganya masuk akal untuk target pembeli.
-
-[ ] Rating dan review cukup baik.
-
-[ ] Tidak banyak red flag dari pembeli.
-
-[ ] Klaim produk tidak terlalu berisiko.
-
-[ ] Saya bisa membuat minimal 3 ide konten.
-
-[ ] Saya bisa menjelaskan produk tanpa berlebihan.
-
-[ ] Produk tidak membuat saya harus membuat review palsu.
-
-[ ] Produk ini layak diuji selama beberapa konten sebelum dinilai.
+Produk sesuai niche · calon pembeli jelas · masalah nyata dan relevan · manfaat bisa dijelaskan tanpa klaim besar · spesifikasi utama tersedia · rating & ulasan layak · penjual cukup dipercaya · **tidak ada red flag berat** · harga sesuai calon pembeli · bisa direkam dengan alat yang tersedia · tersedia minimal 3-5 angle · bisa dipromosikan tanpa pengalaman palsu · produk dalam konten sesuai tautan · sudah punya batas waktu & jumlah konten uji · sudah tahu kondisi untuk menghentikan promosi.
 
 ---
 
-# Penutup Template Riset Produk
+## Ringkasan Keputusan
 
-Riset produk bukan mencari produk yang pasti berhasil.
+**Produk:** ... **Status:** [ ] Hijau — layak diuji [ ] Kuning — perlu verifikasi [ ] Merah — hindari · **Skor:** .../50 · **Red flag:** ... · **Keputusan & tindakan berikutnya:** ...
 
-Tidak ada produk yang bisa menjamin hasil.
+**Bonus yang dibuka setelah ini:** [ ] Bonus 3 — Template Persona Pembeli [ ] Bonus 4 — Prompt AI Pack [ ] Bonus 6 — Budget Tools Map [ ] Bonus 7 — Content Calendar [ ] Bonus 12 — Mini Guide Etika Affiliate
 
-Riset produk adalah cara memilih langkah awal yang lebih masuk akal.
+---
 
-Dengan template ini, kamu tidak hanya bertanya:
+## Penutup Template
 
-"Produk ini viral atau tidak?"
+Riset produk bukan proses mencari barang yang dijamin berhasil — ini cara mengurangi keputusan yang terlalu impulsif.
 
-Tapi juga:
+Dengan template ini, kamu tidak hanya bertanya *"apakah produk ini viral?"* — kamu juga bertanya apakah produknya cukup layak, apakah penjualnya bisa dipercaya, apakah manfaatnya bisa dijelaskan dengan jujur, apakah risikonya bisa dikelola, dan kapan kamu harus berhenti mempromosikannya.
 
-"Produk ini membantu siapa?"
-"Masalah apa yang diselesaikan?"
-"Apakah produknya layak?"
-"Apakah bisa dibuat konten?"
-"Apakah aman dipromosikan?"
-"Apakah cocok dengan niche saya?"
+Produk yang baik untuk diuji bukan selalu produk dengan angka paling besar. Sering kali, produk yang lebih masuk akal adalah yang cukup jelas, cukup layak, dan tidak memaksamu menyesatkan audiens.
 
-Kalau kamu bisa menjawab pertanyaan itu, kamu sudah lebih siap membuat konten.
-
-Bukan dengan tebak-tebakan.
-
-Tapi dengan arah yang lebih jelas.
+Pilih dengan hati-hati. Uji dalam batas yang realistis. Catat hasilnya. Lalu biarkan data dan pengalaman membantumu menentukan langkah berikutnya.
