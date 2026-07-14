@@ -1,0 +1,84 @@
+# Bonus 5
+## AI Video Affiliate Prompt Pack
+
+Bonus ini membantumu memakai AI untuk menyusun **konsep visual, storyboard, dan shot list** — bukan untuk menciptakan bukti produk yang sebenarnya tidak ada.
+
+Ini bagian paling perlu kehati-hatian dari seluruh Starter Kit. AI visual sangat bagus untuk membantu perencanaan (sketsa adegan, ide angle, ilustrasi pendukung), tapi berbahaya kalau dipakai untuk membuat sesuatu terlihat nyata padahal tidak pernah terjadi — demonstrasi yang tidak pernah kamu lakukan, before-after yang direkayasa, atau orang yang seolah memakai produk padahal itu hasil AI.
+
+Aturan yang berlaku di sini sama dengan yang sudah kita bahas di Modul 7 — hanya lebih ketat, karena bonus ini secara khusus soal visual.
+
+---
+
+## Aman vs Berisiko Tinggi: Wajib Dibaca Dulu
+
+**Relatif aman digunakan AI:** storyboard/sketsa posisi kamera, ikon dan elemen dekoratif yang jelas terlihat sebagai ilustrasi (bukan produk asli), latar belakang nonproduk, papan alur cerita untuk perencanaan sebelum syuting, musik/SFX dari sumber berlisensi komersial resmi.
+
+**Berisiko tinggi, hindari:** foto atau video produk yang dibuat terlihat realistis padahal produknya belum ada di tanganmu, demonstrasi penggunaan yang sebenarnya tidak pernah dilakukan, before-after yang direkayasa AI, avatar/model AI yang seolah memakai atau mendukung produk, suara yang meniru testimoni orang lain, dan wajah/identitas tokoh publik yang dibuat seolah mendukung produk.
+
+**Prinsip sederhana:** kalau hasil AI-nya akan membuat penonton salah paham bahwa itu adalah kejadian atau produk nyata, jangan dipakai. AI boleh membantu kamu *merencanakan* visual — bukan menggantikan bukti yang belum kamu punya.
+
+---
+
+## Context Pack untuk Visual
+
+Sama seperti Bonus 4, isi sekali lalu pakai berulang.
+
+**Produk, niche, fakta yang sudah diperiksa (ukuran/bahan/warna/fungsi), bukti visual yang sudah tersedia (foto/video asli), bukti visual yang belum tersedia, gaya visual yang diinginkan (santai/rapi/minimalis), format (dengan wajah/tanpa wajah/tangan saja).**
+
+### Contoh Terisi
+
+**Produk:** rak bumbu bertingkat · **Fakta:** 3 tingkat, tinggi 40cm, besi · **Bukti visual tersedia:** foto rak kosong, video tangan menyusun botol · **Bukti belum tersedia:** kondisi dapur "before" yang benar-benar berantakan (akan direkam nanti, bukan dibuat AI) · **Gaya:** santai, natural, pencahayaan alami · **Format:** tanpa wajah, fokus tangan dan produk.
+
+---
+
+## Prompt Perencanaan Visual
+
+**Storyboard** — *"Berdasarkan Context Pack berikut [tempel], buatkan storyboard sederhana untuk video [15/30] detik: nomor adegan, deskripsi visual, tujuan tiap adegan, estimasi durasi. Ini untuk perencanaan sebelum syuting — bukan untuk menghasilkan visual final produk."*
+
+**Ide angle visual** — *"Buatkan 10 ide angle visual untuk mendemonstrasikan produk ini, yang bisa direkam langsung dengan HP di rumah — bukan hasil AI. Fokus pada cara menunjukkan masalah, cara pakai, dan hasil secara jujur."*
+
+**Shot list dari skrip** — *"Ubah skrip berikut [tempel] jadi shot list: nomor shot, visual, teks/voice-over, tujuan, catatan pengambilan gambar (pencahayaan, jarak kamera, properti). Semua shot ini akan direkam sendiri, bukan dibuat AI."*
+
+**Referensi komposisi** — *"Berikan 5 referensi komposisi visual (framing, sudut kamera, jarak) yang cocok untuk video produk kecil di atas meja, dengan pencahayaan alami dari jendela."*
+
+---
+
+## Prompt untuk Elemen Pendukung (Bukan Produk)
+
+Elemen ini boleh dibuat AI karena bukan bukti produk itu sendiri.
+
+**Ikon/elemen teks** — *"Buatkan deskripsi ikon sederhana untuk menandai poin-poin: 'cek ukuran', 'cek bahan', 'cek harga' — gaya flat, minimalis, tidak menyerupai produk asli manapun."*
+
+**Latar belakang dekoratif** — *"Buatkan deskripsi latar belakang polos/dekoratif bertema dapur untuk teks overlay, tanpa menampilkan produk atau merek apa pun."*
+
+**Musik/SFX** — jangan gunakan AI untuk "meniru" lagu populer atau menghasilkan audio yang menyerupai karya berhak cipta. Gunakan musik dari perpustakaan resmi platform atau sumber berlisensi komersial. Untuk pengecekan lisensi musik, lihat kembali Modul 4 dan Modul 6.
+
+---
+
+## Prompt Audit Sebelum Memakai Hasil AI Visual
+
+Selalu jalankan audit ini sebelum memakai hasil AI apa pun ke dalam kontenmu.
+
+*"Periksa deskripsi/hasil visual berikut [tempel atau jelaskan]. Apakah ini berpotensi membuat penonton mengira ini rekaman nyata dari produk asli? Apakah ada demonstrasi yang terlihat seperti benar-benar terjadi padahal dibuat AI? Apakah ada wajah, suara, atau identitas orang yang dipakai tanpa izin? Beri status hijau (aman, murni ilustrasi/perencanaan) / kuning (perlu label AI dan konteks tambahan) / merah (jangan dipakai, berisiko menyesatkan)."*
+
+Kalau hasilnya kuning atau merah, jangan diteruskan ke publikasi tanpa perbaikan — baik dengan menambah label yang jelas, mengganti dengan rekaman asli, atau tidak memakainya sama sekali.
+
+---
+
+## Kapan Perlu Label Konten AI
+
+Kalau elemen AI dalam videomu cukup realistis sehingga penonton berpotensi mengira itu nyata — gunakan fitur label AI sesuai ketentuan platform yang berlaku. Ingat dari Modul 12: **label AI dan disclosure komersial adalah dua hal berbeda.** Konten promosi yang memakai elemen AI realistis bisa saja butuh keduanya sekaligus.
+
+---
+
+## Checklist Sebelum Memakai Visual AI
+
+Visual ini murni perencanaan/ilustrasi, bukan bukti produk · tidak ada demonstrasi palsu · tidak ada before-after direkayasa · tidak ada wajah/suara orang lain tanpa izin · tidak ada identitas tokoh publik dipakai tanpa izin · musik/SFX dari sumber berlisensi · label AI sudah dipertimbangkan kalau relevan · bukti produk asli (foto/video nyata) tetap jadi inti konten, AI hanya membantu merencanakan.
+
+---
+
+## Penutup
+
+AI video bisa jadi alat bantu yang bagus untuk merencanakan — bukan untuk menciptakan bukti yang belum kamu punya. Batasnya sederhana: kalau hasilnya berpotensi membuat orang percaya sesuatu terjadi padahal tidak, jangan dipakai.
+
+Pakai AI untuk berpikir lebih cepat soal komposisi, alur, dan ide visual. Tapi biarkan kamera, tanganmu, dan produk aslinya yang jadi bukti sebenarnya di depan penonton.
