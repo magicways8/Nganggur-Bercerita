@@ -1,7 +1,7 @@
 # DOKUMEN KONSEP COVER  
 ## Affiliate TikTok dari Nol — Edisi 2026
 
-**Versi:** 1.1  
+**Versi:** 1.2  
 **Status:** Siap disounding ke Chatroom PDF  
 **Project:** 📚 - 01 Affiliate TikTok dari Nol Project  
 **Induk aktif:** Nganggur Bercerita  
@@ -13,6 +13,7 @@
 
 - **v1.0:** Draft awal brief cover.
 - **v1.1:** Penambahan spesifikasi teknis produksi (Bagian 21), gerbang approval eksplisit (Bagian 22), arahan orisinalitas elemen visual (Bagian 23), dan catatan koordinasi soal identitas foto Reza di halaman dalam (Bagian 24) — sebagai isu terbuka yang perlu klarifikasi Reza, bukan keputusan yang sudah dikunci.
+- **v1.2 (13 Juli 2026):** Override arah "tanpa figur manusia" (Bagian 7) atas keputusan eksplisit Reza — cover kini menggunakan figur maskot "Pria Sarung Hijau" (spesifikasi lengkap di Character Reference Sheet v0.2, chatroom PDF). Menjawab isu terbuka Bagian 24: figur hanya di cover, tidak di halaman dalam.
 
 ---
 
@@ -136,7 +137,16 @@ Pendekatan visual:
 - visual digital creator yang halus;
 - minim clutter.
 
-Cover utama disarankan **tanpa figur manusia** agar lebih konsisten, premium, mudah dikembangkan sebagai sistem desain produk, dan tidak terlihat seperti template generik.
+Cover utama **menggunakan figur maskot** (pria berkaos polo hijau, sarung kotak-kotak hijau) sebagai elemen human-centric yang menghubungkan produk ini dengan identitas visual Cuan Modal Kuota, sekaligus membangun konsistensi maskot lintas produk Nganggur Bercerita ke depan.
+
+**Spesifikasi maskot** (mengacu ke Character Reference Sheet v0.2, chatroom PDF):
+
+- **Outfit tetap:** kaos polo hijau (medium green) + sarung kotak-kotak hijau, barefoot.
+- **Wajah:** rambut hitam pendek disisir rapi, kumis tipis tanpa jenggot.
+- **Gaya render:** cutout, dikomposisikan dengan latar custom (bukan background putih polos, bukan foto lokasi asli).
+- **Pose untuk produk ini — "Live TikTok Affiliate":** duduk bersila condong ke depan, memegang produk kecil tanpa merek, tangan lain gestur menjelaskan, ada tripod mini + ring light dengan HP menghadap ke arah pria (layar tanpa detail UI, tidak ada teks "LIVE").
+
+Prompt lengkap siap pakai ada di Bagian 6 Character Reference Sheet v0.2 — minta file itu ke Reza jika belum tersedia di chatroom ini.
 
 ---
 
@@ -289,6 +299,10 @@ Subtitle dalam blok yang mudah dibaca.
 - Badge: **PDF Workbook + Starter Kit**
 - Tagline: **Bukan janji cepat kaya. Ini peta mulai yang lebih jelas.**
 
+### Area figur maskot
+
+Posisi disarankan: **sisi kanan atau bawah cover**, tidak menutupi judul — sesuai prinsip hierarki visual Bagian 6 (judul tetap paling dominan). Figur maskot berfungsi sebagai elemen human-centric pendukung, bukan elemen yang bersaing dengan tipografi judul.
+
 Elemen visual dapat mengisi sisi kanan, sudut bawah, atau menjadi lapisan belakang yang tidak mengganggu keterbacaan.
 
 ---
@@ -431,7 +445,10 @@ Cover harus terasa:
 - Label produsen
 - Induk brand Nganggur Bercerita
 - Larangan klaim hasil instan
-- Arah utama Clean Premium Workbook
+
+### Direvisi
+
+- **Arah utama Clean Premium Workbook** — semula dikunci sebagai "tanpa figur manusia" (v1.0–v1.1), direvisi di v1.2 menjadi **"Clean Premium Workbook dengan figur maskot"** atas keputusan eksplisit Reza. Riwayat keputusan lama tetap didokumentasikan di Riwayat Revisi, bukan dihapus, sesuai Blueprint Induk Bagian 17.
 
 ### Masih dapat dieksplorasi di Chatroom PDF
 
@@ -491,16 +508,11 @@ Selaras dengan Blueprint Induk Bagian 13 (larangan menyalin materi pihak ketiga 
 
 ---
 
-## 24. Isu Terbuka: Identitas Foto Reza di Halaman Dalam
+## 24. Isu Terbuka: Identitas Foto Reza di Halaman Dalam — Terjawab
 
-Blueprint Induk Bagian 5.2 menetapkan foto Reza (AI-smoothed) sebagai avatar lintas platform dalam sistem identitas visual studio. Dokumen ini merekomendasikan cover **tanpa figur manusia** (Bagian 7).
+Blueprint Induk Bagian 5.2 menetapkan foto Reza (AI-smoothed) sebagai avatar lintas platform dalam sistem identitas visual studio. Dokumen ini sebelumnya (v1.0–v1.1) merekomendasikan cover tanpa figur manusia sama sekali, sehingga muncul pertanyaan terbuka soal konsistensi dengan halaman dalam.
 
-Ini bukan kontradiksi otomatis — cover produk dan avatar profil adalah konteks berbeda — tapi dokumen ini belum menjawab:
-
-- Apakah foto Reza tetap muncul di halaman "Tentang Nganggur Bercerita" di bagian akhir PDF (sesuai Blueprint Induk Bagian 5.1)?
-- Apakah produk ini dimaksudkan tanpa foto dari cover sampai isi, sebagai pendekatan yang konsisten?
-
-**Status:** belum diputuskan di dokumen ini. Perlu klarifikasi Reza sebelum Chatroom PDF mengerjakan halaman "Tentang Nganggur Bercerita", supaya tidak ada revisi bolak-balik akibat asumsi yang salah.
+**Terjawab (13 Juli 2026):** Figur maskot hanya muncul di cover. Halaman "Tentang Nganggur Bercerita" dan seluruh halaman isi tetap tanpa foto/figur manusia.
 
 ---
 
