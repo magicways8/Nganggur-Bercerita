@@ -1,0 +1,211 @@
+# Daftar Isi & Roadmap Belajar
+
+Workbook ini disusun secara bertahap agar kamu tidak perlu menebak-nebak harus mulai dari mana.
+
+Kamu tidak harus membaca seluruh isinya dalam satu waktu. Lebih baik memahami satu bagian, mengerjakan latihannya, lalu mencoba langkah kecil sebelum berpindah ke bagian berikutnya.
+
+Tujuan workbook ini bukan membuatmu merasa sudah mengetahui banyak hal. Tujuannya adalah membantu kamu memahami fondasi TikTok Affiliate, menentukan arah awal, mencoba praktik secara terstruktur, membaca respons dan data, serta memperbaiki proses dengan lebih tenang.
+
+Roadmap di halaman ini adalah panduan, bukan tenggat wajib. Sesuaikan dengan waktu, kondisi akun, akses fitur, dan ritme belajarmu sendiri.
+
+---
+
+# Bagian Awal
+
+Sebelum masuk ke modul utama, kamu akan menemukan beberapa halaman pengantar:
+
+1. Catatan Penting Sebelum Memulai
+2. Pengantar dari Nganggur Bercerita
+3. Bagian Pembuka
+4. Apa yang Kamu Dapat di Workbook Ini
+5. Daftar Isi & Roadmap Belajar
+
+Bagian ini menyamakan ekspektasi, menjelaskan cara menggunakan workbook, dan mengingatkan batasan hasil sebelum kamu mulai praktik. Jangan terburu-buru melewatinya — fondasi yang jelas membuat materi berikutnya lebih mudah dipahami.
+
+---
+
+# Bagian I — Memahami Fondasi
+
+## Modul 1
+### Memahami TikTok Affiliate dengan Cara Sederhana
+
+Kamu akan memahami apa itu TikTok Affiliate, siapa saja pihak yang terlibat (kreator, penjual, produk, platform, pembeli), bagaimana komisi dapat terbentuk, dan mengapa pendekatan pada 2026 tidak dapat disamakan begitu saja dengan cara lama.
+
+Modul ini fondasi awal — jangan langsung melompat ke strategi konten sebelum memahami sistem dasarnya.
+
+## Modul 2
+### Mindset Pemula: Mulai Kecil, Jangan Ngawur
+
+Kamu akan membangun cara berpikir yang lebih sehat: mengapa pemula sering berhenti terlalu cepat, mengapa views tinggi belum tentu order, mengapa GMV tidak sama dengan komisi yang diterima, dan mengapa hasil orang lain tidak bisa jadi patokan mutlak.
+
+Modul ini menjaga ekspektasimu agar tidak mudah panik atau terburu-buru mengambil keputusan.
+
+---
+
+# Bagian II — Menentukan Arah
+
+## Modul 3
+### Memilih Niche yang Masuk Akal
+
+Kamu akan belajar apa itu niche, hubungan antara niche-produk-calon pembeli-kemampuan produksi, dan cara menilai beberapa pilihan niche berdasarkan kedekatan dan peluang.
+
+Tujuannya bukan niche yang sempurna — cukup arah awal yang masuk akal untuk diuji.
+
+## Modul 4
+### Riset Produk dan Strategi Modal Konten
+
+Kamu akan belajar riset produk sederhana, faktor yang perlu diperiksa sebelum mempromosikan produk, red flag yang perlu diwaspadai, dan strategi ketika belum punya produk sendiri.
+
+Modul ini juga menyediakan arahan ringkas bagi kamu yang sudah pernah mencoba TikTok Affiliate sebelumnya.
+
+Tujuannya supaya kamu tidak memilih produk hanya karena viral atau komisinya terlihat besar.
+
+## Modul 5
+### Memahami Calon Pembeli
+
+Kamu akan belajar melihat produk dari sudut pandang calon pembeli — masalah, kebutuhan, keraguan, dan alasan mereka membeli atau tidak — lalu mengubah fitur produk menjadi manfaat yang lebih terasa.
+
+Modul ini membuat kontenmu terasa lebih nyambung dengan orang yang menontonnya.
+
+---
+
+# Bagian III — Membuat Konten dengan Bantuan yang Tepat
+
+## Modul 6
+### Konten Original Tanpa Harus Sempurna
+
+Kamu akan belajar struktur konten sederhana, cara membuat hook dan demonstrasi, cara membuat konten tanpa tampil wajah, dan cara menjelaskan produk tanpa menyesatkan calon pembeli.
+
+Konten orisinal tidak harus rumit atau mahal — yang penting dibuat dari sudut pandangmu sendiri dan membantu audiens memahami produk.
+
+## Modul 7
+### Bantuan AI untuk Ide, Skrip, Caption, dan Video
+
+Kamu akan belajar meminta ide ke AI, menyusun hook/skrip/caption/CTA/shot list, mengedit hasil AI agar terasa natural, dan batas penggunaannya.
+
+AI diposisikan sebagai teman berpikir dan alat bantu kerja — bukan pengganti pemahaman produk, kreativitas, atau tanggung jawabmu terhadap konten yang diterbitkan.
+
+---
+
+# Bagian IV — Mengubah Materi Menjadi Praktik
+
+## Modul 8
+### Sprint Praktik 7 Hari
+
+Kamu akan menjalankan praktik terarah selama tujuh hari: menentukan arah, memilih produk, menyusun ide, menulis skrip, memproduksi, mengunggah sesuai kesiapan, mencatat respons, dan evaluasi ringan.
+
+Sprint ini bukan tantangan mengejar order dalam tujuh hari — tujuannya membangun pengalaman praktik pertama secara terstruktur. Kalau kamu butuh waktu lebih panjang, tidak masalah; tujuh hari adalah kerangka kegiatan, bukan batas keberhasilan.
+
+> **Sebelum mengunggah konten:** gunakan Catatan Penting dan Mini Guide Etika Affiliate untuk memeriksa kejujuran klaim, disclosure, hak cipta, penggunaan AI, serta kesesuaian visual produk.
+
+---
+
+# Bagian V — Membangun Ritme dan Membaca Respons
+
+## Modul 9
+### Ritme Posting & Sinyal Algoritma untuk Pemula
+
+Kamu akan belajar mengapa algoritma tidak perlu diperlakukan sebagai musuh, sinyal dasar yang bisa diamati dari performa konten, dan cara menentukan ritme posting berdasarkan kemampuanmu sendiri — bukan angka wajib yang sama untuk semua orang.
+
+## Modul 10
+### Membaca Data, Dashboard, dan Istilah TikTok Affiliate Tanpa Panik
+
+Kamu akan mengenal istilah dan metrik seperti views, engagement, klik produk, order, conversion, GMV, dan komisi. Nama menu dan data yang tersedia dapat berbeda di tiap akun — jadi fokus modul ini bukan menghafal dashboard, tapi memahami hubungan antara konten, respons, dan perbaikan yang bisa diuji berikutnya.
+
+Modul ini juga memiliki subbagian khusus:
+
+**Kalau Kamu Sudah Pernah Coba dan Belum Berhasil**
+
+Untuk kamu yang sudah pernah mengunggah konten, pernah dapat views tapi belum ada klik, terlalu sering ganti produk atau niche, atau berhenti karena hasil awal belum terlihat.
+
+Tujuannya bukan menyalahkan usaha sebelumnya — tapi membantu memisahkan mana yang perlu dipertahankan, diperbaiki, diuji ulang, atau dihentikan.
+
+---
+
+# Bagian VI — Memperluas Format dan Menjaga Kepercayaan
+
+## Modul 11
+### Dasar Live Selling untuk Pemula
+
+Kamu akan mengenal apa itu live selling, bagaimana live membantu membangun interaksi, persiapan dasar, format live sederhana, kerangka skrip, dan kemungkinan live tanpa menampilkan wajah.
+
+Live bukan kewajiban bagi semua pembaca — gunakan modul ini sebagai pilihan tambahan saat kamu sudah merasa cukup siap.
+
+## Modul 12
+### Etika Affiliate dan Update Platform
+
+Kamu akan memperdalam disclosure konten komersial, larangan klaim yang tidak bisa dibuktikan, larangan ulasan/testimoni palsu, penghormatan hak cipta, kehati-hatian pada produk sensitif, dan kebiasaan memeriksa sumber resmi saat platform berubah.
+
+Etika bukan pelengkap di akhir workbook — prinsipnya berlaku sejak kamu memilih produk, menulis skrip, sampai berkomunikasi dengan audiens.
+
+---
+
+# Roadmap Belajar yang Disarankan
+
+Boleh dipercepat, diperlambat, atau dibagi ulang sesuai waktu yang kamu punya.
+
+## Fase 1 — Memahami Sistem dan Menata Ekspektasi
+**Rekomendasi waktu: 1–3 hari** · Bagian Awal, Modul 1, Modul 2
+
+Tujuan: memahami cara kerja dasar, mengenali pihak yang terlibat, membangun ekspektasi yang sehat. Jangan buru-buru memilih produk sebelum paham sistem dasarnya.
+
+## Fase 2 — Menentukan Arah Awal
+**Rekomendasi waktu: 2–5 hari** · Modul 3, 4, 5
+
+Tujuan: menentukan beberapa pilihan niche, riset produk, menyusun gambaran calon pembeli. Di akhir fase ini kamu cukup punya satu arah awal dengan alasan jelas untuk diuji — tidak harus sempurna.
+
+## Fase 3 — Menyiapkan Konten
+**Rekomendasi waktu: 2–5 hari** · Modul 6, 7
+
+Tujuan: memahami struktur konten, menyusun ide dan skrip awal, menggunakan AI secara bertanggung jawab. Sebelum mengunggah, periksa kembali fakta produk, klaim, visual, hak cipta, dan disclosure.
+
+## Fase 4 — Menjalankan Sprint Praktik
+**Rekomendasi waktu: 7 hari atau lebih** · Modul 8
+
+Tujuan: mengubah rencana jadi praktik nyata. Sprint tidak harus berakhir dengan order atau komisi — berhasil menyelesaikan riset, membuat skrip, atau mengunggah satu konten juga keberhasilan awal yang layak dicatat.
+
+## Fase 5 — Membangun Ritme dan Mengevaluasi
+**Rekomendasi waktu: setelah praktik pertama** · Modul 9, 10, Tracker Evaluasi
+
+Tujuan: menentukan ritme yang realistis, membaca data yang tersedia, menemukan pola, memilih satu perbaikan untuk percobaan berikutnya. Gunakan data sebagai bahan belajar, bukan alat menghukum diri sendiri.
+
+## Fase 6 — Memperluas dan Menjaga Proses
+**Rekomendasi waktu: sesuai kesiapan** · Modul 11, 12, Live Selling Starter Checklist, Mini Guide Etika Affiliate
+
+Tujuan: mempertimbangkan live sebagai format tambahan, memperkuat etika promosi, membangun kebiasaan memeriksa perubahan platform. Kamu tidak wajib mencoba live — tapi prinsip etika Modul 12 wajib berlaku di semua format konten.
+
+---
+
+# Pilihan Ritme Belajar
+
+**Ritme Santai** — untuk waktu singkat setiap hari. Baca 15–30 menit, satu latihan kecil, praktik 2–3 kali seminggu. Sekitar 3–5 minggu untuk menyelesaikan fondasi dan sprint.
+
+**Ritme Reguler** — untuk waktu belajar beberapa kali seminggu. Satu bagian per hari, latihan setelah membaca, sprint setelah persiapan selesai. Sekitar 2–3 minggu untuk fondasi dan praktik awal.
+
+**Ritme Intensif** — untuk kamu yang sudah punya waktu, produk, dan kesiapan produksi. Beberapa bagian dalam satu hari, tapi tetap kerjakan latihan, jangan lewati riset dan etika. Sekitar 10–14 hari menuju praktik dan evaluasi awal.
+
+Ritme intensif bukan berarti hasil datang lebih cepat — hanya berarti proses belajarnya dilakukan dalam waktu yang lebih padat.
+
+---
+
+# Dua Prinsip Tambahan Saat Evaluasi
+
+Selain cara menggunakan workbook yang sudah dijelaskan di Bagian Pembuka, dua kebiasaan ini akan membuat evaluasimu lebih tajam:
+
+**Catat keputusan dan alasannya, bukan cuma hasilnya.** Apa yang kamu pilih, kenapa kamu memilihnya, apa yang kamu ubah, dan apa yang ingin kamu pelajari dari itu. Catatan seperti ini membuat evaluasi berikutnya jauh lebih berguna dibanding sekadar mencatat angka.
+
+**Ubah satu hal dalam satu waktu.** Saat sebuah konten belum bekerja sesuai harapan, jangan langsung mengganti niche, produk, gaya, hook, dan jadwal sekaligus. Pilih satu bagian untuk diperbaiki dulu, supaya kamu bisa melihat apa yang benar-benar berpengaruh.
+
+---
+
+# Pegangan Utama
+
+Kalau kamu hanya ingin mengingat satu kalimat dari roadmap ini, pegang kalimat berikut:
+
+> TikTok Affiliate bukan sekadar mengunggah video dan menunggu komisi. Ini adalah proses memilih produk, memahami calon pembeli, membuat konten, membaca respons, menjaga kepercayaan, dan memperbaiki langkah secara bertahap.
+
+Tidak perlu mengerjakan semuanya sekaligus.
+
+Pahami fondasinya. Pilih langkah yang paling dekat. Kerjakan. Catat. Lalu perbaiki.
+
+Pelan-pelan saja. Kita mulai dari fondasi.

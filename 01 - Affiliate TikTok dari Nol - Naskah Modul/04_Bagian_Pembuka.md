@@ -1,0 +1,176 @@
+# Affiliate TikTok dari Nol — Edisi 2026
+
+## Halo, Selamat Datang
+
+Kalau kamu membuka workbook ini, mungkin kamu sedang berada di salah satu kondisi berikut:
+
+- ingin mencari tambahan penghasilan dari rumah;
+- sering melihat orang mempromosikan produk di TikTok, tetapi belum memahami cara kerjanya;
+- penasaran dengan TikTok Affiliate;
+- ingin mulai, tetapi bingung harus dari mana;
+- tidak percaya diri tampil di depan kamera;
+- belum memiliki produk sendiri;
+- pernah mencoba, tetapi berhenti karena tidak tahu harus melanjutkan ke mana;
+- atau merasa tertinggal karena orang lain terlihat sudah lebih dahulu berjalan.
+
+Kalau salah satunya terasa dekat dengan kondisimu, tenang. Kamu tidak sendirian.
+
+Banyak pemula memulai dari titik yang sama: penasaran, bingung, ragu, semangat, tetapi juga takut salah langkah.
+
+Workbook ini dibuat untuk menemani titik mulai tersebut, dengan langkah praktik yang rapi dan mudah diikuti.
+
+---
+
+## Kenapa Workbook Ini Dibuat?
+
+Banyak pemula sebenarnya tidak kekurangan informasi. Mereka justru menerima terlalu banyak informasi sekaligus.
+
+Setiap hari ada istilah baru, produk viral baru, pembahasan tentang FYP, GMV, keranjang produk, live, AI, dashboard, algoritma, dan berbagai strategi lainnya. Semakin banyak informasi yang masuk, langkah pertama justru sering terasa semakin membingungkan.
+
+Kalau ada istilah yang belum kamu kenal, tidak masalah — daftar penjelasannya ada di Kamus Istilah Affiliate TikTok.
+
+Workbook ini tidak dibuat untuk memberi jawaban ajaib atas semua persoalan. Workbook ini dibuat untuk membantu menyusun kebingungan tersebut menjadi urutan belajar yang lebih jelas.
+
+---
+
+## Workbook Ini Cocok untuk Siapa?
+
+Workbook ini terutama dibuat untuk kamu yang:
+
+- benar-benar baru mengenal TikTok Affiliate;
+- belum pernah menjalankan affiliate;
+- belum memiliki produk sendiri;
+- ingin belajar dari rumah;
+- belum percaya diri tampil wajah;
+- ingin menggunakan AI sebagai alat bantu;
+- ingin belajar membuat konten orisinal;
+- membutuhkan latihan dan langkah praktik yang terstruktur.
+
+Workbook ini juga dapat digunakan oleh kamu yang pernah mencoba sebelumnya, tetapi:
+
+- belum konsisten;
+- terlalu sering berganti arah;
+- bingung memilih produk;
+- kesulitan membuat konten;
+- berhenti karena hasil awal belum sesuai harapan;
+- atau ingin memulai ulang dengan pendekatan yang lebih rapi.
+
+Kamu tidak harus benar-benar mulai dari nol secara teknis. Kadang yang dibutuhkan bukan akun baru, tetapi cara belajar yang lebih terarah. Kalau ini kondisimu, subbab khusus di Modul 10 membahas cara membaca ulang akun dan konten lama sebelum melangkah lagi.
+
+---
+
+## Apa yang Tidak Ditawarkan Workbook Ini?
+
+Supaya ekspektasi kita sama sejak awal, workbook ini tidak menawarkan:
+
+- jaminan FYP, order, atau komisi;
+- cara cepat kaya;
+- trik manipulatif;
+- cara menyalin konten orang lain;
+- atau cara membuat ulasan/pengalaman palsu.
+
+Aturan lengkap soal ini — termasuk penggunaan AI dan orisinalitas konten — sudah dijelaskan di halaman Catatan Penting sebelumnya. Anggap saja bagian itu sebagai aturan main yang berlaku sepanjang workbook ini, termasuk saat kita masuk ke praktik nanti.
+
+Satu kalimat untuk dipegang sejak awal:
+
+> TikTok Affiliate dapat mulai dipelajari oleh pemula, tetapi tetap membutuhkan proses untuk dijalankan dengan baik.
+
+---
+
+## Cara Kita Akan Belajar
+
+Kita akan berjalan secara bertahap. Kamu akan mulai dari memahami cara kerja TikTok Affiliate, lalu mempelajari:
+
+- pola pikir pemula;
+- niche dan arah konten;
+- riset serta pemilihan produk;
+- calon pembeli;
+- konten orisinal;
+- penggunaan AI;
+- praktik dan ritme produksi;
+- data serta evaluasi;
+- dasar live selling;
+- etika promosi dan perubahan kebijakan platform.
+
+Urutannya dibuat bertahap karena pemula sering tersesat bukan karena tidak mampu, tetapi karena melompat terlalu jauh — belum memahami calon pembeli, sudah sibuk memikirkan algoritma; belum mencoba cukup banyak konten, sudah merasa gagal; belum membaca data, sudah panik karena views kecil.
+
+Workbook ini membantu kamu mengerjakan satu langkah sebelum berpindah ke langkah berikutnya.
+
+---
+
+## Kamu Tidak Perlu Sempurna untuk Mulai
+
+Kalau kamu menunggu semuanya siap — alat lengkap, kemampuan edit, gaya bicara, pengalaman — kamu bisa menunda terlalu lama.
+
+Di workbook ini, kamu hanya diajak memulai dari langkah yang masuk akal:
+
+- satu arah awal;
+- satu produk untuk dipelajari;
+- satu ide konten;
+- satu skrip;
+- satu percobaan;
+- satu catatan evaluasi.
+
+Kecil, tetapi nyata. Proses besar sering dimulai dari satu langkah sederhana yang benar-benar dilakukan.
+
+---
+
+## Cara Menggunakan Workbook Ini
+
+Jangan gunakan workbook ini hanya sebagai bacaan. Cobalah pola berikut:
+
+1. baca satu bagian;
+2. ambil poin pentingnya;
+3. kerjakan latihan kecil;
+4. gunakan template atau prompt yang tersedia;
+5. praktikkan;
+6. catat hasil;
+7. evaluasi;
+8. lalu lanjutkan.
+
+Tidak perlu menyelesaikan semuanya dalam sekali duduk.
+
+Saat bingung menentukan arah, kembali ke bagian niche dan calon pembeli. Saat kesulitan memilih produk, kembali ke bagian riset produk. Saat ide konten buntu, kembali ke bagian konten dan AI. Saat hasil belum jelas, kembali ke bagian data dan evaluasi.
+
+Workbook ini bukan hanya untuk dibaca dari awal sampai akhir — gunakan sebagai pegangan ketika kamu mulai menjalankan praktik.
+
+---
+
+## Apa yang Perlu Kamu Siapkan?
+
+Untuk mulai belajar, kamu tidak membutuhkan perlengkapan yang rumit. Cukup siapkan:
+
+- ponsel;
+- akun TikTok;
+- tempat mencatat;
+- waktu belajar;
+- akses internet;
+- dan kemauan untuk mencoba secara bertahap.
+
+Akses program TikTok Affiliate dapat berbeda menurut wilayah, usia, status akun, dan persyaratan platform. Kalau kamu belum memiliki akses penuh, kamu tetap dapat mempelajari cara memilih produk, memahami calon pembeli, struktur konten, cara menulis skrip, etika promosi, dan cara membaca contoh data — sambil menunggu aksesmu terbuka.
+
+Kalau kamu belum memiliki produk fisik untuk dicoba, kamu tetap bisa berlatih membuat konten berdasarkan informasi produk yang tersedia — selama kamu membedakan dengan jelas antara fakta produk, hasil riset, dugaan, dan pengalaman pribadi. Jangan membuat ulasan seolah-olah kamu sudah memakai produk kalau belum pernah memakainya. Kejujuran kecil seperti ini penting untuk membangun kepercayaan.
+
+---
+
+## Sedikit Pengingat Sebelum Mulai
+
+Dalam perjalanan nanti, kamu mungkin akan menghadapi video yang sepi, kebingungan memilih produk, rasa malu saat mengunggah, atau perasaan bahwa orang lain berkembang lebih cepat.
+
+Hal-hal tersebut wajar.
+
+Sepi tidak selalu berarti gagal — kadang sepi hanya memberikan data awal. Bingung tidak berarti kamu tidak mampu — kadang kamu hanya belum memiliki urutan yang jelas. Takut tidak selalu berarti jalur ini tidak cocok — kadang rasa takut muncul karena kamu belum terbiasa.
+
+Tidak perlu terburu-buru. Fokuslah pada langkah yang dapat kamu kerjakan sekarang.
+
+---
+
+## Kita Mulai dari Sini
+
+Kalau kamu sudah sampai di bagian ini, berarti kamu sudah memiliki niat untuk belajar lebih serius.
+
+Sekarang saatnya berhenti membaca tentang mulai, dan benar-benar mulai.
+
+Di Modul 1, kita akan membahas apa sebenarnya TikTok Affiliate itu — dengan cara yang sederhana, jujur, dan ramah untuk pemula.
+
+Ambil catatanmu. Buka Modul 1. Kita jalan pelan-pelan dari sana.
